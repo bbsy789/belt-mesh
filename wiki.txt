@@ -1,0 +1,19 @@
+// 根据给定圆半径生成一圈节点
+    // std::vector<Point2D> vertixs2D;
+    // CircleMesh circleMesh{r,rNumber};
+    // GenerateCircleMesh(vertixs2D,circleMesh);
+    // std::cout << "2D:\n";
+    // for(auto &i:vertixs2D)
+    // {
+    //     std::cout << "index:" << i.index << "\nx = " << i.x << ",y = " << i.y << "\n";
+    // }
+
+    // 根据给定圆柱参数生成圆柱体节点
+    std::vector<Point3D> vertixs3D;
+    CylinderMesh cylinderMesh{r,rNumber,origin,origin+P,axisNumber};
+    // GenerateCylinderMesh(vertixs3D,cylinderMesh,P);
+    // std::cout << "3D:\n";
+    // for(auto &i:vertixs3D)
+    // {
+    //     std::cout << "index:" << i.index << "\nx = " << i.x << ",y = " << i.y << ",z = " << i.z << "\n";
+    // }
