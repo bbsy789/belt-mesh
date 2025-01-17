@@ -10,4 +10,6 @@ export struct CircleMesh
 	int rNumber; //圆半径划分数量
 };
 
-export void GenerateCircleMesh(std::vector<Point2D>& p_circleMeshVertixs, CircleMesh& p_circleMesh);
+export int GenerateCircleMesh(std::vector<Point2D>& p_circleMeshVertixs
+								, CircleMesh& p_circleMesh,
+								int p_beginIndex = 1);

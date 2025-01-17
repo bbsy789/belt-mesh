@@ -8,3 +8,4 @@ export import :Circle;
 export import :Cylinder;
 export import :ScrewThread;
 export import :Print;
+export import :Inter;

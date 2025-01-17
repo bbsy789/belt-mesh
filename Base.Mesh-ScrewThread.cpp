@@ -11,9 +11,11 @@ module Base.Mesh:ScrewThread;
 import Base.Point;
 import Base.Math;
 
-void Generate90DegreeScrewThreadMesh(std::vector<Point3D>& p_screwThreadMeshVertixs,
-    ScrewThreadMesh& p_screwThreadMesh)
+int Generate90DegreeScrewThreadMesh(std::vector<Point3D>& p_screwThreadMeshVertixs,
+                                     ScrewThreadMesh& p_screwThreadMesh, 
+                                     int p_beginIndex)
 {
+    int Index = p_beginIndex;
     double thetaIni = 0;
     double thetaAdd = 0;
     double theta = 0;
@@ -21,7 +23,7 @@ void Generate90DegreeScrewThreadMesh(std::vector<Point3D>& p_screwThreadMeshVert
     double axisDirInc = p_screwThreadMesh.p / p_screwThreadMesh.axisNumber; // 轴向增量
     double thetaIncrement = 2 * M_PI / p_screwThreadMesh.rNumber; // 极坐标角度增量
     //两层循环生成螺纹网格
-    for (int i = 0; i < p_screwThreadMesh.axisNumber; ++i)
+    for (int i = 0; i <= p_screwThreadMesh.axisNumber; ++i)
     {
         for (int j = 0; j < p_screwThreadMesh.rNumber; ++j)
         {
@@ -54,16 +56,21 @@ void Generate90DegreeScrewThreadMesh(std::vector<Point3D>& p_screwThreadMeshVert
                 << "y:" << (r * sin(thetaIni))
                 << "z:" << (i * axisDirInc)
                 << "\n";*/
-            p_screwThreadMeshVertixs.emplace_back(i * p_screwThreadMesh.rNumber + j + 1,
+            p_screwThreadMeshVertixs.emplace_back(Index,
                 r * cos(thetaIni),
                 r * sin(thetaIni),
                 i * axisDirInc);
+            ++Index;
         }
     }
+    return Index;
 }
 
-void GenerateGBScrewThreadMesh(std::vector<Point3D>& p_screwThreadMeshVertixs, ScrewThreadMesh& p_screwThreadMesh)
+int GenerateGBScrewThreadMesh(std::vector<Point3D>& p_screwThreadMeshVertixs, 
+                               ScrewThreadMesh& p_screwThreadMesh,
+                               int p_beginIndex)
 {
+    int Index = p_beginIndex;
     constexpr double pi = M_PI;
     double thetaIni = 0;
     double thetaAdd = 0;
@@ -89,7 +96,7 @@ void GenerateGBScrewThreadMesh(std::vector<Point3D>& p_screwThreadMeshVertixs, S
     double theta4 = 15.0 / 8.0 * pi;
     //std::cout << "theta4: " << Rad2Deg(theta4) << "\n";
     //两层循环生成螺纹网格
-    for (int i = 0; i < p_screwThreadMesh.axisNumber; ++i)
+    for (int i = 0; i <= p_screwThreadMesh.axisNumber; ++i)
     {
         for (int j = 0; j < p_screwThreadMesh.rNumber; ++j)
         {
@@ -126,15 +133,17 @@ void GenerateGBScrewThreadMesh(std::vector<Point3D>& p_screwThreadMeshVertixs, S
             {
                 r = dDivTwo;
             }
-            //std::cout << "节点序号：" << (i * p_screwThreadMesh.rNumber + j + 1) << "\n"
+            //std::cout << "节点序号：" << (i * p_screwThreadMesh.rNumber + j + p_beginIndex) << "\n"
             //    << "thetaIni: " << Rad2Deg(thetaIni) << "\n"
             //    << "thetaAdd: " << Rad2Deg(thetaAdd) << "\n"
             //    << "theta: " << Rad2Deg(theta) << "\n"
             //    << "r: " << r << "\n";
-            p_screwThreadMeshVertixs.emplace_back(i * p_screwThreadMesh.rNumber + j + 1,
+            p_screwThreadMeshVertixs.emplace_back(Index,
                 r * std::cos(thetaIni),
                 r * std::sin(thetaIni),
                 i * axisDirInc);
+            ++Index;
         }
     }
+    return Index;
 }

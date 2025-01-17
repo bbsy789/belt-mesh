@@ -99,6 +99,12 @@
     <ClCompile Include="Base.Math.cpp">
       <Filter>Source Files\Base.Math</Filter>
     </ClCompile>
+    <ClCompile Include="Base.Mesh-Inter.cpp">
+      <Filter>Source Files\Base.Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Base.Mesh-Inter.ixx">
+      <Filter>Header Files\Base.Mesh\子模块</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="wiki.txt">

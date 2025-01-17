@@ -9,12 +9,14 @@ module Base.Mesh:Circle;
 import Base.Point;
 
 
-
-void GenerateCircleMesh(std::vector<Point2D>& p_circleMeshVertixs, CircleMesh& p_circleMesh)
+int GenerateCircleMesh(std::vector<Point2D>& p_circleMeshVertixs, CircleMesh& p_circleMesh, int p_beginIndex)
 {
+	int Index = p_beginIndex; 
 	double thetaIncrement = 2 * M_PI / p_circleMesh.rNumber;
-	for (int i = 0; i < p_circleMesh.rNumber + 1; ++i)
+	for (int i = 0; i < p_circleMesh.rNumber; ++i)
 	{
-		p_circleMeshVertixs.emplace_back(i + 1, cos(i * thetaIncrement) * p_circleMesh.r, sin(i * thetaIncrement) * p_circleMesh.r);
+		p_circleMeshVertixs.emplace_back(Index, cos(i * thetaIncrement) * p_circleMesh.r, sin(i * thetaIncrement) * p_circleMesh.r);
+		++Index;
 	}
+	return Index;
 }

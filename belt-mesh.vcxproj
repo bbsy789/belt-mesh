@@ -130,6 +130,8 @@
     <ClCompile Include="Base.Mesh-Circle.ixx" />
     <ClCompile Include="Base.Mesh-Cylinder.cpp" />
     <ClCompile Include="Base.Mesh-Cylinder.ixx" />
+    <ClCompile Include="Base.Mesh-Inter.cpp" />
+    <ClCompile Include="Base.Mesh-Inter.ixx" />
     <ClCompile Include="Base.Mesh-Print.cpp" />
     <ClCompile Include="Base.Mesh-ScrewThread.cpp" />
     <ClCompile Include="Base.Mesh-ScrewThread.ixx" />
