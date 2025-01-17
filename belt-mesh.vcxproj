@@ -124,6 +124,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Base.Math.cpp" />
+    <ClCompile Include="Base.Math.ixx" />
     <ClCompile Include="Base.Mesh-Circle.cpp" />
     <ClCompile Include="Base.Mesh-Circle.ixx" />
     <ClCompile Include="Base.Mesh-Cylinder.cpp" />

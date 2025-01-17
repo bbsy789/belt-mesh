@@ -37,6 +37,15 @@
     <Filter Include="Source Files\Base.Mesh">
       <UniqueIdentifier>{5c4f49ba-8a52-42cd-a100-b1cde7ea0e69}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Base.Math">
+      <UniqueIdentifier>{bf593780-5b16-428d-a755-4d8dc163a4df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Base.Math\sub">
+      <UniqueIdentifier>{7a71259c-eee1-4599-8990-1d061fffd11c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Base.Math">
+      <UniqueIdentifier>{1eccb27d-1227-441d-8006-d58818b19f70}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -83,6 +92,12 @@
     </ClCompile>
     <ClCompile Include="Base.Mesh-Print.cpp">
       <Filter>Source Files\Base.Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Base.Math.ixx">
+      <Filter>Header Files\Base.Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Base.Math.cpp">
+      <Filter>Source Files\Base.Math</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -1,9 +1,7 @@
-
-#include <vector>
-
 export module Base.Mesh:ScrewThread;
 
 import Base.Point;
+import <vector>;
 
 // ÂÝÎÆÍø¸ñ²ÎÊý
 export struct ScrewThreadMesh

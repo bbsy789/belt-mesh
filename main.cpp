@@ -7,11 +7,11 @@ import Base.Mesh;
 int main()
 {
     // 螺纹参数设置
-    constexpr double r = 12;
-    constexpr int rNumber = 40;
+    constexpr double r = 6;
+    constexpr int rNumber = 80;
     constexpr double P = 1.75;
     constexpr double origin = 0; //暂时只支持Z向圆柱
-    constexpr int axisNumber = 15;
+    constexpr int axisNumber = 30;
 
     
 

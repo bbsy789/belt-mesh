@@ -1,0 +1,12002 @@
+rho: 0.2275
+h: 1.51554
+节点序号：1
+thetaIni: 0
+thetaAdd: 0
+theta: 0
+r: 12
+节点序号：2
+thetaIni: 0.0785398
+thetaAdd: 0
+theta: 0.0785398
+r: 12
+节点序号：3
+thetaIni: 0.15708
+thetaAdd: 0
+theta: 0.15708
+r: 12
+节点序号：4
+thetaIni: 0.235619
+thetaAdd: 0
+theta: 0.235619
+r: 12
+节点序号：5
+thetaIni: 0.314159
+thetaAdd: 0
+theta: 0.314159
+r: 12
+节点序号：6
+thetaIni: 0.392699
+thetaAdd: 0
+theta: 0.392699
+r: 12
+节点序号：7
+thetaIni: 0.471239
+thetaAdd: 0
+theta: 0.471239
+r: 11.9621
+节点序号：8
+thetaIni: 0.549779
+thetaAdd: 0
+theta: 0.549779
+r: 11.9242
+节点序号：9
+thetaIni: 0.628319
+thetaAdd: 0
+theta: 0.628319
+r: 11.8863
+节点序号：10
+thetaIni: 0.706858
+thetaAdd: 0
+theta: 0.706858
+r: 11.8484
+节点序号：11
+thetaIni: 0.785398
+thetaAdd: 0
+theta: 0.785398
+r: 11.8106
+节点序号：12
+thetaIni: 0.863938
+thetaAdd: 0
+theta: 0.863938
+r: 11.7727
+节点序号：13
+thetaIni: 0.942478
+thetaAdd: 0
+theta: 0.942478
+r: 11.7348
+节点序号：14
+thetaIni: 1.02102
+thetaAdd: 0
+theta: 1.02102
+r: 11.6969
+节点序号：15
+thetaIni: 1.09956
+thetaAdd: 0
+theta: 1.09956
+r: 11.659
+节点序号：16
+thetaIni: 1.1781
+thetaAdd: 0
+theta: 1.1781
+r: 11.6211
+节点序号：17
+thetaIni: 1.25664
+thetaAdd: 0
+theta: 1.25664
+r: 11.5832
+节点序号：18
+thetaIni: 1.33518
+thetaAdd: 0
+theta: 1.33518
+r: 11.5453
+节点序号：19
+thetaIni: 1.41372
+thetaAdd: 0
+theta: 1.41372
+r: 11.5074
+节点序号：20
+thetaIni: 1.49226
+thetaAdd: 0
+theta: 1.49226
+r: 11.4696
+节点序号：21
+thetaIni: 1.5708
+thetaAdd: 0
+theta: 1.5708
+r: 11.4317
+节点序号：22
+thetaIni: 1.64934
+thetaAdd: 0
+theta: 1.64934
+r: 11.3938
+节点序号：23
+thetaIni: 1.72788
+thetaAdd: 0
+theta: 1.72788
+r: 11.3559
+节点序号：24
+thetaIni: 1.80642
+thetaAdd: 0
+theta: 1.80642
+r: 11.318
+节点序号：25
+thetaIni: 1.88496
+thetaAdd: 0
+theta: 1.88496
+r: 11.2801
+节点序号：26
+thetaIni: 1.9635
+thetaAdd: 0
+theta: 1.9635
+r: 11.2422
+节点序号：27
+thetaIni: 2.04204
+thetaAdd: 0
+theta: 2.04204
+r: 11.2043
+节点序号：28
+thetaIni: 2.12058
+thetaAdd: 0
+theta: 2.12058
+r: 11.1665
+节点序号：29
+thetaIni: 2.19911
+thetaAdd: 0
+theta: 2.19911
+r: 11.1286
+节点序号：30
+thetaIni: 2.27765
+thetaAdd: 0
+theta: 2.27765
+r: 11.0907
+节点序号：31
+thetaIni: 2.35619
+thetaAdd: 0
+theta: 2.35619
+r: 11.0528
+节点序号：32
+thetaIni: 2.43473
+thetaAdd: 0
+theta: 2.43473
+r: 12.341
+节点序号：33
+thetaIni: 2.51327
+thetaAdd: 0
+theta: 2.51327
+r: 12.3096
+节点序号：34
+thetaIni: 2.59181
+thetaAdd: 0
+theta: 2.59181
+r: 12.2867
+节点序号：35
+thetaIni: 2.67035
+thetaAdd: 0
+theta: 2.67035
+r: 12.2692
+节点序号：36
+thetaIni: 2.74889
+thetaAdd: 0
+theta: 2.74889
+r: 12.2555
+节点序号：37
+thetaIni: 2.82743
+thetaAdd: 0
+theta: 2.82743
+r: 12.245
+节点序号：38
+thetaIni: 2.90597
+thetaAdd: 0
+theta: 2.90597
+r: 12.2372
+节点序号：39
+thetaIni: 2.98451
+thetaAdd: 0
+theta: 2.98451
+r: 12.2317
+节点序号：40
+thetaIni: 3.06305
+thetaAdd: 0
+theta: 3.06305
+r: 12.2286
+节点序号：41
+thetaIni: 3.14159
+thetaAdd: 0
+theta: 3.14159
+r: 12.2275
+节点序号：42
+thetaIni: 3.22013
+thetaAdd: 0
+theta: 3.22013
+r: 12.2286
+节点序号：43
+thetaIni: 3.29867
+thetaAdd: 0
+theta: 3.29867
+r: 12.2317
+节点序号：44
+thetaIni: 3.37721
+thetaAdd: 0
+theta: 3.37721
+r: 12.2372
+节点序号：45
+thetaIni: 3.45575
+thetaAdd: 0
+theta: 3.45575
+r: 12.245
+节点序号：46
+thetaIni: 3.53429
+thetaAdd: 0
+theta: 3.53429
+r: 12.2555
+节点序号：47
+thetaIni: 3.61283
+thetaAdd: 0
+theta: 3.61283
+r: 12.2692
+节点序号：48
+thetaIni: 3.69137
+thetaAdd: 0
+theta: 3.69137
+r: 12.2867
+节点序号：49
+thetaIni: 3.76991
+thetaAdd: 0
+theta: 3.76991
+r: 12.3096
+节点序号：50
+thetaIni: 3.84845
+thetaAdd: 0
+theta: 3.84845
+r: 12.341
+节点序号：51
+thetaIni: 3.92699
+thetaAdd: 0
+theta: 3.92699
+r: 12
+节点序号：52
+thetaIni: 4.00553
+thetaAdd: 0
+theta: 4.00553
+r: 12
+节点序号：53
+thetaIni: 4.08407
+thetaAdd: 0
+theta: 4.08407
+r: 12
+节点序号：54
+thetaIni: 4.16261
+thetaAdd: 0
+theta: 4.16261
+r: 12
+节点序号：55
+thetaIni: 4.24115
+thetaAdd: 0
+theta: 4.24115
+r: 12
+节点序号：56
+thetaIni: 4.31969
+thetaAdd: 0
+theta: 4.31969
+r: 12
+节点序号：57
+thetaIni: 4.39823
+thetaAdd: 0
+theta: 4.39823
+r: 12
+节点序号：58
+thetaIni: 4.47677
+thetaAdd: 0
+theta: 4.47677
+r: 12
+节点序号：59
+thetaIni: 4.55531
+thetaAdd: 0
+theta: 4.55531
+r: 12
+节点序号：60
+thetaIni: 4.63385
+thetaAdd: 0
+theta: 4.63385
+r: 12
+节点序号：61
+thetaIni: 4.71239
+thetaAdd: 0
+theta: 4.71239
+r: 12
+节点序号：62
+thetaIni: 4.79093
+thetaAdd: 0
+theta: 4.79093
+r: 12
+节点序号：63
+thetaIni: 4.86947
+thetaAdd: 0
+theta: 4.86947
+r: 12
+节点序号：64
+thetaIni: 4.94801
+thetaAdd: 0
+theta: 4.94801
+r: 12
+节点序号：65
+thetaIni: 5.02655
+thetaAdd: 0
+theta: 5.02655
+r: 12
+节点序号：66
+thetaIni: 5.10509
+thetaAdd: 0
+theta: 5.10509
+r: 12
+节点序号：67
+thetaIni: 5.18363
+thetaAdd: 0
+theta: 5.18363
+r: 12
+节点序号：68
+thetaIni: 5.26217
+thetaAdd: 0
+theta: 5.26217
+r: 12
+节点序号：69
+thetaIni: 5.34071
+thetaAdd: 0
+theta: 5.34071
+r: 12
+节点序号：70
+thetaIni: 5.41925
+thetaAdd: 0
+theta: 5.41925
+r: 12
+节点序号：71
+thetaIni: 5.49779
+thetaAdd: 0
+theta: 5.49779
+r: 12
+节点序号：72
+thetaIni: 5.57633
+thetaAdd: 0
+theta: 5.57633
+r: 12
+节点序号：73
+thetaIni: 5.65487
+thetaAdd: 0
+theta: 5.65487
+r: 12
+节点序号：74
+thetaIni: 5.73341
+thetaAdd: 0
+theta: 5.73341
+r: 12
+节点序号：75
+thetaIni: 5.81195
+thetaAdd: 0
+theta: 5.81195
+r: 12
+节点序号：76
+thetaIni: 5.89049
+thetaAdd: 0
+theta: 5.89049
+r: 12
+节点序号：77
+thetaIni: 5.96903
+thetaAdd: 0
+theta: 5.96903
+r: 12
+节点序号：78
+thetaIni: 6.04757
+thetaAdd: 0
+theta: 6.04757
+r: 12
+节点序号：79
+thetaIni: 6.12611
+thetaAdd: 0
+theta: 6.12611
+r: 12
+节点序号：80
+thetaIni: 6.20465
+thetaAdd: 0
+theta: 6.20465
+r: 12
+节点序号：81
+thetaIni: 0
+thetaAdd: 0.20944
+theta: 0.20944
+r: 12
+节点序号：82
+thetaIni: 0.0785398
+thetaAdd: 0.20944
+theta: 0.287979
+r: 12
+节点序号：83
+thetaIni: 0.15708
+thetaAdd: 0.20944
+theta: 0.366519
+r: 12
+节点序号：84
+thetaIni: 0.235619
+thetaAdd: 0.20944
+theta: 0.445059
+r: 11.9747
+节点序号：85
+thetaIni: 0.314159
+thetaAdd: 0.20944
+theta: 0.523599
+r: 11.9369
+节点序号：86
+thetaIni: 0.392699
+thetaAdd: 0.20944
+theta: 0.602139
+r: 11.899
+节点序号：87
+thetaIni: 0.471239
+thetaAdd: 0.20944
+theta: 0.680678
+r: 11.8611
+节点序号：88
+thetaIni: 0.549779
+thetaAdd: 0.20944
+theta: 0.759218
+r: 11.8232
+节点序号：89
+thetaIni: 0.628319
+thetaAdd: 0.20944
+theta: 0.837758
+r: 11.7853
+节点序号：90
+thetaIni: 0.706858
+thetaAdd: 0.20944
+theta: 0.916298
+r: 11.7474
+节点序号：91
+thetaIni: 0.785398
+thetaAdd: 0.20944
+theta: 0.994838
+r: 11.7095
+节点序号：92
+thetaIni: 0.863938
+thetaAdd: 0.20944
+theta: 1.07338
+r: 11.6716
+节点序号：93
+thetaIni: 0.942478
+thetaAdd: 0.20944
+theta: 1.15192
+r: 11.6337
+节点序号：94
+thetaIni: 1.02102
+thetaAdd: 0.20944
+theta: 1.23046
+r: 11.5959
+节点序号：95
+thetaIni: 1.09956
+thetaAdd: 0.20944
+theta: 1.309
+r: 11.558
+节点序号：96
+thetaIni: 1.1781
+thetaAdd: 0.20944
+theta: 1.38754
+r: 11.5201
+节点序号：97
+thetaIni: 1.25664
+thetaAdd: 0.20944
+theta: 1.46608
+r: 11.4822
+节点序号：98
+thetaIni: 1.33518
+thetaAdd: 0.20944
+theta: 1.54462
+r: 11.4443
+节点序号：99
+thetaIni: 1.41372
+thetaAdd: 0.20944
+theta: 1.62316
+r: 11.4064
+节点序号：100
+thetaIni: 1.49226
+thetaAdd: 0.20944
+theta: 1.7017
+r: 11.3685
+节点序号：101
+thetaIni: 1.5708
+thetaAdd: 0.20944
+theta: 1.78024
+r: 11.3306
+节点序号：102
+thetaIni: 1.64934
+thetaAdd: 0.20944
+theta: 1.85878
+r: 11.2927
+节点序号：103
+thetaIni: 1.72788
+thetaAdd: 0.20944
+theta: 1.93732
+r: 11.2549
+节点序号：104
+thetaIni: 1.80642
+thetaAdd: 0.20944
+theta: 2.01586
+r: 11.217
+节点序号：105
+thetaIni: 1.88496
+thetaAdd: 0.20944
+theta: 2.0944
+r: 11.1791
+节点序号：106
+thetaIni: 1.9635
+thetaAdd: 0.20944
+theta: 2.17293
+r: 11.1412
+节点序号：107
+thetaIni: 2.04204
+thetaAdd: 0.20944
+theta: 2.25147
+r: 11.1033
+节点序号：108
+thetaIni: 2.12058
+thetaAdd: 0.20944
+theta: 2.33001
+r: 11.0654
+节点序号：109
+thetaIni: 2.19911
+thetaAdd: 0.20944
+theta: 2.40855
+r: 11.0275
+节点序号：110
+thetaIni: 2.27765
+thetaAdd: 0.20944
+theta: 2.48709
+r: 12.3189
+节点序号：111
+thetaIni: 2.35619
+thetaAdd: 0.20944
+theta: 2.56563
+r: 12.2937
+节点序号：112
+thetaIni: 2.43473
+thetaAdd: 0.20944
+theta: 2.64417
+r: 12.2745
+节点序号：113
+thetaIni: 2.51327
+thetaAdd: 0.20944
+theta: 2.72271
+r: 12.2597
+节点序号：114
+thetaIni: 2.59181
+thetaAdd: 0.20944
+theta: 2.80125
+r: 12.2482
+节点序号：115
+thetaIni: 2.67035
+thetaAdd: 0.20944
+theta: 2.87979
+r: 12.2395
+节点序号：116
+thetaIni: 2.74889
+thetaAdd: 0.20944
+theta: 2.95833
+r: 12.2333
+节点序号：117
+thetaIni: 2.82743
+thetaAdd: 0.20944
+theta: 3.03687
+r: 12.2294
+节点序号：118
+thetaIni: 2.90597
+thetaAdd: 0.20944
+theta: 3.11541
+r: 12.2276
+节点序号：119
+thetaIni: 2.98451
+thetaAdd: 0.20944
+theta: 3.19395
+r: 12.228
+节点序号：120
+thetaIni: 3.06305
+thetaAdd: 0.20944
+theta: 3.27249
+r: 12.2304
+节点序号：121
+thetaIni: 3.14159
+thetaAdd: 0.20944
+theta: 3.35103
+r: 12.2351
+节点序号：122
+thetaIni: 3.22013
+thetaAdd: 0.20944
+theta: 3.42957
+r: 12.2421
+节点序号：123
+thetaIni: 3.29867
+thetaAdd: 0.20944
+theta: 3.50811
+r: 12.2517
+节点序号：124
+thetaIni: 3.37721
+thetaAdd: 0.20944
+theta: 3.58665
+r: 12.2642
+节点序号：125
+thetaIni: 3.45575
+thetaAdd: 0.20944
+theta: 3.66519
+r: 12.2804
+节点序号：126
+thetaIni: 3.53429
+thetaAdd: 0.20944
+theta: 3.74373
+r: 12.3013
+节点序号：127
+thetaIni: 3.61283
+thetaAdd: 0.20944
+theta: 3.82227
+r: 12.3292
+节点序号：128
+thetaIni: 3.69137
+thetaAdd: 0.20944
+theta: 3.90081
+r: 12
+节点序号：129
+thetaIni: 3.76991
+thetaAdd: 0.20944
+theta: 3.97935
+r: 12
+节点序号：130
+thetaIni: 3.84845
+thetaAdd: 0.20944
+theta: 4.05789
+r: 12
+节点序号：131
+thetaIni: 3.92699
+thetaAdd: 0.20944
+theta: 4.13643
+r: 12
+节点序号：132
+thetaIni: 4.00553
+thetaAdd: 0.20944
+theta: 4.21497
+r: 12
+节点序号：133
+thetaIni: 4.08407
+thetaAdd: 0.20944
+theta: 4.29351
+r: 12
+节点序号：134
+thetaIni: 4.16261
+thetaAdd: 0.20944
+theta: 4.37205
+r: 12
+节点序号：135
+thetaIni: 4.24115
+thetaAdd: 0.20944
+theta: 4.45059
+r: 12
+节点序号：136
+thetaIni: 4.31969
+thetaAdd: 0.20944
+theta: 4.52913
+r: 12
+节点序号：137
+thetaIni: 4.39823
+thetaAdd: 0.20944
+theta: 4.60767
+r: 12
+节点序号：138
+thetaIni: 4.47677
+thetaAdd: 0.20944
+theta: 4.68621
+r: 12
+节点序号：139
+thetaIni: 4.55531
+thetaAdd: 0.20944
+theta: 4.76475
+r: 12
+节点序号：140
+thetaIni: 4.63385
+thetaAdd: 0.20944
+theta: 4.84329
+r: 12
+节点序号：141
+thetaIni: 4.71239
+thetaAdd: 0.20944
+theta: 4.92183
+r: 12
+节点序号：142
+thetaIni: 4.79093
+thetaAdd: 0.20944
+theta: 5.00037
+r: 12
+节点序号：143
+thetaIni: 4.86947
+thetaAdd: 0.20944
+theta: 5.07891
+r: 12
+节点序号：144
+thetaIni: 4.94801
+thetaAdd: 0.20944
+theta: 5.15745
+r: 12
+节点序号：145
+thetaIni: 5.02655
+thetaAdd: 0.20944
+theta: 5.23599
+r: 12
+节点序号：146
+thetaIni: 5.10509
+thetaAdd: 0.20944
+theta: 5.31453
+r: 12
+节点序号：147
+thetaIni: 5.18363
+thetaAdd: 0.20944
+theta: 5.39307
+r: 12
+节点序号：148
+thetaIni: 5.26217
+thetaAdd: 0.20944
+theta: 5.47161
+r: 12
+节点序号：149
+thetaIni: 5.34071
+thetaAdd: 0.20944
+theta: 5.55015
+r: 12
+节点序号：150
+thetaIni: 5.41925
+thetaAdd: 0.20944
+theta: 5.62869
+r: 12
+节点序号：151
+thetaIni: 5.49779
+thetaAdd: 0.20944
+theta: 5.70723
+r: 12
+节点序号：152
+thetaIni: 5.57633
+thetaAdd: 0.20944
+theta: 5.78577
+r: 12
+节点序号：153
+thetaIni: 5.65487
+thetaAdd: 0.20944
+theta: 5.86431
+r: 12
+节点序号：154
+thetaIni: 5.73341
+thetaAdd: 0.20944
+theta: 5.94285
+r: 12
+节点序号：155
+thetaIni: 5.81195
+thetaAdd: 0.20944
+theta: 6.02139
+r: 12
+节点序号：156
+thetaIni: 5.89049
+thetaAdd: 0.20944
+theta: 6.09993
+r: 12
+节点序号：157
+thetaIni: 5.96903
+thetaAdd: 0.20944
+theta: 6.17847
+r: 12
+节点序号：158
+thetaIni: 6.04757
+thetaAdd: 0.20944
+theta: 6.25701
+r: 12
+节点序号：159
+thetaIni: 6.12611
+thetaAdd: 0.20944
+theta: 0.0523599
+r: 12
+节点序号：160
+thetaIni: 6.20465
+thetaAdd: 0.20944
+theta: 0.1309
+r: 12
+节点序号：161
+thetaIni: 0
+thetaAdd: 0.418879
+theta: 0.418879
+r: 11.9874
+节点序号：162
+thetaIni: 0.0785398
+thetaAdd: 0.418879
+theta: 0.497419
+r: 11.9495
+节点序号：163
+thetaIni: 0.15708
+thetaAdd: 0.418879
+theta: 0.575959
+r: 11.9116
+节点序号：164
+thetaIni: 0.235619
+thetaAdd: 0.418879
+theta: 0.654498
+r: 11.8737
+节点序号：165
+thetaIni: 0.314159
+thetaAdd: 0.418879
+theta: 0.733038
+r: 11.8358
+节点序号：166
+thetaIni: 0.392699
+thetaAdd: 0.418879
+theta: 0.811578
+r: 11.7979
+节点序号：167
+thetaIni: 0.471239
+thetaAdd: 0.418879
+theta: 0.890118
+r: 11.76
+节点序号：168
+thetaIni: 0.549779
+thetaAdd: 0.418879
+theta: 0.968658
+r: 11.7222
+节点序号：169
+thetaIni: 0.628319
+thetaAdd: 0.418879
+theta: 1.0472
+r: 11.6843
+节点序号：170
+thetaIni: 0.706858
+thetaAdd: 0.418879
+theta: 1.12574
+r: 11.6464
+节点序号：171
+thetaIni: 0.785398
+thetaAdd: 0.418879
+theta: 1.20428
+r: 11.6085
+节点序号：172
+thetaIni: 0.863938
+thetaAdd: 0.418879
+theta: 1.28282
+r: 11.5706
+节点序号：173
+thetaIni: 0.942478
+thetaAdd: 0.418879
+theta: 1.36136
+r: 11.5327
+节点序号：174
+thetaIni: 1.02102
+thetaAdd: 0.418879
+theta: 1.4399
+r: 11.4948
+节点序号：175
+thetaIni: 1.09956
+thetaAdd: 0.418879
+theta: 1.51844
+r: 11.4569
+节点序号：176
+thetaIni: 1.1781
+thetaAdd: 0.418879
+theta: 1.59698
+r: 11.419
+节点序号：177
+thetaIni: 1.25664
+thetaAdd: 0.418879
+theta: 1.67552
+r: 11.3812
+节点序号：178
+thetaIni: 1.33518
+thetaAdd: 0.418879
+theta: 1.75406
+r: 11.3433
+节点序号：179
+thetaIni: 1.41372
+thetaAdd: 0.418879
+theta: 1.8326
+r: 11.3054
+节点序号：180
+thetaIni: 1.49226
+thetaAdd: 0.418879
+theta: 1.91114
+r: 11.2675
+节点序号：181
+thetaIni: 1.5708
+thetaAdd: 0.418879
+theta: 1.98968
+r: 11.2296
+节点序号：182
+thetaIni: 1.64934
+thetaAdd: 0.418879
+theta: 2.06822
+r: 11.1917
+节点序号：183
+thetaIni: 1.72788
+thetaAdd: 0.418879
+theta: 2.14675
+r: 11.1538
+节点序号：184
+thetaIni: 1.80642
+thetaAdd: 0.418879
+theta: 2.22529
+r: 11.1159
+节点序号：185
+thetaIni: 1.88496
+thetaAdd: 0.418879
+theta: 2.30383
+r: 11.078
+节点序号：186
+thetaIni: 1.9635
+thetaAdd: 0.418879
+theta: 2.38237
+r: 11.0402
+节点序号：187
+thetaIni: 2.04204
+thetaAdd: 0.418879
+theta: 2.46091
+r: 12.3292
+节点序号：188
+thetaIni: 2.12058
+thetaAdd: 0.418879
+theta: 2.53945
+r: 12.3013
+节点序号：189
+thetaIni: 2.19911
+thetaAdd: 0.418879
+theta: 2.61799
+r: 12.2804
+节点序号：190
+thetaIni: 2.27765
+thetaAdd: 0.418879
+theta: 2.69653
+r: 12.2642
+节点序号：191
+thetaIni: 2.35619
+thetaAdd: 0.418879
+theta: 2.77507
+r: 12.2517
+节点序号：192
+thetaIni: 2.43473
+thetaAdd: 0.418879
+theta: 2.85361
+r: 12.2421
+节点序号：193
+thetaIni: 2.51327
+thetaAdd: 0.418879
+theta: 2.93215
+r: 12.2351
+节点序号：194
+thetaIni: 2.59181
+thetaAdd: 0.418879
+theta: 3.01069
+r: 12.2304
+节点序号：195
+thetaIni: 2.67035
+thetaAdd: 0.418879
+theta: 3.08923
+r: 12.228
+节点序号：196
+thetaIni: 2.74889
+thetaAdd: 0.418879
+theta: 3.16777
+r: 12.2276
+节点序号：197
+thetaIni: 2.82743
+thetaAdd: 0.418879
+theta: 3.24631
+r: 12.2294
+节点序号：198
+thetaIni: 2.90597
+thetaAdd: 0.418879
+theta: 3.32485
+r: 12.2333
+节点序号：199
+thetaIni: 2.98451
+thetaAdd: 0.418879
+theta: 3.40339
+r: 12.2395
+节点序号：200
+thetaIni: 3.06305
+thetaAdd: 0.418879
+theta: 3.48193
+r: 12.2482
+节点序号：201
+thetaIni: 3.14159
+thetaAdd: 0.418879
+theta: 3.56047
+r: 12.2597
+节点序号：202
+thetaIni: 3.22013
+thetaAdd: 0.418879
+theta: 3.63901
+r: 12.2745
+节点序号：203
+thetaIni: 3.29867
+thetaAdd: 0.418879
+theta: 3.71755
+r: 12.2937
+节点序号：204
+thetaIni: 3.37721
+thetaAdd: 0.418879
+theta: 3.79609
+r: 12.3189
+节点序号：205
+thetaIni: 3.45575
+thetaAdd: 0.418879
+theta: 3.87463
+r: 12
+节点序号：206
+thetaIni: 3.53429
+thetaAdd: 0.418879
+theta: 3.95317
+r: 12
+节点序号：207
+thetaIni: 3.61283
+thetaAdd: 0.418879
+theta: 4.03171
+r: 12
+节点序号：208
+thetaIni: 3.69137
+thetaAdd: 0.418879
+theta: 4.11025
+r: 12
+节点序号：209
+thetaIni: 3.76991
+thetaAdd: 0.418879
+theta: 4.18879
+r: 12
+节点序号：210
+thetaIni: 3.84845
+thetaAdd: 0.418879
+theta: 4.26733
+r: 12
+节点序号：211
+thetaIni: 3.92699
+thetaAdd: 0.418879
+theta: 4.34587
+r: 12
+节点序号：212
+thetaIni: 4.00553
+thetaAdd: 0.418879
+theta: 4.42441
+r: 12
+节点序号：213
+thetaIni: 4.08407
+thetaAdd: 0.418879
+theta: 4.50295
+r: 12
+节点序号：214
+thetaIni: 4.16261
+thetaAdd: 0.418879
+theta: 4.58149
+r: 12
+节点序号：215
+thetaIni: 4.24115
+thetaAdd: 0.418879
+theta: 4.66003
+r: 12
+节点序号：216
+thetaIni: 4.31969
+thetaAdd: 0.418879
+theta: 4.73857
+r: 12
+节点序号：217
+thetaIni: 4.39823
+thetaAdd: 0.418879
+theta: 4.81711
+r: 12
+节点序号：218
+thetaIni: 4.47677
+thetaAdd: 0.418879
+theta: 4.89565
+r: 12
+节点序号：219
+thetaIni: 4.55531
+thetaAdd: 0.418879
+theta: 4.97419
+r: 12
+节点序号：220
+thetaIni: 4.63385
+thetaAdd: 0.418879
+theta: 5.05273
+r: 12
+节点序号：221
+thetaIni: 4.71239
+thetaAdd: 0.418879
+theta: 5.13127
+r: 12
+节点序号：222
+thetaIni: 4.79093
+thetaAdd: 0.418879
+theta: 5.20981
+r: 12
+节点序号：223
+thetaIni: 4.86947
+thetaAdd: 0.418879
+theta: 5.28835
+r: 12
+节点序号：224
+thetaIni: 4.94801
+thetaAdd: 0.418879
+theta: 5.36689
+r: 12
+节点序号：225
+thetaIni: 5.02655
+thetaAdd: 0.418879
+theta: 5.44543
+r: 12
+节点序号：226
+thetaIni: 5.10509
+thetaAdd: 0.418879
+theta: 5.52397
+r: 12
+节点序号：227
+thetaIni: 5.18363
+thetaAdd: 0.418879
+theta: 5.60251
+r: 12
+节点序号：228
+thetaIni: 5.26217
+thetaAdd: 0.418879
+theta: 5.68105
+r: 12
+节点序号：229
+thetaIni: 5.34071
+thetaAdd: 0.418879
+theta: 5.75959
+r: 12
+节点序号：230
+thetaIni: 5.41925
+thetaAdd: 0.418879
+theta: 5.83813
+r: 12
+节点序号：231
+thetaIni: 5.49779
+thetaAdd: 0.418879
+theta: 5.91667
+r: 12
+节点序号：232
+thetaIni: 5.57633
+thetaAdd: 0.418879
+theta: 5.99521
+r: 12
+节点序号：233
+thetaIni: 5.65487
+thetaAdd: 0.418879
+theta: 6.07375
+r: 12
+节点序号：234
+thetaIni: 5.73341
+thetaAdd: 0.418879
+theta: 6.15229
+r: 12
+节点序号：235
+thetaIni: 5.81195
+thetaAdd: 0.418879
+theta: 6.23083
+r: 12
+节点序号：236
+thetaIni: 5.89049
+thetaAdd: 0.418879
+theta: 0.0261799
+r: 12
+节点序号：237
+thetaIni: 5.96903
+thetaAdd: 0.418879
+theta: 0.10472
+r: 12
+节点序号：238
+thetaIni: 6.04757
+thetaAdd: 0.418879
+theta: 0.18326
+r: 12
+节点序号：239
+thetaIni: 6.12611
+thetaAdd: 0.418879
+theta: 0.261799
+r: 12
+节点序号：240
+thetaIni: 6.20465
+thetaAdd: 0.418879
+theta: 0.340339
+r: 12
+节点序号：241
+thetaIni: 0
+thetaAdd: 0.628319
+theta: 0.628319
+r: 11.8863
+节点序号：242
+thetaIni: 0.0785398
+thetaAdd: 0.628319
+theta: 0.706858
+r: 11.8484
+节点序号：243
+thetaIni: 0.15708
+thetaAdd: 0.628319
+theta: 0.785398
+r: 11.8106
+节点序号：244
+thetaIni: 0.235619
+thetaAdd: 0.628319
+theta: 0.863938
+r: 11.7727
+节点序号：245
+thetaIni: 0.314159
+thetaAdd: 0.628319
+theta: 0.942478
+r: 11.7348
+节点序号：246
+thetaIni: 0.392699
+thetaAdd: 0.628319
+theta: 1.02102
+r: 11.6969
+节点序号：247
+thetaIni: 0.471239
+thetaAdd: 0.628319
+theta: 1.09956
+r: 11.659
+节点序号：248
+thetaIni: 0.549779
+thetaAdd: 0.628319
+theta: 1.1781
+r: 11.6211
+节点序号：249
+thetaIni: 0.628319
+thetaAdd: 0.628319
+theta: 1.25664
+r: 11.5832
+节点序号：250
+thetaIni: 0.706858
+thetaAdd: 0.628319
+theta: 1.33518
+r: 11.5453
+节点序号：251
+thetaIni: 0.785398
+thetaAdd: 0.628319
+theta: 1.41372
+r: 11.5074
+节点序号：252
+thetaIni: 0.863938
+thetaAdd: 0.628319
+theta: 1.49226
+r: 11.4696
+节点序号：253
+thetaIni: 0.942478
+thetaAdd: 0.628319
+theta: 1.5708
+r: 11.4317
+节点序号：254
+thetaIni: 1.02102
+thetaAdd: 0.628319
+theta: 1.64934
+r: 11.3938
+节点序号：255
+thetaIni: 1.09956
+thetaAdd: 0.628319
+theta: 1.72788
+r: 11.3559
+节点序号：256
+thetaIni: 1.1781
+thetaAdd: 0.628319
+theta: 1.80642
+r: 11.318
+节点序号：257
+thetaIni: 1.25664
+thetaAdd: 0.628319
+theta: 1.88496
+r: 11.2801
+节点序号：258
+thetaIni: 1.33518
+thetaAdd: 0.628319
+theta: 1.9635
+r: 11.2422
+节点序号：259
+thetaIni: 1.41372
+thetaAdd: 0.628319
+theta: 2.04204
+r: 11.2043
+节点序号：260
+thetaIni: 1.49226
+thetaAdd: 0.628319
+theta: 2.12058
+r: 11.1665
+节点序号：261
+thetaIni: 1.5708
+thetaAdd: 0.628319
+theta: 2.19911
+r: 11.1286
+节点序号：262
+thetaIni: 1.64934
+thetaAdd: 0.628319
+theta: 2.27765
+r: 11.0907
+节点序号：263
+thetaIni: 1.72788
+thetaAdd: 0.628319
+theta: 2.35619
+r: 11.0528
+节点序号：264
+thetaIni: 1.80642
+thetaAdd: 0.628319
+theta: 2.43473
+r: 12.341
+节点序号：265
+thetaIni: 1.88496
+thetaAdd: 0.628319
+theta: 2.51327
+r: 12.3096
+节点序号：266
+thetaIni: 1.9635
+thetaAdd: 0.628319
+theta: 2.59181
+r: 12.2867
+节点序号：267
+thetaIni: 2.04204
+thetaAdd: 0.628319
+theta: 2.67035
+r: 12.2692
+节点序号：268
+thetaIni: 2.12058
+thetaAdd: 0.628319
+theta: 2.74889
+r: 12.2555
+节点序号：269
+thetaIni: 2.19911
+thetaAdd: 0.628319
+theta: 2.82743
+r: 12.245
+节点序号：270
+thetaIni: 2.27765
+thetaAdd: 0.628319
+theta: 2.90597
+r: 12.2372
+节点序号：271
+thetaIni: 2.35619
+thetaAdd: 0.628319
+theta: 2.98451
+r: 12.2317
+节点序号：272
+thetaIni: 2.43473
+thetaAdd: 0.628319
+theta: 3.06305
+r: 12.2286
+节点序号：273
+thetaIni: 2.51327
+thetaAdd: 0.628319
+theta: 3.14159
+r: 12.2275
+节点序号：274
+thetaIni: 2.59181
+thetaAdd: 0.628319
+theta: 3.22013
+r: 12.2286
+节点序号：275
+thetaIni: 2.67035
+thetaAdd: 0.628319
+theta: 3.29867
+r: 12.2317
+节点序号：276
+thetaIni: 2.74889
+thetaAdd: 0.628319
+theta: 3.37721
+r: 12.2372
+节点序号：277
+thetaIni: 2.82743
+thetaAdd: 0.628319
+theta: 3.45575
+r: 12.245
+节点序号：278
+thetaIni: 2.90597
+thetaAdd: 0.628319
+theta: 3.53429
+r: 12.2555
+节点序号：279
+thetaIni: 2.98451
+thetaAdd: 0.628319
+theta: 3.61283
+r: 12.2692
+节点序号：280
+thetaIni: 3.06305
+thetaAdd: 0.628319
+theta: 3.69137
+r: 12.2867
+节点序号：281
+thetaIni: 3.14159
+thetaAdd: 0.628319
+theta: 3.76991
+r: 12.3096
+节点序号：282
+thetaIni: 3.22013
+thetaAdd: 0.628319
+theta: 3.84845
+r: 12.341
+节点序号：283
+thetaIni: 3.29867
+thetaAdd: 0.628319
+theta: 3.92699
+r: 12
+节点序号：284
+thetaIni: 3.37721
+thetaAdd: 0.628319
+theta: 4.00553
+r: 12
+节点序号：285
+thetaIni: 3.45575
+thetaAdd: 0.628319
+theta: 4.08407
+r: 12
+节点序号：286
+thetaIni: 3.53429
+thetaAdd: 0.628319
+theta: 4.16261
+r: 12
+节点序号：287
+thetaIni: 3.61283
+thetaAdd: 0.628319
+theta: 4.24115
+r: 12
+节点序号：288
+thetaIni: 3.69137
+thetaAdd: 0.628319
+theta: 4.31969
+r: 12
+节点序号：289
+thetaIni: 3.76991
+thetaAdd: 0.628319
+theta: 4.39823
+r: 12
+节点序号：290
+thetaIni: 3.84845
+thetaAdd: 0.628319
+theta: 4.47677
+r: 12
+节点序号：291
+thetaIni: 3.92699
+thetaAdd: 0.628319
+theta: 4.55531
+r: 12
+节点序号：292
+thetaIni: 4.00553
+thetaAdd: 0.628319
+theta: 4.63385
+r: 12
+节点序号：293
+thetaIni: 4.08407
+thetaAdd: 0.628319
+theta: 4.71239
+r: 12
+节点序号：294
+thetaIni: 4.16261
+thetaAdd: 0.628319
+theta: 4.79093
+r: 12
+节点序号：295
+thetaIni: 4.24115
+thetaAdd: 0.628319
+theta: 4.86947
+r: 12
+节点序号：296
+thetaIni: 4.31969
+thetaAdd: 0.628319
+theta: 4.94801
+r: 12
+节点序号：297
+thetaIni: 4.39823
+thetaAdd: 0.628319
+theta: 5.02655
+r: 12
+节点序号：298
+thetaIni: 4.47677
+thetaAdd: 0.628319
+theta: 5.10509
+r: 12
+节点序号：299
+thetaIni: 4.55531
+thetaAdd: 0.628319
+theta: 5.18363
+r: 12
+节点序号：300
+thetaIni: 4.63385
+thetaAdd: 0.628319
+theta: 5.26217
+r: 12
+节点序号：301
+thetaIni: 4.71239
+thetaAdd: 0.628319
+theta: 5.34071
+r: 12
+节点序号：302
+thetaIni: 4.79093
+thetaAdd: 0.628319
+theta: 5.41925
+r: 12
+节点序号：303
+thetaIni: 4.86947
+thetaAdd: 0.628319
+theta: 5.49779
+r: 12
+节点序号：304
+thetaIni: 4.94801
+thetaAdd: 0.628319
+theta: 5.57633
+r: 12
+节点序号：305
+thetaIni: 5.02655
+thetaAdd: 0.628319
+theta: 5.65487
+r: 12
+节点序号：306
+thetaIni: 5.10509
+thetaAdd: 0.628319
+theta: 5.73341
+r: 12
+节点序号：307
+thetaIni: 5.18363
+thetaAdd: 0.628319
+theta: 5.81195
+r: 12
+节点序号：308
+thetaIni: 5.26217
+thetaAdd: 0.628319
+theta: 5.89049
+r: 12
+节点序号：309
+thetaIni: 5.34071
+thetaAdd: 0.628319
+theta: 5.96903
+r: 12
+节点序号：310
+thetaIni: 5.41925
+thetaAdd: 0.628319
+theta: 6.04757
+r: 12
+节点序号：311
+thetaIni: 5.49779
+thetaAdd: 0.628319
+theta: 6.12611
+r: 12
+节点序号：312
+thetaIni: 5.57633
+thetaAdd: 0.628319
+theta: 6.20465
+r: 12
+节点序号：313
+thetaIni: 5.65487
+thetaAdd: 0.628319
+theta: 0
+r: 12
+节点序号：314
+thetaIni: 5.73341
+thetaAdd: 0.628319
+theta: 0.0785398
+r: 12
+节点序号：315
+thetaIni: 5.81195
+thetaAdd: 0.628319
+theta: 0.15708
+r: 12
+节点序号：316
+thetaIni: 5.89049
+thetaAdd: 0.628319
+theta: 0.235619
+r: 12
+节点序号：317
+thetaIni: 5.96903
+thetaAdd: 0.628319
+theta: 0.314159
+r: 12
+节点序号：318
+thetaIni: 6.04757
+thetaAdd: 0.628319
+theta: 0.392699
+r: 12
+节点序号：319
+thetaIni: 6.12611
+thetaAdd: 0.628319
+theta: 0.471239
+r: 11.9621
+节点序号：320
+thetaIni: 6.20465
+thetaAdd: 0.628319
+theta: 0.549779
+r: 11.9242
+节点序号：321
+thetaIni: 0
+thetaAdd: 0.837758
+theta: 0.837758
+r: 11.7853
+节点序号：322
+thetaIni: 0.0785398
+thetaAdd: 0.837758
+theta: 0.916298
+r: 11.7474
+节点序号：323
+thetaIni: 0.15708
+thetaAdd: 0.837758
+theta: 0.994838
+r: 11.7095
+节点序号：324
+thetaIni: 0.235619
+thetaAdd: 0.837758
+theta: 1.07338
+r: 11.6716
+节点序号：325
+thetaIni: 0.314159
+thetaAdd: 0.837758
+theta: 1.15192
+r: 11.6337
+节点序号：326
+thetaIni: 0.392699
+thetaAdd: 0.837758
+theta: 1.23046
+r: 11.5959
+节点序号：327
+thetaIni: 0.471239
+thetaAdd: 0.837758
+theta: 1.309
+r: 11.558
+节点序号：328
+thetaIni: 0.549779
+thetaAdd: 0.837758
+theta: 1.38754
+r: 11.5201
+节点序号：329
+thetaIni: 0.628319
+thetaAdd: 0.837758
+theta: 1.46608
+r: 11.4822
+节点序号：330
+thetaIni: 0.706858
+thetaAdd: 0.837758
+theta: 1.54462
+r: 11.4443
+节点序号：331
+thetaIni: 0.785398
+thetaAdd: 0.837758
+theta: 1.62316
+r: 11.4064
+节点序号：332
+thetaIni: 0.863938
+thetaAdd: 0.837758
+theta: 1.7017
+r: 11.3685
+节点序号：333
+thetaIni: 0.942478
+thetaAdd: 0.837758
+theta: 1.78024
+r: 11.3306
+节点序号：334
+thetaIni: 1.02102
+thetaAdd: 0.837758
+theta: 1.85878
+r: 11.2927
+节点序号：335
+thetaIni: 1.09956
+thetaAdd: 0.837758
+theta: 1.93732
+r: 11.2549
+节点序号：336
+thetaIni: 1.1781
+thetaAdd: 0.837758
+theta: 2.01586
+r: 11.217
+节点序号：337
+thetaIni: 1.25664
+thetaAdd: 0.837758
+theta: 2.0944
+r: 11.1791
+节点序号：338
+thetaIni: 1.33518
+thetaAdd: 0.837758
+theta: 2.17293
+r: 11.1412
+节点序号：339
+thetaIni: 1.41372
+thetaAdd: 0.837758
+theta: 2.25147
+r: 11.1033
+节点序号：340
+thetaIni: 1.49226
+thetaAdd: 0.837758
+theta: 2.33001
+r: 11.0654
+节点序号：341
+thetaIni: 1.5708
+thetaAdd: 0.837758
+theta: 2.40855
+r: 11.0275
+节点序号：342
+thetaIni: 1.64934
+thetaAdd: 0.837758
+theta: 2.48709
+r: 12.3189
+节点序号：343
+thetaIni: 1.72788
+thetaAdd: 0.837758
+theta: 2.56563
+r: 12.2937
+节点序号：344
+thetaIni: 1.80642
+thetaAdd: 0.837758
+theta: 2.64417
+r: 12.2745
+节点序号：345
+thetaIni: 1.88496
+thetaAdd: 0.837758
+theta: 2.72271
+r: 12.2597
+节点序号：346
+thetaIni: 1.9635
+thetaAdd: 0.837758
+theta: 2.80125
+r: 12.2482
+节点序号：347
+thetaIni: 2.04204
+thetaAdd: 0.837758
+theta: 2.87979
+r: 12.2395
+节点序号：348
+thetaIni: 2.12058
+thetaAdd: 0.837758
+theta: 2.95833
+r: 12.2333
+节点序号：349
+thetaIni: 2.19911
+thetaAdd: 0.837758
+theta: 3.03687
+r: 12.2294
+节点序号：350
+thetaIni: 2.27765
+thetaAdd: 0.837758
+theta: 3.11541
+r: 12.2276
+节点序号：351
+thetaIni: 2.35619
+thetaAdd: 0.837758
+theta: 3.19395
+r: 12.228
+节点序号：352
+thetaIni: 2.43473
+thetaAdd: 0.837758
+theta: 3.27249
+r: 12.2304
+节点序号：353
+thetaIni: 2.51327
+thetaAdd: 0.837758
+theta: 3.35103
+r: 12.2351
+节点序号：354
+thetaIni: 2.59181
+thetaAdd: 0.837758
+theta: 3.42957
+r: 12.2421
+节点序号：355
+thetaIni: 2.67035
+thetaAdd: 0.837758
+theta: 3.50811
+r: 12.2517
+节点序号：356
+thetaIni: 2.74889
+thetaAdd: 0.837758
+theta: 3.58665
+r: 12.2642
+节点序号：357
+thetaIni: 2.82743
+thetaAdd: 0.837758
+theta: 3.66519
+r: 12.2804
+节点序号：358
+thetaIni: 2.90597
+thetaAdd: 0.837758
+theta: 3.74373
+r: 12.3013
+节点序号：359
+thetaIni: 2.98451
+thetaAdd: 0.837758
+theta: 3.82227
+r: 12.3292
+节点序号：360
+thetaIni: 3.06305
+thetaAdd: 0.837758
+theta: 3.90081
+r: 12
+节点序号：361
+thetaIni: 3.14159
+thetaAdd: 0.837758
+theta: 3.97935
+r: 12
+节点序号：362
+thetaIni: 3.22013
+thetaAdd: 0.837758
+theta: 4.05789
+r: 12
+节点序号：363
+thetaIni: 3.29867
+thetaAdd: 0.837758
+theta: 4.13643
+r: 12
+节点序号：364
+thetaIni: 3.37721
+thetaAdd: 0.837758
+theta: 4.21497
+r: 12
+节点序号：365
+thetaIni: 3.45575
+thetaAdd: 0.837758
+theta: 4.29351
+r: 12
+节点序号：366
+thetaIni: 3.53429
+thetaAdd: 0.837758
+theta: 4.37205
+r: 12
+节点序号：367
+thetaIni: 3.61283
+thetaAdd: 0.837758
+theta: 4.45059
+r: 12
+节点序号：368
+thetaIni: 3.69137
+thetaAdd: 0.837758
+theta: 4.52913
+r: 12
+节点序号：369
+thetaIni: 3.76991
+thetaAdd: 0.837758
+theta: 4.60767
+r: 12
+节点序号：370
+thetaIni: 3.84845
+thetaAdd: 0.837758
+theta: 4.68621
+r: 12
+节点序号：371
+thetaIni: 3.92699
+thetaAdd: 0.837758
+theta: 4.76475
+r: 12
+节点序号：372
+thetaIni: 4.00553
+thetaAdd: 0.837758
+theta: 4.84329
+r: 12
+节点序号：373
+thetaIni: 4.08407
+thetaAdd: 0.837758
+theta: 4.92183
+r: 12
+节点序号：374
+thetaIni: 4.16261
+thetaAdd: 0.837758
+theta: 5.00037
+r: 12
+节点序号：375
+thetaIni: 4.24115
+thetaAdd: 0.837758
+theta: 5.07891
+r: 12
+节点序号：376
+thetaIni: 4.31969
+thetaAdd: 0.837758
+theta: 5.15745
+r: 12
+节点序号：377
+thetaIni: 4.39823
+thetaAdd: 0.837758
+theta: 5.23599
+r: 12
+节点序号：378
+thetaIni: 4.47677
+thetaAdd: 0.837758
+theta: 5.31453
+r: 12
+节点序号：379
+thetaIni: 4.55531
+thetaAdd: 0.837758
+theta: 5.39307
+r: 12
+节点序号：380
+thetaIni: 4.63385
+thetaAdd: 0.837758
+theta: 5.47161
+r: 12
+节点序号：381
+thetaIni: 4.71239
+thetaAdd: 0.837758
+theta: 5.55015
+r: 12
+节点序号：382
+thetaIni: 4.79093
+thetaAdd: 0.837758
+theta: 5.62869
+r: 12
+节点序号：383
+thetaIni: 4.86947
+thetaAdd: 0.837758
+theta: 5.70723
+r: 12
+节点序号：384
+thetaIni: 4.94801
+thetaAdd: 0.837758
+theta: 5.78577
+r: 12
+节点序号：385
+thetaIni: 5.02655
+thetaAdd: 0.837758
+theta: 5.86431
+r: 12
+节点序号：386
+thetaIni: 5.10509
+thetaAdd: 0.837758
+theta: 5.94285
+r: 12
+节点序号：387
+thetaIni: 5.18363
+thetaAdd: 0.837758
+theta: 6.02139
+r: 12
+节点序号：388
+thetaIni: 5.26217
+thetaAdd: 0.837758
+theta: 6.09993
+r: 12
+节点序号：389
+thetaIni: 5.34071
+thetaAdd: 0.837758
+theta: 6.17847
+r: 12
+节点序号：390
+thetaIni: 5.41925
+thetaAdd: 0.837758
+theta: 6.25701
+r: 12
+节点序号：391
+thetaIni: 5.49779
+thetaAdd: 0.837758
+theta: 0.0523599
+r: 12
+节点序号：392
+thetaIni: 5.57633
+thetaAdd: 0.837758
+theta: 0.1309
+r: 12
+节点序号：393
+thetaIni: 5.65487
+thetaAdd: 0.837758
+theta: 0.20944
+r: 12
+节点序号：394
+thetaIni: 5.73341
+thetaAdd: 0.837758
+theta: 0.287979
+r: 12
+节点序号：395
+thetaIni: 5.81195
+thetaAdd: 0.837758
+theta: 0.366519
+r: 12
+节点序号：396
+thetaIni: 5.89049
+thetaAdd: 0.837758
+theta: 0.445059
+r: 11.9747
+节点序号：397
+thetaIni: 5.96903
+thetaAdd: 0.837758
+theta: 0.523599
+r: 11.9369
+节点序号：398
+thetaIni: 6.04757
+thetaAdd: 0.837758
+theta: 0.602139
+r: 11.899
+节点序号：399
+thetaIni: 6.12611
+thetaAdd: 0.837758
+theta: 0.680678
+r: 11.8611
+节点序号：400
+thetaIni: 6.20465
+thetaAdd: 0.837758
+theta: 0.759218
+r: 11.8232
+节点序号：401
+thetaIni: 0
+thetaAdd: 1.0472
+theta: 1.0472
+r: 11.6843
+节点序号：402
+thetaIni: 0.0785398
+thetaAdd: 1.0472
+theta: 1.12574
+r: 11.6464
+节点序号：403
+thetaIni: 0.15708
+thetaAdd: 1.0472
+theta: 1.20428
+r: 11.6085
+节点序号：404
+thetaIni: 0.235619
+thetaAdd: 1.0472
+theta: 1.28282
+r: 11.5706
+节点序号：405
+thetaIni: 0.314159
+thetaAdd: 1.0472
+theta: 1.36136
+r: 11.5327
+节点序号：406
+thetaIni: 0.392699
+thetaAdd: 1.0472
+theta: 1.4399
+r: 11.4948
+节点序号：407
+thetaIni: 0.471239
+thetaAdd: 1.0472
+theta: 1.51844
+r: 11.4569
+节点序号：408
+thetaIni: 0.549779
+thetaAdd: 1.0472
+theta: 1.59698
+r: 11.419
+节点序号：409
+thetaIni: 0.628319
+thetaAdd: 1.0472
+theta: 1.67552
+r: 11.3812
+节点序号：410
+thetaIni: 0.706858
+thetaAdd: 1.0472
+theta: 1.75406
+r: 11.3433
+节点序号：411
+thetaIni: 0.785398
+thetaAdd: 1.0472
+theta: 1.8326
+r: 11.3054
+节点序号：412
+thetaIni: 0.863938
+thetaAdd: 1.0472
+theta: 1.91114
+r: 11.2675
+节点序号：413
+thetaIni: 0.942478
+thetaAdd: 1.0472
+theta: 1.98968
+r: 11.2296
+节点序号：414
+thetaIni: 1.02102
+thetaAdd: 1.0472
+theta: 2.06822
+r: 11.1917
+节点序号：415
+thetaIni: 1.09956
+thetaAdd: 1.0472
+theta: 2.14675
+r: 11.1538
+节点序号：416
+thetaIni: 1.1781
+thetaAdd: 1.0472
+theta: 2.22529
+r: 11.1159
+节点序号：417
+thetaIni: 1.25664
+thetaAdd: 1.0472
+theta: 2.30383
+r: 11.078
+节点序号：418
+thetaIni: 1.33518
+thetaAdd: 1.0472
+theta: 2.38237
+r: 11.0402
+节点序号：419
+thetaIni: 1.41372
+thetaAdd: 1.0472
+theta: 2.46091
+r: 12.3292
+节点序号：420
+thetaIni: 1.49226
+thetaAdd: 1.0472
+theta: 2.53945
+r: 12.3013
+节点序号：421
+thetaIni: 1.5708
+thetaAdd: 1.0472
+theta: 2.61799
+r: 12.2804
+节点序号：422
+thetaIni: 1.64934
+thetaAdd: 1.0472
+theta: 2.69653
+r: 12.2642
+节点序号：423
+thetaIni: 1.72788
+thetaAdd: 1.0472
+theta: 2.77507
+r: 12.2517
+节点序号：424
+thetaIni: 1.80642
+thetaAdd: 1.0472
+theta: 2.85361
+r: 12.2421
+节点序号：425
+thetaIni: 1.88496
+thetaAdd: 1.0472
+theta: 2.93215
+r: 12.2351
+节点序号：426
+thetaIni: 1.9635
+thetaAdd: 1.0472
+theta: 3.01069
+r: 12.2304
+节点序号：427
+thetaIni: 2.04204
+thetaAdd: 1.0472
+theta: 3.08923
+r: 12.228
+节点序号：428
+thetaIni: 2.12058
+thetaAdd: 1.0472
+theta: 3.16777
+r: 12.2276
+节点序号：429
+thetaIni: 2.19911
+thetaAdd: 1.0472
+theta: 3.24631
+r: 12.2294
+节点序号：430
+thetaIni: 2.27765
+thetaAdd: 1.0472
+theta: 3.32485
+r: 12.2333
+节点序号：431
+thetaIni: 2.35619
+thetaAdd: 1.0472
+theta: 3.40339
+r: 12.2395
+节点序号：432
+thetaIni: 2.43473
+thetaAdd: 1.0472
+theta: 3.48193
+r: 12.2482
+节点序号：433
+thetaIni: 2.51327
+thetaAdd: 1.0472
+theta: 3.56047
+r: 12.2597
+节点序号：434
+thetaIni: 2.59181
+thetaAdd: 1.0472
+theta: 3.63901
+r: 12.2745
+节点序号：435
+thetaIni: 2.67035
+thetaAdd: 1.0472
+theta: 3.71755
+r: 12.2937
+节点序号：436
+thetaIni: 2.74889
+thetaAdd: 1.0472
+theta: 3.79609
+r: 12.3189
+节点序号：437
+thetaIni: 2.82743
+thetaAdd: 1.0472
+theta: 3.87463
+r: 12
+节点序号：438
+thetaIni: 2.90597
+thetaAdd: 1.0472
+theta: 3.95317
+r: 12
+节点序号：439
+thetaIni: 2.98451
+thetaAdd: 1.0472
+theta: 4.03171
+r: 12
+节点序号：440
+thetaIni: 3.06305
+thetaAdd: 1.0472
+theta: 4.11025
+r: 12
+节点序号：441
+thetaIni: 3.14159
+thetaAdd: 1.0472
+theta: 4.18879
+r: 12
+节点序号：442
+thetaIni: 3.22013
+thetaAdd: 1.0472
+theta: 4.26733
+r: 12
+节点序号：443
+thetaIni: 3.29867
+thetaAdd: 1.0472
+theta: 4.34587
+r: 12
+节点序号：444
+thetaIni: 3.37721
+thetaAdd: 1.0472
+theta: 4.42441
+r: 12
+节点序号：445
+thetaIni: 3.45575
+thetaAdd: 1.0472
+theta: 4.50295
+r: 12
+节点序号：446
+thetaIni: 3.53429
+thetaAdd: 1.0472
+theta: 4.58149
+r: 12
+节点序号：447
+thetaIni: 3.61283
+thetaAdd: 1.0472
+theta: 4.66003
+r: 12
+节点序号：448
+thetaIni: 3.69137
+thetaAdd: 1.0472
+theta: 4.73857
+r: 12
+节点序号：449
+thetaIni: 3.76991
+thetaAdd: 1.0472
+theta: 4.81711
+r: 12
+节点序号：450
+thetaIni: 3.84845
+thetaAdd: 1.0472
+theta: 4.89565
+r: 12
+节点序号：451
+thetaIni: 3.92699
+thetaAdd: 1.0472
+theta: 4.97419
+r: 12
+节点序号：452
+thetaIni: 4.00553
+thetaAdd: 1.0472
+theta: 5.05273
+r: 12
+节点序号：453
+thetaIni: 4.08407
+thetaAdd: 1.0472
+theta: 5.13127
+r: 12
+节点序号：454
+thetaIni: 4.16261
+thetaAdd: 1.0472
+theta: 5.20981
+r: 12
+节点序号：455
+thetaIni: 4.24115
+thetaAdd: 1.0472
+theta: 5.28835
+r: 12
+节点序号：456
+thetaIni: 4.31969
+thetaAdd: 1.0472
+theta: 5.36689
+r: 12
+节点序号：457
+thetaIni: 4.39823
+thetaAdd: 1.0472
+theta: 5.44543
+r: 12
+节点序号：458
+thetaIni: 4.47677
+thetaAdd: 1.0472
+theta: 5.52397
+r: 12
+节点序号：459
+thetaIni: 4.55531
+thetaAdd: 1.0472
+theta: 5.60251
+r: 12
+节点序号：460
+thetaIni: 4.63385
+thetaAdd: 1.0472
+theta: 5.68105
+r: 12
+节点序号：461
+thetaIni: 4.71239
+thetaAdd: 1.0472
+theta: 5.75959
+r: 12
+节点序号：462
+thetaIni: 4.79093
+thetaAdd: 1.0472
+theta: 5.83813
+r: 12
+节点序号：463
+thetaIni: 4.86947
+thetaAdd: 1.0472
+theta: 5.91667
+r: 12
+节点序号：464
+thetaIni: 4.94801
+thetaAdd: 1.0472
+theta: 5.99521
+r: 12
+节点序号：465
+thetaIni: 5.02655
+thetaAdd: 1.0472
+theta: 6.07375
+r: 12
+节点序号：466
+thetaIni: 5.10509
+thetaAdd: 1.0472
+theta: 6.15229
+r: 12
+节点序号：467
+thetaIni: 5.18363
+thetaAdd: 1.0472
+theta: 6.23083
+r: 12
+节点序号：468
+thetaIni: 5.26217
+thetaAdd: 1.0472
+theta: 0.0261799
+r: 12
+节点序号：469
+thetaIni: 5.34071
+thetaAdd: 1.0472
+theta: 0.10472
+r: 12
+节点序号：470
+thetaIni: 5.41925
+thetaAdd: 1.0472
+theta: 0.18326
+r: 12
+节点序号：471
+thetaIni: 5.49779
+thetaAdd: 1.0472
+theta: 0.261799
+r: 12
+节点序号：472
+thetaIni: 5.57633
+thetaAdd: 1.0472
+theta: 0.340339
+r: 12
+节点序号：473
+thetaIni: 5.65487
+thetaAdd: 1.0472
+theta: 0.418879
+r: 11.9874
+节点序号：474
+thetaIni: 5.73341
+thetaAdd: 1.0472
+theta: 0.497419
+r: 11.9495
+节点序号：475
+thetaIni: 5.81195
+thetaAdd: 1.0472
+theta: 0.575959
+r: 11.9116
+节点序号：476
+thetaIni: 5.89049
+thetaAdd: 1.0472
+theta: 0.654498
+r: 11.8737
+节点序号：477
+thetaIni: 5.96903
+thetaAdd: 1.0472
+theta: 0.733038
+r: 11.8358
+节点序号：478
+thetaIni: 6.04757
+thetaAdd: 1.0472
+theta: 0.811578
+r: 11.7979
+节点序号：479
+thetaIni: 6.12611
+thetaAdd: 1.0472
+theta: 0.890118
+r: 11.76
+节点序号：480
+thetaIni: 6.20465
+thetaAdd: 1.0472
+theta: 0.968658
+r: 11.7222
+节点序号：481
+thetaIni: 0
+thetaAdd: 1.25664
+theta: 1.25664
+r: 11.5832
+节点序号：482
+thetaIni: 0.0785398
+thetaAdd: 1.25664
+theta: 1.33518
+r: 11.5453
+节点序号：483
+thetaIni: 0.15708
+thetaAdd: 1.25664
+theta: 1.41372
+r: 11.5074
+节点序号：484
+thetaIni: 0.235619
+thetaAdd: 1.25664
+theta: 1.49226
+r: 11.4696
+节点序号：485
+thetaIni: 0.314159
+thetaAdd: 1.25664
+theta: 1.5708
+r: 11.4317
+节点序号：486
+thetaIni: 0.392699
+thetaAdd: 1.25664
+theta: 1.64934
+r: 11.3938
+节点序号：487
+thetaIni: 0.471239
+thetaAdd: 1.25664
+theta: 1.72788
+r: 11.3559
+节点序号：488
+thetaIni: 0.549779
+thetaAdd: 1.25664
+theta: 1.80642
+r: 11.318
+节点序号：489
+thetaIni: 0.628319
+thetaAdd: 1.25664
+theta: 1.88496
+r: 11.2801
+节点序号：490
+thetaIni: 0.706858
+thetaAdd: 1.25664
+theta: 1.9635
+r: 11.2422
+节点序号：491
+thetaIni: 0.785398
+thetaAdd: 1.25664
+theta: 2.04204
+r: 11.2043
+节点序号：492
+thetaIni: 0.863938
+thetaAdd: 1.25664
+theta: 2.12058
+r: 11.1665
+节点序号：493
+thetaIni: 0.942478
+thetaAdd: 1.25664
+theta: 2.19911
+r: 11.1286
+节点序号：494
+thetaIni: 1.02102
+thetaAdd: 1.25664
+theta: 2.27765
+r: 11.0907
+节点序号：495
+thetaIni: 1.09956
+thetaAdd: 1.25664
+theta: 2.35619
+r: 11.0528
+节点序号：496
+thetaIni: 1.1781
+thetaAdd: 1.25664
+theta: 2.43473
+r: 12.341
+节点序号：497
+thetaIni: 1.25664
+thetaAdd: 1.25664
+theta: 2.51327
+r: 12.3096
+节点序号：498
+thetaIni: 1.33518
+thetaAdd: 1.25664
+theta: 2.59181
+r: 12.2867
+节点序号：499
+thetaIni: 1.41372
+thetaAdd: 1.25664
+theta: 2.67035
+r: 12.2692
+节点序号：500
+thetaIni: 1.49226
+thetaAdd: 1.25664
+theta: 2.74889
+r: 12.2555
+节点序号：501
+thetaIni: 1.5708
+thetaAdd: 1.25664
+theta: 2.82743
+r: 12.245
+节点序号：502
+thetaIni: 1.64934
+thetaAdd: 1.25664
+theta: 2.90597
+r: 12.2372
+节点序号：503
+thetaIni: 1.72788
+thetaAdd: 1.25664
+theta: 2.98451
+r: 12.2317
+节点序号：504
+thetaIni: 1.80642
+thetaAdd: 1.25664
+theta: 3.06305
+r: 12.2286
+节点序号：505
+thetaIni: 1.88496
+thetaAdd: 1.25664
+theta: 3.14159
+r: 12.2275
+节点序号：506
+thetaIni: 1.9635
+thetaAdd: 1.25664
+theta: 3.22013
+r: 12.2286
+节点序号：507
+thetaIni: 2.04204
+thetaAdd: 1.25664
+theta: 3.29867
+r: 12.2317
+节点序号：508
+thetaIni: 2.12058
+thetaAdd: 1.25664
+theta: 3.37721
+r: 12.2372
+节点序号：509
+thetaIni: 2.19911
+thetaAdd: 1.25664
+theta: 3.45575
+r: 12.245
+节点序号：510
+thetaIni: 2.27765
+thetaAdd: 1.25664
+theta: 3.53429
+r: 12.2555
+节点序号：511
+thetaIni: 2.35619
+thetaAdd: 1.25664
+theta: 3.61283
+r: 12.2692
+节点序号：512
+thetaIni: 2.43473
+thetaAdd: 1.25664
+theta: 3.69137
+r: 12.2867
+节点序号：513
+thetaIni: 2.51327
+thetaAdd: 1.25664
+theta: 3.76991
+r: 12.3096
+节点序号：514
+thetaIni: 2.59181
+thetaAdd: 1.25664
+theta: 3.84845
+r: 12.341
+节点序号：515
+thetaIni: 2.67035
+thetaAdd: 1.25664
+theta: 3.92699
+r: 12
+节点序号：516
+thetaIni: 2.74889
+thetaAdd: 1.25664
+theta: 4.00553
+r: 12
+节点序号：517
+thetaIni: 2.82743
+thetaAdd: 1.25664
+theta: 4.08407
+r: 12
+节点序号：518
+thetaIni: 2.90597
+thetaAdd: 1.25664
+theta: 4.16261
+r: 12
+节点序号：519
+thetaIni: 2.98451
+thetaAdd: 1.25664
+theta: 4.24115
+r: 12
+节点序号：520
+thetaIni: 3.06305
+thetaAdd: 1.25664
+theta: 4.31969
+r: 12
+节点序号：521
+thetaIni: 3.14159
+thetaAdd: 1.25664
+theta: 4.39823
+r: 12
+节点序号：522
+thetaIni: 3.22013
+thetaAdd: 1.25664
+theta: 4.47677
+r: 12
+节点序号：523
+thetaIni: 3.29867
+thetaAdd: 1.25664
+theta: 4.55531
+r: 12
+节点序号：524
+thetaIni: 3.37721
+thetaAdd: 1.25664
+theta: 4.63385
+r: 12
+节点序号：525
+thetaIni: 3.45575
+thetaAdd: 1.25664
+theta: 4.71239
+r: 12
+节点序号：526
+thetaIni: 3.53429
+thetaAdd: 1.25664
+theta: 4.79093
+r: 12
+节点序号：527
+thetaIni: 3.61283
+thetaAdd: 1.25664
+theta: 4.86947
+r: 12
+节点序号：528
+thetaIni: 3.69137
+thetaAdd: 1.25664
+theta: 4.94801
+r: 12
+节点序号：529
+thetaIni: 3.76991
+thetaAdd: 1.25664
+theta: 5.02655
+r: 12
+节点序号：530
+thetaIni: 3.84845
+thetaAdd: 1.25664
+theta: 5.10509
+r: 12
+节点序号：531
+thetaIni: 3.92699
+thetaAdd: 1.25664
+theta: 5.18363
+r: 12
+节点序号：532
+thetaIni: 4.00553
+thetaAdd: 1.25664
+theta: 5.26217
+r: 12
+节点序号：533
+thetaIni: 4.08407
+thetaAdd: 1.25664
+theta: 5.34071
+r: 12
+节点序号：534
+thetaIni: 4.16261
+thetaAdd: 1.25664
+theta: 5.41925
+r: 12
+节点序号：535
+thetaIni: 4.24115
+thetaAdd: 1.25664
+theta: 5.49779
+r: 12
+节点序号：536
+thetaIni: 4.31969
+thetaAdd: 1.25664
+theta: 5.57633
+r: 12
+节点序号：537
+thetaIni: 4.39823
+thetaAdd: 1.25664
+theta: 5.65487
+r: 12
+节点序号：538
+thetaIni: 4.47677
+thetaAdd: 1.25664
+theta: 5.73341
+r: 12
+节点序号：539
+thetaIni: 4.55531
+thetaAdd: 1.25664
+theta: 5.81195
+r: 12
+节点序号：540
+thetaIni: 4.63385
+thetaAdd: 1.25664
+theta: 5.89049
+r: 12
+节点序号：541
+thetaIni: 4.71239
+thetaAdd: 1.25664
+theta: 5.96903
+r: 12
+节点序号：542
+thetaIni: 4.79093
+thetaAdd: 1.25664
+theta: 6.04757
+r: 12
+节点序号：543
+thetaIni: 4.86947
+thetaAdd: 1.25664
+theta: 6.12611
+r: 12
+节点序号：544
+thetaIni: 4.94801
+thetaAdd: 1.25664
+theta: 6.20465
+r: 12
+节点序号：545
+thetaIni: 5.02655
+thetaAdd: 1.25664
+theta: 0
+r: 12
+节点序号：546
+thetaIni: 5.10509
+thetaAdd: 1.25664
+theta: 0.0785398
+r: 12
+节点序号：547
+thetaIni: 5.18363
+thetaAdd: 1.25664
+theta: 0.15708
+r: 12
+节点序号：548
+thetaIni: 5.26217
+thetaAdd: 1.25664
+theta: 0.235619
+r: 12
+节点序号：549
+thetaIni: 5.34071
+thetaAdd: 1.25664
+theta: 0.314159
+r: 12
+节点序号：550
+thetaIni: 5.41925
+thetaAdd: 1.25664
+theta: 0.392699
+r: 12
+节点序号：551
+thetaIni: 5.49779
+thetaAdd: 1.25664
+theta: 0.471239
+r: 11.9621
+节点序号：552
+thetaIni: 5.57633
+thetaAdd: 1.25664
+theta: 0.549779
+r: 11.9242
+节点序号：553
+thetaIni: 5.65487
+thetaAdd: 1.25664
+theta: 0.628319
+r: 11.8863
+节点序号：554
+thetaIni: 5.73341
+thetaAdd: 1.25664
+theta: 0.706858
+r: 11.8484
+节点序号：555
+thetaIni: 5.81195
+thetaAdd: 1.25664
+theta: 0.785398
+r: 11.8106
+节点序号：556
+thetaIni: 5.89049
+thetaAdd: 1.25664
+theta: 0.863938
+r: 11.7727
+节点序号：557
+thetaIni: 5.96903
+thetaAdd: 1.25664
+theta: 0.942478
+r: 11.7348
+节点序号：558
+thetaIni: 6.04757
+thetaAdd: 1.25664
+theta: 1.02102
+r: 11.6969
+节点序号：559
+thetaIni: 6.12611
+thetaAdd: 1.25664
+theta: 1.09956
+r: 11.659
+节点序号：560
+thetaIni: 6.20465
+thetaAdd: 1.25664
+theta: 1.1781
+r: 11.6211
+节点序号：561
+thetaIni: 0
+thetaAdd: 1.46608
+theta: 1.46608
+r: 11.4822
+节点序号：562
+thetaIni: 0.0785398
+thetaAdd: 1.46608
+theta: 1.54462
+r: 11.4443
+节点序号：563
+thetaIni: 0.15708
+thetaAdd: 1.46608
+theta: 1.62316
+r: 11.4064
+节点序号：564
+thetaIni: 0.235619
+thetaAdd: 1.46608
+theta: 1.7017
+r: 11.3685
+节点序号：565
+thetaIni: 0.314159
+thetaAdd: 1.46608
+theta: 1.78024
+r: 11.3306
+节点序号：566
+thetaIni: 0.392699
+thetaAdd: 1.46608
+theta: 1.85878
+r: 11.2927
+节点序号：567
+thetaIni: 0.471239
+thetaAdd: 1.46608
+theta: 1.93732
+r: 11.2549
+节点序号：568
+thetaIni: 0.549779
+thetaAdd: 1.46608
+theta: 2.01586
+r: 11.217
+节点序号：569
+thetaIni: 0.628319
+thetaAdd: 1.46608
+theta: 2.0944
+r: 11.1791
+节点序号：570
+thetaIni: 0.706858
+thetaAdd: 1.46608
+theta: 2.17293
+r: 11.1412
+节点序号：571
+thetaIni: 0.785398
+thetaAdd: 1.46608
+theta: 2.25147
+r: 11.1033
+节点序号：572
+thetaIni: 0.863938
+thetaAdd: 1.46608
+theta: 2.33001
+r: 11.0654
+节点序号：573
+thetaIni: 0.942478
+thetaAdd: 1.46608
+theta: 2.40855
+r: 11.0275
+节点序号：574
+thetaIni: 1.02102
+thetaAdd: 1.46608
+theta: 2.48709
+r: 12.3189
+节点序号：575
+thetaIni: 1.09956
+thetaAdd: 1.46608
+theta: 2.56563
+r: 12.2937
+节点序号：576
+thetaIni: 1.1781
+thetaAdd: 1.46608
+theta: 2.64417
+r: 12.2745
+节点序号：577
+thetaIni: 1.25664
+thetaAdd: 1.46608
+theta: 2.72271
+r: 12.2597
+节点序号：578
+thetaIni: 1.33518
+thetaAdd: 1.46608
+theta: 2.80125
+r: 12.2482
+节点序号：579
+thetaIni: 1.41372
+thetaAdd: 1.46608
+theta: 2.87979
+r: 12.2395
+节点序号：580
+thetaIni: 1.49226
+thetaAdd: 1.46608
+theta: 2.95833
+r: 12.2333
+节点序号：581
+thetaIni: 1.5708
+thetaAdd: 1.46608
+theta: 3.03687
+r: 12.2294
+节点序号：582
+thetaIni: 1.64934
+thetaAdd: 1.46608
+theta: 3.11541
+r: 12.2276
+节点序号：583
+thetaIni: 1.72788
+thetaAdd: 1.46608
+theta: 3.19395
+r: 12.228
+节点序号：584
+thetaIni: 1.80642
+thetaAdd: 1.46608
+theta: 3.27249
+r: 12.2304
+节点序号：585
+thetaIni: 1.88496
+thetaAdd: 1.46608
+theta: 3.35103
+r: 12.2351
+节点序号：586
+thetaIni: 1.9635
+thetaAdd: 1.46608
+theta: 3.42957
+r: 12.2421
+节点序号：587
+thetaIni: 2.04204
+thetaAdd: 1.46608
+theta: 3.50811
+r: 12.2517
+节点序号：588
+thetaIni: 2.12058
+thetaAdd: 1.46608
+theta: 3.58665
+r: 12.2642
+节点序号：589
+thetaIni: 2.19911
+thetaAdd: 1.46608
+theta: 3.66519
+r: 12.2804
+节点序号：590
+thetaIni: 2.27765
+thetaAdd: 1.46608
+theta: 3.74373
+r: 12.3013
+节点序号：591
+thetaIni: 2.35619
+thetaAdd: 1.46608
+theta: 3.82227
+r: 12.3292
+节点序号：592
+thetaIni: 2.43473
+thetaAdd: 1.46608
+theta: 3.90081
+r: 12
+节点序号：593
+thetaIni: 2.51327
+thetaAdd: 1.46608
+theta: 3.97935
+r: 12
+节点序号：594
+thetaIni: 2.59181
+thetaAdd: 1.46608
+theta: 4.05789
+r: 12
+节点序号：595
+thetaIni: 2.67035
+thetaAdd: 1.46608
+theta: 4.13643
+r: 12
+节点序号：596
+thetaIni: 2.74889
+thetaAdd: 1.46608
+theta: 4.21497
+r: 12
+节点序号：597
+thetaIni: 2.82743
+thetaAdd: 1.46608
+theta: 4.29351
+r: 12
+节点序号：598
+thetaIni: 2.90597
+thetaAdd: 1.46608
+theta: 4.37205
+r: 12
+节点序号：599
+thetaIni: 2.98451
+thetaAdd: 1.46608
+theta: 4.45059
+r: 12
+节点序号：600
+thetaIni: 3.06305
+thetaAdd: 1.46608
+theta: 4.52913
+r: 12
+节点序号：601
+thetaIni: 3.14159
+thetaAdd: 1.46608
+theta: 4.60767
+r: 12
+节点序号：602
+thetaIni: 3.22013
+thetaAdd: 1.46608
+theta: 4.68621
+r: 12
+节点序号：603
+thetaIni: 3.29867
+thetaAdd: 1.46608
+theta: 4.76475
+r: 12
+节点序号：604
+thetaIni: 3.37721
+thetaAdd: 1.46608
+theta: 4.84329
+r: 12
+节点序号：605
+thetaIni: 3.45575
+thetaAdd: 1.46608
+theta: 4.92183
+r: 12
+节点序号：606
+thetaIni: 3.53429
+thetaAdd: 1.46608
+theta: 5.00037
+r: 12
+节点序号：607
+thetaIni: 3.61283
+thetaAdd: 1.46608
+theta: 5.07891
+r: 12
+节点序号：608
+thetaIni: 3.69137
+thetaAdd: 1.46608
+theta: 5.15745
+r: 12
+节点序号：609
+thetaIni: 3.76991
+thetaAdd: 1.46608
+theta: 5.23599
+r: 12
+节点序号：610
+thetaIni: 3.84845
+thetaAdd: 1.46608
+theta: 5.31453
+r: 12
+节点序号：611
+thetaIni: 3.92699
+thetaAdd: 1.46608
+theta: 5.39307
+r: 12
+节点序号：612
+thetaIni: 4.00553
+thetaAdd: 1.46608
+theta: 5.47161
+r: 12
+节点序号：613
+thetaIni: 4.08407
+thetaAdd: 1.46608
+theta: 5.55015
+r: 12
+节点序号：614
+thetaIni: 4.16261
+thetaAdd: 1.46608
+theta: 5.62869
+r: 12
+节点序号：615
+thetaIni: 4.24115
+thetaAdd: 1.46608
+theta: 5.70723
+r: 12
+节点序号：616
+thetaIni: 4.31969
+thetaAdd: 1.46608
+theta: 5.78577
+r: 12
+节点序号：617
+thetaIni: 4.39823
+thetaAdd: 1.46608
+theta: 5.86431
+r: 12
+节点序号：618
+thetaIni: 4.47677
+thetaAdd: 1.46608
+theta: 5.94285
+r: 12
+节点序号：619
+thetaIni: 4.55531
+thetaAdd: 1.46608
+theta: 6.02139
+r: 12
+节点序号：620
+thetaIni: 4.63385
+thetaAdd: 1.46608
+theta: 6.09993
+r: 12
+节点序号：621
+thetaIni: 4.71239
+thetaAdd: 1.46608
+theta: 6.17847
+r: 12
+节点序号：622
+thetaIni: 4.79093
+thetaAdd: 1.46608
+theta: 6.25701
+r: 12
+节点序号：623
+thetaIni: 4.86947
+thetaAdd: 1.46608
+theta: 0.0523599
+r: 12
+节点序号：624
+thetaIni: 4.94801
+thetaAdd: 1.46608
+theta: 0.1309
+r: 12
+节点序号：625
+thetaIni: 5.02655
+thetaAdd: 1.46608
+theta: 0.20944
+r: 12
+节点序号：626
+thetaIni: 5.10509
+thetaAdd: 1.46608
+theta: 0.287979
+r: 12
+节点序号：627
+thetaIni: 5.18363
+thetaAdd: 1.46608
+theta: 0.366519
+r: 12
+节点序号：628
+thetaIni: 5.26217
+thetaAdd: 1.46608
+theta: 0.445059
+r: 11.9747
+节点序号：629
+thetaIni: 5.34071
+thetaAdd: 1.46608
+theta: 0.523599
+r: 11.9369
+节点序号：630
+thetaIni: 5.41925
+thetaAdd: 1.46608
+theta: 0.602139
+r: 11.899
+节点序号：631
+thetaIni: 5.49779
+thetaAdd: 1.46608
+theta: 0.680678
+r: 11.8611
+节点序号：632
+thetaIni: 5.57633
+thetaAdd: 1.46608
+theta: 0.759218
+r: 11.8232
+节点序号：633
+thetaIni: 5.65487
+thetaAdd: 1.46608
+theta: 0.837758
+r: 11.7853
+节点序号：634
+thetaIni: 5.73341
+thetaAdd: 1.46608
+theta: 0.916298
+r: 11.7474
+节点序号：635
+thetaIni: 5.81195
+thetaAdd: 1.46608
+theta: 0.994838
+r: 11.7095
+节点序号：636
+thetaIni: 5.89049
+thetaAdd: 1.46608
+theta: 1.07338
+r: 11.6716
+节点序号：637
+thetaIni: 5.96903
+thetaAdd: 1.46608
+theta: 1.15192
+r: 11.6337
+节点序号：638
+thetaIni: 6.04757
+thetaAdd: 1.46608
+theta: 1.23046
+r: 11.5959
+节点序号：639
+thetaIni: 6.12611
+thetaAdd: 1.46608
+theta: 1.309
+r: 11.558
+节点序号：640
+thetaIni: 6.20465
+thetaAdd: 1.46608
+theta: 1.38754
+r: 11.5201
+节点序号：641
+thetaIni: 0
+thetaAdd: 1.67552
+theta: 1.67552
+r: 11.3812
+节点序号：642
+thetaIni: 0.0785398
+thetaAdd: 1.67552
+theta: 1.75406
+r: 11.3433
+节点序号：643
+thetaIni: 0.15708
+thetaAdd: 1.67552
+theta: 1.8326
+r: 11.3054
+节点序号：644
+thetaIni: 0.235619
+thetaAdd: 1.67552
+theta: 1.91114
+r: 11.2675
+节点序号：645
+thetaIni: 0.314159
+thetaAdd: 1.67552
+theta: 1.98968
+r: 11.2296
+节点序号：646
+thetaIni: 0.392699
+thetaAdd: 1.67552
+theta: 2.06822
+r: 11.1917
+节点序号：647
+thetaIni: 0.471239
+thetaAdd: 1.67552
+theta: 2.14675
+r: 11.1538
+节点序号：648
+thetaIni: 0.549779
+thetaAdd: 1.67552
+theta: 2.22529
+r: 11.1159
+节点序号：649
+thetaIni: 0.628319
+thetaAdd: 1.67552
+theta: 2.30383
+r: 11.078
+节点序号：650
+thetaIni: 0.706858
+thetaAdd: 1.67552
+theta: 2.38237
+r: 11.0402
+节点序号：651
+thetaIni: 0.785398
+thetaAdd: 1.67552
+theta: 2.46091
+r: 12.3292
+节点序号：652
+thetaIni: 0.863938
+thetaAdd: 1.67552
+theta: 2.53945
+r: 12.3013
+节点序号：653
+thetaIni: 0.942478
+thetaAdd: 1.67552
+theta: 2.61799
+r: 12.2804
+节点序号：654
+thetaIni: 1.02102
+thetaAdd: 1.67552
+theta: 2.69653
+r: 12.2642
+节点序号：655
+thetaIni: 1.09956
+thetaAdd: 1.67552
+theta: 2.77507
+r: 12.2517
+节点序号：656
+thetaIni: 1.1781
+thetaAdd: 1.67552
+theta: 2.85361
+r: 12.2421
+节点序号：657
+thetaIni: 1.25664
+thetaAdd: 1.67552
+theta: 2.93215
+r: 12.2351
+节点序号：658
+thetaIni: 1.33518
+thetaAdd: 1.67552
+theta: 3.01069
+r: 12.2304
+节点序号：659
+thetaIni: 1.41372
+thetaAdd: 1.67552
+theta: 3.08923
+r: 12.228
+节点序号：660
+thetaIni: 1.49226
+thetaAdd: 1.67552
+theta: 3.16777
+r: 12.2276
+节点序号：661
+thetaIni: 1.5708
+thetaAdd: 1.67552
+theta: 3.24631
+r: 12.2294
+节点序号：662
+thetaIni: 1.64934
+thetaAdd: 1.67552
+theta: 3.32485
+r: 12.2333
+节点序号：663
+thetaIni: 1.72788
+thetaAdd: 1.67552
+theta: 3.40339
+r: 12.2395
+节点序号：664
+thetaIni: 1.80642
+thetaAdd: 1.67552
+theta: 3.48193
+r: 12.2482
+节点序号：665
+thetaIni: 1.88496
+thetaAdd: 1.67552
+theta: 3.56047
+r: 12.2597
+节点序号：666
+thetaIni: 1.9635
+thetaAdd: 1.67552
+theta: 3.63901
+r: 12.2745
+节点序号：667
+thetaIni: 2.04204
+thetaAdd: 1.67552
+theta: 3.71755
+r: 12.2937
+节点序号：668
+thetaIni: 2.12058
+thetaAdd: 1.67552
+theta: 3.79609
+r: 12.3189
+节点序号：669
+thetaIni: 2.19911
+thetaAdd: 1.67552
+theta: 3.87463
+r: 12
+节点序号：670
+thetaIni: 2.27765
+thetaAdd: 1.67552
+theta: 3.95317
+r: 12
+节点序号：671
+thetaIni: 2.35619
+thetaAdd: 1.67552
+theta: 4.03171
+r: 12
+节点序号：672
+thetaIni: 2.43473
+thetaAdd: 1.67552
+theta: 4.11025
+r: 12
+节点序号：673
+thetaIni: 2.51327
+thetaAdd: 1.67552
+theta: 4.18879
+r: 12
+节点序号：674
+thetaIni: 2.59181
+thetaAdd: 1.67552
+theta: 4.26733
+r: 12
+节点序号：675
+thetaIni: 2.67035
+thetaAdd: 1.67552
+theta: 4.34587
+r: 12
+节点序号：676
+thetaIni: 2.74889
+thetaAdd: 1.67552
+theta: 4.42441
+r: 12
+节点序号：677
+thetaIni: 2.82743
+thetaAdd: 1.67552
+theta: 4.50295
+r: 12
+节点序号：678
+thetaIni: 2.90597
+thetaAdd: 1.67552
+theta: 4.58149
+r: 12
+节点序号：679
+thetaIni: 2.98451
+thetaAdd: 1.67552
+theta: 4.66003
+r: 12
+节点序号：680
+thetaIni: 3.06305
+thetaAdd: 1.67552
+theta: 4.73857
+r: 12
+节点序号：681
+thetaIni: 3.14159
+thetaAdd: 1.67552
+theta: 4.81711
+r: 12
+节点序号：682
+thetaIni: 3.22013
+thetaAdd: 1.67552
+theta: 4.89565
+r: 12
+节点序号：683
+thetaIni: 3.29867
+thetaAdd: 1.67552
+theta: 4.97419
+r: 12
+节点序号：684
+thetaIni: 3.37721
+thetaAdd: 1.67552
+theta: 5.05273
+r: 12
+节点序号：685
+thetaIni: 3.45575
+thetaAdd: 1.67552
+theta: 5.13127
+r: 12
+节点序号：686
+thetaIni: 3.53429
+thetaAdd: 1.67552
+theta: 5.20981
+r: 12
+节点序号：687
+thetaIni: 3.61283
+thetaAdd: 1.67552
+theta: 5.28835
+r: 12
+节点序号：688
+thetaIni: 3.69137
+thetaAdd: 1.67552
+theta: 5.36689
+r: 12
+节点序号：689
+thetaIni: 3.76991
+thetaAdd: 1.67552
+theta: 5.44543
+r: 12
+节点序号：690
+thetaIni: 3.84845
+thetaAdd: 1.67552
+theta: 5.52397
+r: 12
+节点序号：691
+thetaIni: 3.92699
+thetaAdd: 1.67552
+theta: 5.60251
+r: 12
+节点序号：692
+thetaIni: 4.00553
+thetaAdd: 1.67552
+theta: 5.68105
+r: 12
+节点序号：693
+thetaIni: 4.08407
+thetaAdd: 1.67552
+theta: 5.75959
+r: 12
+节点序号：694
+thetaIni: 4.16261
+thetaAdd: 1.67552
+theta: 5.83813
+r: 12
+节点序号：695
+thetaIni: 4.24115
+thetaAdd: 1.67552
+theta: 5.91667
+r: 12
+节点序号：696
+thetaIni: 4.31969
+thetaAdd: 1.67552
+theta: 5.99521
+r: 12
+节点序号：697
+thetaIni: 4.39823
+thetaAdd: 1.67552
+theta: 6.07375
+r: 12
+节点序号：698
+thetaIni: 4.47677
+thetaAdd: 1.67552
+theta: 6.15229
+r: 12
+节点序号：699
+thetaIni: 4.55531
+thetaAdd: 1.67552
+theta: 6.23083
+r: 12
+节点序号：700
+thetaIni: 4.63385
+thetaAdd: 1.67552
+theta: 0.0261799
+r: 12
+节点序号：701
+thetaIni: 4.71239
+thetaAdd: 1.67552
+theta: 0.10472
+r: 12
+节点序号：702
+thetaIni: 4.79093
+thetaAdd: 1.67552
+theta: 0.18326
+r: 12
+节点序号：703
+thetaIni: 4.86947
+thetaAdd: 1.67552
+theta: 0.261799
+r: 12
+节点序号：704
+thetaIni: 4.94801
+thetaAdd: 1.67552
+theta: 0.340339
+r: 12
+节点序号：705
+thetaIni: 5.02655
+thetaAdd: 1.67552
+theta: 0.418879
+r: 11.9874
+节点序号：706
+thetaIni: 5.10509
+thetaAdd: 1.67552
+theta: 0.497419
+r: 11.9495
+节点序号：707
+thetaIni: 5.18363
+thetaAdd: 1.67552
+theta: 0.575959
+r: 11.9116
+节点序号：708
+thetaIni: 5.26217
+thetaAdd: 1.67552
+theta: 0.654498
+r: 11.8737
+节点序号：709
+thetaIni: 5.34071
+thetaAdd: 1.67552
+theta: 0.733038
+r: 11.8358
+节点序号：710
+thetaIni: 5.41925
+thetaAdd: 1.67552
+theta: 0.811578
+r: 11.7979
+节点序号：711
+thetaIni: 5.49779
+thetaAdd: 1.67552
+theta: 0.890118
+r: 11.76
+节点序号：712
+thetaIni: 5.57633
+thetaAdd: 1.67552
+theta: 0.968658
+r: 11.7222
+节点序号：713
+thetaIni: 5.65487
+thetaAdd: 1.67552
+theta: 1.0472
+r: 11.6843
+节点序号：714
+thetaIni: 5.73341
+thetaAdd: 1.67552
+theta: 1.12574
+r: 11.6464
+节点序号：715
+thetaIni: 5.81195
+thetaAdd: 1.67552
+theta: 1.20428
+r: 11.6085
+节点序号：716
+thetaIni: 5.89049
+thetaAdd: 1.67552
+theta: 1.28282
+r: 11.5706
+节点序号：717
+thetaIni: 5.96903
+thetaAdd: 1.67552
+theta: 1.36136
+r: 11.5327
+节点序号：718
+thetaIni: 6.04757
+thetaAdd: 1.67552
+theta: 1.4399
+r: 11.4948
+节点序号：719
+thetaIni: 6.12611
+thetaAdd: 1.67552
+theta: 1.51844
+r: 11.4569
+节点序号：720
+thetaIni: 6.20465
+thetaAdd: 1.67552
+theta: 1.59698
+r: 11.419
+节点序号：721
+thetaIni: 0
+thetaAdd: 1.88496
+theta: 1.88496
+r: 11.2801
+节点序号：722
+thetaIni: 0.0785398
+thetaAdd: 1.88496
+theta: 1.9635
+r: 11.2422
+节点序号：723
+thetaIni: 0.15708
+thetaAdd: 1.88496
+theta: 2.04204
+r: 11.2043
+节点序号：724
+thetaIni: 0.235619
+thetaAdd: 1.88496
+theta: 2.12058
+r: 11.1665
+节点序号：725
+thetaIni: 0.314159
+thetaAdd: 1.88496
+theta: 2.19911
+r: 11.1286
+节点序号：726
+thetaIni: 0.392699
+thetaAdd: 1.88496
+theta: 2.27765
+r: 11.0907
+节点序号：727
+thetaIni: 0.471239
+thetaAdd: 1.88496
+theta: 2.35619
+r: 11.0528
+节点序号：728
+thetaIni: 0.549779
+thetaAdd: 1.88496
+theta: 2.43473
+r: 12.341
+节点序号：729
+thetaIni: 0.628319
+thetaAdd: 1.88496
+theta: 2.51327
+r: 12.3096
+节点序号：730
+thetaIni: 0.706858
+thetaAdd: 1.88496
+theta: 2.59181
+r: 12.2867
+节点序号：731
+thetaIni: 0.785398
+thetaAdd: 1.88496
+theta: 2.67035
+r: 12.2692
+节点序号：732
+thetaIni: 0.863938
+thetaAdd: 1.88496
+theta: 2.74889
+r: 12.2555
+节点序号：733
+thetaIni: 0.942478
+thetaAdd: 1.88496
+theta: 2.82743
+r: 12.245
+节点序号：734
+thetaIni: 1.02102
+thetaAdd: 1.88496
+theta: 2.90597
+r: 12.2372
+节点序号：735
+thetaIni: 1.09956
+thetaAdd: 1.88496
+theta: 2.98451
+r: 12.2317
+节点序号：736
+thetaIni: 1.1781
+thetaAdd: 1.88496
+theta: 3.06305
+r: 12.2286
+节点序号：737
+thetaIni: 1.25664
+thetaAdd: 1.88496
+theta: 3.14159
+r: 12.2275
+节点序号：738
+thetaIni: 1.33518
+thetaAdd: 1.88496
+theta: 3.22013
+r: 12.2286
+节点序号：739
+thetaIni: 1.41372
+thetaAdd: 1.88496
+theta: 3.29867
+r: 12.2317
+节点序号：740
+thetaIni: 1.49226
+thetaAdd: 1.88496
+theta: 3.37721
+r: 12.2372
+节点序号：741
+thetaIni: 1.5708
+thetaAdd: 1.88496
+theta: 3.45575
+r: 12.245
+节点序号：742
+thetaIni: 1.64934
+thetaAdd: 1.88496
+theta: 3.53429
+r: 12.2555
+节点序号：743
+thetaIni: 1.72788
+thetaAdd: 1.88496
+theta: 3.61283
+r: 12.2692
+节点序号：744
+thetaIni: 1.80642
+thetaAdd: 1.88496
+theta: 3.69137
+r: 12.2867
+节点序号：745
+thetaIni: 1.88496
+thetaAdd: 1.88496
+theta: 3.76991
+r: 12.3096
+节点序号：746
+thetaIni: 1.9635
+thetaAdd: 1.88496
+theta: 3.84845
+r: 12.341
+节点序号：747
+thetaIni: 2.04204
+thetaAdd: 1.88496
+theta: 3.92699
+r: 12
+节点序号：748
+thetaIni: 2.12058
+thetaAdd: 1.88496
+theta: 4.00553
+r: 12
+节点序号：749
+thetaIni: 2.19911
+thetaAdd: 1.88496
+theta: 4.08407
+r: 12
+节点序号：750
+thetaIni: 2.27765
+thetaAdd: 1.88496
+theta: 4.16261
+r: 12
+节点序号：751
+thetaIni: 2.35619
+thetaAdd: 1.88496
+theta: 4.24115
+r: 12
+节点序号：752
+thetaIni: 2.43473
+thetaAdd: 1.88496
+theta: 4.31969
+r: 12
+节点序号：753
+thetaIni: 2.51327
+thetaAdd: 1.88496
+theta: 4.39823
+r: 12
+节点序号：754
+thetaIni: 2.59181
+thetaAdd: 1.88496
+theta: 4.47677
+r: 12
+节点序号：755
+thetaIni: 2.67035
+thetaAdd: 1.88496
+theta: 4.55531
+r: 12
+节点序号：756
+thetaIni: 2.74889
+thetaAdd: 1.88496
+theta: 4.63385
+r: 12
+节点序号：757
+thetaIni: 2.82743
+thetaAdd: 1.88496
+theta: 4.71239
+r: 12
+节点序号：758
+thetaIni: 2.90597
+thetaAdd: 1.88496
+theta: 4.79093
+r: 12
+节点序号：759
+thetaIni: 2.98451
+thetaAdd: 1.88496
+theta: 4.86947
+r: 12
+节点序号：760
+thetaIni: 3.06305
+thetaAdd: 1.88496
+theta: 4.94801
+r: 12
+节点序号：761
+thetaIni: 3.14159
+thetaAdd: 1.88496
+theta: 5.02655
+r: 12
+节点序号：762
+thetaIni: 3.22013
+thetaAdd: 1.88496
+theta: 5.10509
+r: 12
+节点序号：763
+thetaIni: 3.29867
+thetaAdd: 1.88496
+theta: 5.18363
+r: 12
+节点序号：764
+thetaIni: 3.37721
+thetaAdd: 1.88496
+theta: 5.26217
+r: 12
+节点序号：765
+thetaIni: 3.45575
+thetaAdd: 1.88496
+theta: 5.34071
+r: 12
+节点序号：766
+thetaIni: 3.53429
+thetaAdd: 1.88496
+theta: 5.41925
+r: 12
+节点序号：767
+thetaIni: 3.61283
+thetaAdd: 1.88496
+theta: 5.49779
+r: 12
+节点序号：768
+thetaIni: 3.69137
+thetaAdd: 1.88496
+theta: 5.57633
+r: 12
+节点序号：769
+thetaIni: 3.76991
+thetaAdd: 1.88496
+theta: 5.65487
+r: 12
+节点序号：770
+thetaIni: 3.84845
+thetaAdd: 1.88496
+theta: 5.73341
+r: 12
+节点序号：771
+thetaIni: 3.92699
+thetaAdd: 1.88496
+theta: 5.81195
+r: 12
+节点序号：772
+thetaIni: 4.00553
+thetaAdd: 1.88496
+theta: 5.89049
+r: 12
+节点序号：773
+thetaIni: 4.08407
+thetaAdd: 1.88496
+theta: 5.96903
+r: 12
+节点序号：774
+thetaIni: 4.16261
+thetaAdd: 1.88496
+theta: 6.04757
+r: 12
+节点序号：775
+thetaIni: 4.24115
+thetaAdd: 1.88496
+theta: 6.12611
+r: 12
+节点序号：776
+thetaIni: 4.31969
+thetaAdd: 1.88496
+theta: 6.20465
+r: 12
+节点序号：777
+thetaIni: 4.39823
+thetaAdd: 1.88496
+theta: 0
+r: 12
+节点序号：778
+thetaIni: 4.47677
+thetaAdd: 1.88496
+theta: 0.0785398
+r: 12
+节点序号：779
+thetaIni: 4.55531
+thetaAdd: 1.88496
+theta: 0.15708
+r: 12
+节点序号：780
+thetaIni: 4.63385
+thetaAdd: 1.88496
+theta: 0.235619
+r: 12
+节点序号：781
+thetaIni: 4.71239
+thetaAdd: 1.88496
+theta: 0.314159
+r: 12
+节点序号：782
+thetaIni: 4.79093
+thetaAdd: 1.88496
+theta: 0.392699
+r: 12
+节点序号：783
+thetaIni: 4.86947
+thetaAdd: 1.88496
+theta: 0.471239
+r: 11.9621
+节点序号：784
+thetaIni: 4.94801
+thetaAdd: 1.88496
+theta: 0.549779
+r: 11.9242
+节点序号：785
+thetaIni: 5.02655
+thetaAdd: 1.88496
+theta: 0.628319
+r: 11.8863
+节点序号：786
+thetaIni: 5.10509
+thetaAdd: 1.88496
+theta: 0.706858
+r: 11.8484
+节点序号：787
+thetaIni: 5.18363
+thetaAdd: 1.88496
+theta: 0.785398
+r: 11.8106
+节点序号：788
+thetaIni: 5.26217
+thetaAdd: 1.88496
+theta: 0.863938
+r: 11.7727
+节点序号：789
+thetaIni: 5.34071
+thetaAdd: 1.88496
+theta: 0.942478
+r: 11.7348
+节点序号：790
+thetaIni: 5.41925
+thetaAdd: 1.88496
+theta: 1.02102
+r: 11.6969
+节点序号：791
+thetaIni: 5.49779
+thetaAdd: 1.88496
+theta: 1.09956
+r: 11.659
+节点序号：792
+thetaIni: 5.57633
+thetaAdd: 1.88496
+theta: 1.1781
+r: 11.6211
+节点序号：793
+thetaIni: 5.65487
+thetaAdd: 1.88496
+theta: 1.25664
+r: 11.5832
+节点序号：794
+thetaIni: 5.73341
+thetaAdd: 1.88496
+theta: 1.33518
+r: 11.5453
+节点序号：795
+thetaIni: 5.81195
+thetaAdd: 1.88496
+theta: 1.41372
+r: 11.5074
+节点序号：796
+thetaIni: 5.89049
+thetaAdd: 1.88496
+theta: 1.49226
+r: 11.4696
+节点序号：797
+thetaIni: 5.96903
+thetaAdd: 1.88496
+theta: 1.5708
+r: 11.4317
+节点序号：798
+thetaIni: 6.04757
+thetaAdd: 1.88496
+theta: 1.64934
+r: 11.3938
+节点序号：799
+thetaIni: 6.12611
+thetaAdd: 1.88496
+theta: 1.72788
+r: 11.3559
+节点序号：800
+thetaIni: 6.20465
+thetaAdd: 1.88496
+theta: 1.80642
+r: 11.318
+节点序号：801
+thetaIni: 0
+thetaAdd: 2.0944
+theta: 2.0944
+r: 11.1791
+节点序号：802
+thetaIni: 0.0785398
+thetaAdd: 2.0944
+theta: 2.17293
+r: 11.1412
+节点序号：803
+thetaIni: 0.15708
+thetaAdd: 2.0944
+theta: 2.25147
+r: 11.1033
+节点序号：804
+thetaIni: 0.235619
+thetaAdd: 2.0944
+theta: 2.33001
+r: 11.0654
+节点序号：805
+thetaIni: 0.314159
+thetaAdd: 2.0944
+theta: 2.40855
+r: 11.0275
+节点序号：806
+thetaIni: 0.392699
+thetaAdd: 2.0944
+theta: 2.48709
+r: 12.3189
+节点序号：807
+thetaIni: 0.471239
+thetaAdd: 2.0944
+theta: 2.56563
+r: 12.2937
+节点序号：808
+thetaIni: 0.549779
+thetaAdd: 2.0944
+theta: 2.64417
+r: 12.2745
+节点序号：809
+thetaIni: 0.628319
+thetaAdd: 2.0944
+theta: 2.72271
+r: 12.2597
+节点序号：810
+thetaIni: 0.706858
+thetaAdd: 2.0944
+theta: 2.80125
+r: 12.2482
+节点序号：811
+thetaIni: 0.785398
+thetaAdd: 2.0944
+theta: 2.87979
+r: 12.2395
+节点序号：812
+thetaIni: 0.863938
+thetaAdd: 2.0944
+theta: 2.95833
+r: 12.2333
+节点序号：813
+thetaIni: 0.942478
+thetaAdd: 2.0944
+theta: 3.03687
+r: 12.2294
+节点序号：814
+thetaIni: 1.02102
+thetaAdd: 2.0944
+theta: 3.11541
+r: 12.2276
+节点序号：815
+thetaIni: 1.09956
+thetaAdd: 2.0944
+theta: 3.19395
+r: 12.228
+节点序号：816
+thetaIni: 1.1781
+thetaAdd: 2.0944
+theta: 3.27249
+r: 12.2304
+节点序号：817
+thetaIni: 1.25664
+thetaAdd: 2.0944
+theta: 3.35103
+r: 12.2351
+节点序号：818
+thetaIni: 1.33518
+thetaAdd: 2.0944
+theta: 3.42957
+r: 12.2421
+节点序号：819
+thetaIni: 1.41372
+thetaAdd: 2.0944
+theta: 3.50811
+r: 12.2517
+节点序号：820
+thetaIni: 1.49226
+thetaAdd: 2.0944
+theta: 3.58665
+r: 12.2642
+节点序号：821
+thetaIni: 1.5708
+thetaAdd: 2.0944
+theta: 3.66519
+r: 12.2804
+节点序号：822
+thetaIni: 1.64934
+thetaAdd: 2.0944
+theta: 3.74373
+r: 12.3013
+节点序号：823
+thetaIni: 1.72788
+thetaAdd: 2.0944
+theta: 3.82227
+r: 12.3292
+节点序号：824
+thetaIni: 1.80642
+thetaAdd: 2.0944
+theta: 3.90081
+r: 12
+节点序号：825
+thetaIni: 1.88496
+thetaAdd: 2.0944
+theta: 3.97935
+r: 12
+节点序号：826
+thetaIni: 1.9635
+thetaAdd: 2.0944
+theta: 4.05789
+r: 12
+节点序号：827
+thetaIni: 2.04204
+thetaAdd: 2.0944
+theta: 4.13643
+r: 12
+节点序号：828
+thetaIni: 2.12058
+thetaAdd: 2.0944
+theta: 4.21497
+r: 12
+节点序号：829
+thetaIni: 2.19911
+thetaAdd: 2.0944
+theta: 4.29351
+r: 12
+节点序号：830
+thetaIni: 2.27765
+thetaAdd: 2.0944
+theta: 4.37205
+r: 12
+节点序号：831
+thetaIni: 2.35619
+thetaAdd: 2.0944
+theta: 4.45059
+r: 12
+节点序号：832
+thetaIni: 2.43473
+thetaAdd: 2.0944
+theta: 4.52913
+r: 12
+节点序号：833
+thetaIni: 2.51327
+thetaAdd: 2.0944
+theta: 4.60767
+r: 12
+节点序号：834
+thetaIni: 2.59181
+thetaAdd: 2.0944
+theta: 4.68621
+r: 12
+节点序号：835
+thetaIni: 2.67035
+thetaAdd: 2.0944
+theta: 4.76475
+r: 12
+节点序号：836
+thetaIni: 2.74889
+thetaAdd: 2.0944
+theta: 4.84329
+r: 12
+节点序号：837
+thetaIni: 2.82743
+thetaAdd: 2.0944
+theta: 4.92183
+r: 12
+节点序号：838
+thetaIni: 2.90597
+thetaAdd: 2.0944
+theta: 5.00037
+r: 12
+节点序号：839
+thetaIni: 2.98451
+thetaAdd: 2.0944
+theta: 5.07891
+r: 12
+节点序号：840
+thetaIni: 3.06305
+thetaAdd: 2.0944
+theta: 5.15745
+r: 12
+节点序号：841
+thetaIni: 3.14159
+thetaAdd: 2.0944
+theta: 5.23599
+r: 12
+节点序号：842
+thetaIni: 3.22013
+thetaAdd: 2.0944
+theta: 5.31453
+r: 12
+节点序号：843
+thetaIni: 3.29867
+thetaAdd: 2.0944
+theta: 5.39307
+r: 12
+节点序号：844
+thetaIni: 3.37721
+thetaAdd: 2.0944
+theta: 5.47161
+r: 12
+节点序号：845
+thetaIni: 3.45575
+thetaAdd: 2.0944
+theta: 5.55015
+r: 12
+节点序号：846
+thetaIni: 3.53429
+thetaAdd: 2.0944
+theta: 5.62869
+r: 12
+节点序号：847
+thetaIni: 3.61283
+thetaAdd: 2.0944
+theta: 5.70723
+r: 12
+节点序号：848
+thetaIni: 3.69137
+thetaAdd: 2.0944
+theta: 5.78577
+r: 12
+节点序号：849
+thetaIni: 3.76991
+thetaAdd: 2.0944
+theta: 5.86431
+r: 12
+节点序号：850
+thetaIni: 3.84845
+thetaAdd: 2.0944
+theta: 5.94285
+r: 12
+节点序号：851
+thetaIni: 3.92699
+thetaAdd: 2.0944
+theta: 6.02139
+r: 12
+节点序号：852
+thetaIni: 4.00553
+thetaAdd: 2.0944
+theta: 6.09993
+r: 12
+节点序号：853
+thetaIni: 4.08407
+thetaAdd: 2.0944
+theta: 6.17847
+r: 12
+节点序号：854
+thetaIni: 4.16261
+thetaAdd: 2.0944
+theta: 6.25701
+r: 12
+节点序号：855
+thetaIni: 4.24115
+thetaAdd: 2.0944
+theta: 0.0523599
+r: 12
+节点序号：856
+thetaIni: 4.31969
+thetaAdd: 2.0944
+theta: 0.1309
+r: 12
+节点序号：857
+thetaIni: 4.39823
+thetaAdd: 2.0944
+theta: 0.20944
+r: 12
+节点序号：858
+thetaIni: 4.47677
+thetaAdd: 2.0944
+theta: 0.287979
+r: 12
+节点序号：859
+thetaIni: 4.55531
+thetaAdd: 2.0944
+theta: 0.366519
+r: 12
+节点序号：860
+thetaIni: 4.63385
+thetaAdd: 2.0944
+theta: 0.445059
+r: 11.9747
+节点序号：861
+thetaIni: 4.71239
+thetaAdd: 2.0944
+theta: 0.523599
+r: 11.9369
+节点序号：862
+thetaIni: 4.79093
+thetaAdd: 2.0944
+theta: 0.602139
+r: 11.899
+节点序号：863
+thetaIni: 4.86947
+thetaAdd: 2.0944
+theta: 0.680678
+r: 11.8611
+节点序号：864
+thetaIni: 4.94801
+thetaAdd: 2.0944
+theta: 0.759218
+r: 11.8232
+节点序号：865
+thetaIni: 5.02655
+thetaAdd: 2.0944
+theta: 0.837758
+r: 11.7853
+节点序号：866
+thetaIni: 5.10509
+thetaAdd: 2.0944
+theta: 0.916298
+r: 11.7474
+节点序号：867
+thetaIni: 5.18363
+thetaAdd: 2.0944
+theta: 0.994838
+r: 11.7095
+节点序号：868
+thetaIni: 5.26217
+thetaAdd: 2.0944
+theta: 1.07338
+r: 11.6716
+节点序号：869
+thetaIni: 5.34071
+thetaAdd: 2.0944
+theta: 1.15192
+r: 11.6337
+节点序号：870
+thetaIni: 5.41925
+thetaAdd: 2.0944
+theta: 1.23046
+r: 11.5959
+节点序号：871
+thetaIni: 5.49779
+thetaAdd: 2.0944
+theta: 1.309
+r: 11.558
+节点序号：872
+thetaIni: 5.57633
+thetaAdd: 2.0944
+theta: 1.38754
+r: 11.5201
+节点序号：873
+thetaIni: 5.65487
+thetaAdd: 2.0944
+theta: 1.46608
+r: 11.4822
+节点序号：874
+thetaIni: 5.73341
+thetaAdd: 2.0944
+theta: 1.54462
+r: 11.4443
+节点序号：875
+thetaIni: 5.81195
+thetaAdd: 2.0944
+theta: 1.62316
+r: 11.4064
+节点序号：876
+thetaIni: 5.89049
+thetaAdd: 2.0944
+theta: 1.7017
+r: 11.3685
+节点序号：877
+thetaIni: 5.96903
+thetaAdd: 2.0944
+theta: 1.78024
+r: 11.3306
+节点序号：878
+thetaIni: 6.04757
+thetaAdd: 2.0944
+theta: 1.85878
+r: 11.2927
+节点序号：879
+thetaIni: 6.12611
+thetaAdd: 2.0944
+theta: 1.93732
+r: 11.2549
+节点序号：880
+thetaIni: 6.20465
+thetaAdd: 2.0944
+theta: 2.01586
+r: 11.217
+节点序号：881
+thetaIni: 0
+thetaAdd: 2.30383
+theta: 2.30383
+r: 11.078
+节点序号：882
+thetaIni: 0.0785398
+thetaAdd: 2.30383
+theta: 2.38237
+r: 11.0402
+节点序号：883
+thetaIni: 0.15708
+thetaAdd: 2.30383
+theta: 2.46091
+r: 12.3292
+节点序号：884
+thetaIni: 0.235619
+thetaAdd: 2.30383
+theta: 2.53945
+r: 12.3013
+节点序号：885
+thetaIni: 0.314159
+thetaAdd: 2.30383
+theta: 2.61799
+r: 12.2804
+节点序号：886
+thetaIni: 0.392699
+thetaAdd: 2.30383
+theta: 2.69653
+r: 12.2642
+节点序号：887
+thetaIni: 0.471239
+thetaAdd: 2.30383
+theta: 2.77507
+r: 12.2517
+节点序号：888
+thetaIni: 0.549779
+thetaAdd: 2.30383
+theta: 2.85361
+r: 12.2421
+节点序号：889
+thetaIni: 0.628319
+thetaAdd: 2.30383
+theta: 2.93215
+r: 12.2351
+节点序号：890
+thetaIni: 0.706858
+thetaAdd: 2.30383
+theta: 3.01069
+r: 12.2304
+节点序号：891
+thetaIni: 0.785398
+thetaAdd: 2.30383
+theta: 3.08923
+r: 12.228
+节点序号：892
+thetaIni: 0.863938
+thetaAdd: 2.30383
+theta: 3.16777
+r: 12.2276
+节点序号：893
+thetaIni: 0.942478
+thetaAdd: 2.30383
+theta: 3.24631
+r: 12.2294
+节点序号：894
+thetaIni: 1.02102
+thetaAdd: 2.30383
+theta: 3.32485
+r: 12.2333
+节点序号：895
+thetaIni: 1.09956
+thetaAdd: 2.30383
+theta: 3.40339
+r: 12.2395
+节点序号：896
+thetaIni: 1.1781
+thetaAdd: 2.30383
+theta: 3.48193
+r: 12.2482
+节点序号：897
+thetaIni: 1.25664
+thetaAdd: 2.30383
+theta: 3.56047
+r: 12.2597
+节点序号：898
+thetaIni: 1.33518
+thetaAdd: 2.30383
+theta: 3.63901
+r: 12.2745
+节点序号：899
+thetaIni: 1.41372
+thetaAdd: 2.30383
+theta: 3.71755
+r: 12.2937
+节点序号：900
+thetaIni: 1.49226
+thetaAdd: 2.30383
+theta: 3.79609
+r: 12.3189
+节点序号：901
+thetaIni: 1.5708
+thetaAdd: 2.30383
+theta: 3.87463
+r: 12
+节点序号：902
+thetaIni: 1.64934
+thetaAdd: 2.30383
+theta: 3.95317
+r: 12
+节点序号：903
+thetaIni: 1.72788
+thetaAdd: 2.30383
+theta: 4.03171
+r: 12
+节点序号：904
+thetaIni: 1.80642
+thetaAdd: 2.30383
+theta: 4.11025
+r: 12
+节点序号：905
+thetaIni: 1.88496
+thetaAdd: 2.30383
+theta: 4.18879
+r: 12
+节点序号：906
+thetaIni: 1.9635
+thetaAdd: 2.30383
+theta: 4.26733
+r: 12
+节点序号：907
+thetaIni: 2.04204
+thetaAdd: 2.30383
+theta: 4.34587
+r: 12
+节点序号：908
+thetaIni: 2.12058
+thetaAdd: 2.30383
+theta: 4.42441
+r: 12
+节点序号：909
+thetaIni: 2.19911
+thetaAdd: 2.30383
+theta: 4.50295
+r: 12
+节点序号：910
+thetaIni: 2.27765
+thetaAdd: 2.30383
+theta: 4.58149
+r: 12
+节点序号：911
+thetaIni: 2.35619
+thetaAdd: 2.30383
+theta: 4.66003
+r: 12
+节点序号：912
+thetaIni: 2.43473
+thetaAdd: 2.30383
+theta: 4.73857
+r: 12
+节点序号：913
+thetaIni: 2.51327
+thetaAdd: 2.30383
+theta: 4.81711
+r: 12
+节点序号：914
+thetaIni: 2.59181
+thetaAdd: 2.30383
+theta: 4.89565
+r: 12
+节点序号：915
+thetaIni: 2.67035
+thetaAdd: 2.30383
+theta: 4.97419
+r: 12
+节点序号：916
+thetaIni: 2.74889
+thetaAdd: 2.30383
+theta: 5.05273
+r: 12
+节点序号：917
+thetaIni: 2.82743
+thetaAdd: 2.30383
+theta: 5.13127
+r: 12
+节点序号：918
+thetaIni: 2.90597
+thetaAdd: 2.30383
+theta: 5.20981
+r: 12
+节点序号：919
+thetaIni: 2.98451
+thetaAdd: 2.30383
+theta: 5.28835
+r: 12
+节点序号：920
+thetaIni: 3.06305
+thetaAdd: 2.30383
+theta: 5.36689
+r: 12
+节点序号：921
+thetaIni: 3.14159
+thetaAdd: 2.30383
+theta: 5.44543
+r: 12
+节点序号：922
+thetaIni: 3.22013
+thetaAdd: 2.30383
+theta: 5.52397
+r: 12
+节点序号：923
+thetaIni: 3.29867
+thetaAdd: 2.30383
+theta: 5.60251
+r: 12
+节点序号：924
+thetaIni: 3.37721
+thetaAdd: 2.30383
+theta: 5.68105
+r: 12
+节点序号：925
+thetaIni: 3.45575
+thetaAdd: 2.30383
+theta: 5.75959
+r: 12
+节点序号：926
+thetaIni: 3.53429
+thetaAdd: 2.30383
+theta: 5.83813
+r: 12
+节点序号：927
+thetaIni: 3.61283
+thetaAdd: 2.30383
+theta: 5.91667
+r: 12
+节点序号：928
+thetaIni: 3.69137
+thetaAdd: 2.30383
+theta: 5.99521
+r: 12
+节点序号：929
+thetaIni: 3.76991
+thetaAdd: 2.30383
+theta: 6.07375
+r: 12
+节点序号：930
+thetaIni: 3.84845
+thetaAdd: 2.30383
+theta: 6.15229
+r: 12
+节点序号：931
+thetaIni: 3.92699
+thetaAdd: 2.30383
+theta: 6.23083
+r: 12
+节点序号：932
+thetaIni: 4.00553
+thetaAdd: 2.30383
+theta: 0.0261799
+r: 12
+节点序号：933
+thetaIni: 4.08407
+thetaAdd: 2.30383
+theta: 0.10472
+r: 12
+节点序号：934
+thetaIni: 4.16261
+thetaAdd: 2.30383
+theta: 0.18326
+r: 12
+节点序号：935
+thetaIni: 4.24115
+thetaAdd: 2.30383
+theta: 0.261799
+r: 12
+节点序号：936
+thetaIni: 4.31969
+thetaAdd: 2.30383
+theta: 0.340339
+r: 12
+节点序号：937
+thetaIni: 4.39823
+thetaAdd: 2.30383
+theta: 0.418879
+r: 11.9874
+节点序号：938
+thetaIni: 4.47677
+thetaAdd: 2.30383
+theta: 0.497419
+r: 11.9495
+节点序号：939
+thetaIni: 4.55531
+thetaAdd: 2.30383
+theta: 0.575959
+r: 11.9116
+节点序号：940
+thetaIni: 4.63385
+thetaAdd: 2.30383
+theta: 0.654498
+r: 11.8737
+节点序号：941
+thetaIni: 4.71239
+thetaAdd: 2.30383
+theta: 0.733038
+r: 11.8358
+节点序号：942
+thetaIni: 4.79093
+thetaAdd: 2.30383
+theta: 0.811578
+r: 11.7979
+节点序号：943
+thetaIni: 4.86947
+thetaAdd: 2.30383
+theta: 0.890118
+r: 11.76
+节点序号：944
+thetaIni: 4.94801
+thetaAdd: 2.30383
+theta: 0.968658
+r: 11.7222
+节点序号：945
+thetaIni: 5.02655
+thetaAdd: 2.30383
+theta: 1.0472
+r: 11.6843
+节点序号：946
+thetaIni: 5.10509
+thetaAdd: 2.30383
+theta: 1.12574
+r: 11.6464
+节点序号：947
+thetaIni: 5.18363
+thetaAdd: 2.30383
+theta: 1.20428
+r: 11.6085
+节点序号：948
+thetaIni: 5.26217
+thetaAdd: 2.30383
+theta: 1.28282
+r: 11.5706
+节点序号：949
+thetaIni: 5.34071
+thetaAdd: 2.30383
+theta: 1.36136
+r: 11.5327
+节点序号：950
+thetaIni: 5.41925
+thetaAdd: 2.30383
+theta: 1.4399
+r: 11.4948
+节点序号：951
+thetaIni: 5.49779
+thetaAdd: 2.30383
+theta: 1.51844
+r: 11.4569
+节点序号：952
+thetaIni: 5.57633
+thetaAdd: 2.30383
+theta: 1.59698
+r: 11.419
+节点序号：953
+thetaIni: 5.65487
+thetaAdd: 2.30383
+theta: 1.67552
+r: 11.3812
+节点序号：954
+thetaIni: 5.73341
+thetaAdd: 2.30383
+theta: 1.75406
+r: 11.3433
+节点序号：955
+thetaIni: 5.81195
+thetaAdd: 2.30383
+theta: 1.8326
+r: 11.3054
+节点序号：956
+thetaIni: 5.89049
+thetaAdd: 2.30383
+theta: 1.91114
+r: 11.2675
+节点序号：957
+thetaIni: 5.96903
+thetaAdd: 2.30383
+theta: 1.98968
+r: 11.2296
+节点序号：958
+thetaIni: 6.04757
+thetaAdd: 2.30383
+theta: 2.06822
+r: 11.1917
+节点序号：959
+thetaIni: 6.12611
+thetaAdd: 2.30383
+theta: 2.14675
+r: 11.1538
+节点序号：960
+thetaIni: 6.20465
+thetaAdd: 2.30383
+theta: 2.22529
+r: 11.1159
+节点序号：961
+thetaIni: 0
+thetaAdd: 2.51327
+theta: 2.51327
+r: 12.3096
+节点序号：962
+thetaIni: 0.0785398
+thetaAdd: 2.51327
+theta: 2.59181
+r: 12.2867
+节点序号：963
+thetaIni: 0.15708
+thetaAdd: 2.51327
+theta: 2.67035
+r: 12.2692
+节点序号：964
+thetaIni: 0.235619
+thetaAdd: 2.51327
+theta: 2.74889
+r: 12.2555
+节点序号：965
+thetaIni: 0.314159
+thetaAdd: 2.51327
+theta: 2.82743
+r: 12.245
+节点序号：966
+thetaIni: 0.392699
+thetaAdd: 2.51327
+theta: 2.90597
+r: 12.2372
+节点序号：967
+thetaIni: 0.471239
+thetaAdd: 2.51327
+theta: 2.98451
+r: 12.2317
+节点序号：968
+thetaIni: 0.549779
+thetaAdd: 2.51327
+theta: 3.06305
+r: 12.2286
+节点序号：969
+thetaIni: 0.628319
+thetaAdd: 2.51327
+theta: 3.14159
+r: 12.2275
+节点序号：970
+thetaIni: 0.706858
+thetaAdd: 2.51327
+theta: 3.22013
+r: 12.2286
+节点序号：971
+thetaIni: 0.785398
+thetaAdd: 2.51327
+theta: 3.29867
+r: 12.2317
+节点序号：972
+thetaIni: 0.863938
+thetaAdd: 2.51327
+theta: 3.37721
+r: 12.2372
+节点序号：973
+thetaIni: 0.942478
+thetaAdd: 2.51327
+theta: 3.45575
+r: 12.245
+节点序号：974
+thetaIni: 1.02102
+thetaAdd: 2.51327
+theta: 3.53429
+r: 12.2555
+节点序号：975
+thetaIni: 1.09956
+thetaAdd: 2.51327
+theta: 3.61283
+r: 12.2692
+节点序号：976
+thetaIni: 1.1781
+thetaAdd: 2.51327
+theta: 3.69137
+r: 12.2867
+节点序号：977
+thetaIni: 1.25664
+thetaAdd: 2.51327
+theta: 3.76991
+r: 12.3096
+节点序号：978
+thetaIni: 1.33518
+thetaAdd: 2.51327
+theta: 3.84845
+r: 12.341
+节点序号：979
+thetaIni: 1.41372
+thetaAdd: 2.51327
+theta: 3.92699
+r: 12
+节点序号：980
+thetaIni: 1.49226
+thetaAdd: 2.51327
+theta: 4.00553
+r: 12
+节点序号：981
+thetaIni: 1.5708
+thetaAdd: 2.51327
+theta: 4.08407
+r: 12
+节点序号：982
+thetaIni: 1.64934
+thetaAdd: 2.51327
+theta: 4.16261
+r: 12
+节点序号：983
+thetaIni: 1.72788
+thetaAdd: 2.51327
+theta: 4.24115
+r: 12
+节点序号：984
+thetaIni: 1.80642
+thetaAdd: 2.51327
+theta: 4.31969
+r: 12
+节点序号：985
+thetaIni: 1.88496
+thetaAdd: 2.51327
+theta: 4.39823
+r: 12
+节点序号：986
+thetaIni: 1.9635
+thetaAdd: 2.51327
+theta: 4.47677
+r: 12
+节点序号：987
+thetaIni: 2.04204
+thetaAdd: 2.51327
+theta: 4.55531
+r: 12
+节点序号：988
+thetaIni: 2.12058
+thetaAdd: 2.51327
+theta: 4.63385
+r: 12
+节点序号：989
+thetaIni: 2.19911
+thetaAdd: 2.51327
+theta: 4.71239
+r: 12
+节点序号：990
+thetaIni: 2.27765
+thetaAdd: 2.51327
+theta: 4.79093
+r: 12
+节点序号：991
+thetaIni: 2.35619
+thetaAdd: 2.51327
+theta: 4.86947
+r: 12
+节点序号：992
+thetaIni: 2.43473
+thetaAdd: 2.51327
+theta: 4.94801
+r: 12
+节点序号：993
+thetaIni: 2.51327
+thetaAdd: 2.51327
+theta: 5.02655
+r: 12
+节点序号：994
+thetaIni: 2.59181
+thetaAdd: 2.51327
+theta: 5.10509
+r: 12
+节点序号：995
+thetaIni: 2.67035
+thetaAdd: 2.51327
+theta: 5.18363
+r: 12
+节点序号：996
+thetaIni: 2.74889
+thetaAdd: 2.51327
+theta: 5.26217
+r: 12
+节点序号：997
+thetaIni: 2.82743
+thetaAdd: 2.51327
+theta: 5.34071
+r: 12
+节点序号：998
+thetaIni: 2.90597
+thetaAdd: 2.51327
+theta: 5.41925
+r: 12
+节点序号：999
+thetaIni: 2.98451
+thetaAdd: 2.51327
+theta: 5.49779
+r: 12
+节点序号：1000
+thetaIni: 3.06305
+thetaAdd: 2.51327
+theta: 5.57633
+r: 12
+节点序号：1001
+thetaIni: 3.14159
+thetaAdd: 2.51327
+theta: 5.65487
+r: 12
+节点序号：1002
+thetaIni: 3.22013
+thetaAdd: 2.51327
+theta: 5.73341
+r: 12
+节点序号：1003
+thetaIni: 3.29867
+thetaAdd: 2.51327
+theta: 5.81195
+r: 12
+节点序号：1004
+thetaIni: 3.37721
+thetaAdd: 2.51327
+theta: 5.89049
+r: 12
+节点序号：1005
+thetaIni: 3.45575
+thetaAdd: 2.51327
+theta: 5.96903
+r: 12
+节点序号：1006
+thetaIni: 3.53429
+thetaAdd: 2.51327
+theta: 6.04757
+r: 12
+节点序号：1007
+thetaIni: 3.61283
+thetaAdd: 2.51327
+theta: 6.12611
+r: 12
+节点序号：1008
+thetaIni: 3.69137
+thetaAdd: 2.51327
+theta: 6.20465
+r: 12
+节点序号：1009
+thetaIni: 3.76991
+thetaAdd: 2.51327
+theta: 0
+r: 12
+节点序号：1010
+thetaIni: 3.84845
+thetaAdd: 2.51327
+theta: 0.0785398
+r: 12
+节点序号：1011
+thetaIni: 3.92699
+thetaAdd: 2.51327
+theta: 0.15708
+r: 12
+节点序号：1012
+thetaIni: 4.00553
+thetaAdd: 2.51327
+theta: 0.235619
+r: 12
+节点序号：1013
+thetaIni: 4.08407
+thetaAdd: 2.51327
+theta: 0.314159
+r: 12
+节点序号：1014
+thetaIni: 4.16261
+thetaAdd: 2.51327
+theta: 0.392699
+r: 12
+节点序号：1015
+thetaIni: 4.24115
+thetaAdd: 2.51327
+theta: 0.471239
+r: 11.9621
+节点序号：1016
+thetaIni: 4.31969
+thetaAdd: 2.51327
+theta: 0.549779
+r: 11.9242
+节点序号：1017
+thetaIni: 4.39823
+thetaAdd: 2.51327
+theta: 0.628319
+r: 11.8863
+节点序号：1018
+thetaIni: 4.47677
+thetaAdd: 2.51327
+theta: 0.706858
+r: 11.8484
+节点序号：1019
+thetaIni: 4.55531
+thetaAdd: 2.51327
+theta: 0.785398
+r: 11.8106
+节点序号：1020
+thetaIni: 4.63385
+thetaAdd: 2.51327
+theta: 0.863938
+r: 11.7727
+节点序号：1021
+thetaIni: 4.71239
+thetaAdd: 2.51327
+theta: 0.942478
+r: 11.7348
+节点序号：1022
+thetaIni: 4.79093
+thetaAdd: 2.51327
+theta: 1.02102
+r: 11.6969
+节点序号：1023
+thetaIni: 4.86947
+thetaAdd: 2.51327
+theta: 1.09956
+r: 11.659
+节点序号：1024
+thetaIni: 4.94801
+thetaAdd: 2.51327
+theta: 1.1781
+r: 11.6211
+节点序号：1025
+thetaIni: 5.02655
+thetaAdd: 2.51327
+theta: 1.25664
+r: 11.5832
+节点序号：1026
+thetaIni: 5.10509
+thetaAdd: 2.51327
+theta: 1.33518
+r: 11.5453
+节点序号：1027
+thetaIni: 5.18363
+thetaAdd: 2.51327
+theta: 1.41372
+r: 11.5074
+节点序号：1028
+thetaIni: 5.26217
+thetaAdd: 2.51327
+theta: 1.49226
+r: 11.4696
+节点序号：1029
+thetaIni: 5.34071
+thetaAdd: 2.51327
+theta: 1.5708
+r: 11.4317
+节点序号：1030
+thetaIni: 5.41925
+thetaAdd: 2.51327
+theta: 1.64934
+r: 11.3938
+节点序号：1031
+thetaIni: 5.49779
+thetaAdd: 2.51327
+theta: 1.72788
+r: 11.3559
+节点序号：1032
+thetaIni: 5.57633
+thetaAdd: 2.51327
+theta: 1.80642
+r: 11.318
+节点序号：1033
+thetaIni: 5.65487
+thetaAdd: 2.51327
+theta: 1.88496
+r: 11.2801
+节点序号：1034
+thetaIni: 5.73341
+thetaAdd: 2.51327
+theta: 1.9635
+r: 11.2422
+节点序号：1035
+thetaIni: 5.81195
+thetaAdd: 2.51327
+theta: 2.04204
+r: 11.2043
+节点序号：1036
+thetaIni: 5.89049
+thetaAdd: 2.51327
+theta: 2.12058
+r: 11.1665
+节点序号：1037
+thetaIni: 5.96903
+thetaAdd: 2.51327
+theta: 2.19911
+r: 11.1286
+节点序号：1038
+thetaIni: 6.04757
+thetaAdd: 2.51327
+theta: 2.27765
+r: 11.0907
+节点序号：1039
+thetaIni: 6.12611
+thetaAdd: 2.51327
+theta: 2.35619
+r: 11.0528
+节点序号：1040
+thetaIni: 6.20465
+thetaAdd: 2.51327
+theta: 2.43473
+r: 12.341
+节点序号：1041
+thetaIni: 0
+thetaAdd: 2.72271
+theta: 2.72271
+r: 12.2597
+节点序号：1042
+thetaIni: 0.0785398
+thetaAdd: 2.72271
+theta: 2.80125
+r: 12.2482
+节点序号：1043
+thetaIni: 0.15708
+thetaAdd: 2.72271
+theta: 2.87979
+r: 12.2395
+节点序号：1044
+thetaIni: 0.235619
+thetaAdd: 2.72271
+theta: 2.95833
+r: 12.2333
+节点序号：1045
+thetaIni: 0.314159
+thetaAdd: 2.72271
+theta: 3.03687
+r: 12.2294
+节点序号：1046
+thetaIni: 0.392699
+thetaAdd: 2.72271
+theta: 3.11541
+r: 12.2276
+节点序号：1047
+thetaIni: 0.471239
+thetaAdd: 2.72271
+theta: 3.19395
+r: 12.228
+节点序号：1048
+thetaIni: 0.549779
+thetaAdd: 2.72271
+theta: 3.27249
+r: 12.2304
+节点序号：1049
+thetaIni: 0.628319
+thetaAdd: 2.72271
+theta: 3.35103
+r: 12.2351
+节点序号：1050
+thetaIni: 0.706858
+thetaAdd: 2.72271
+theta: 3.42957
+r: 12.2421
+节点序号：1051
+thetaIni: 0.785398
+thetaAdd: 2.72271
+theta: 3.50811
+r: 12.2517
+节点序号：1052
+thetaIni: 0.863938
+thetaAdd: 2.72271
+theta: 3.58665
+r: 12.2642
+节点序号：1053
+thetaIni: 0.942478
+thetaAdd: 2.72271
+theta: 3.66519
+r: 12.2804
+节点序号：1054
+thetaIni: 1.02102
+thetaAdd: 2.72271
+theta: 3.74373
+r: 12.3013
+节点序号：1055
+thetaIni: 1.09956
+thetaAdd: 2.72271
+theta: 3.82227
+r: 12.3292
+节点序号：1056
+thetaIni: 1.1781
+thetaAdd: 2.72271
+theta: 3.90081
+r: 12
+节点序号：1057
+thetaIni: 1.25664
+thetaAdd: 2.72271
+theta: 3.97935
+r: 12
+节点序号：1058
+thetaIni: 1.33518
+thetaAdd: 2.72271
+theta: 4.05789
+r: 12
+节点序号：1059
+thetaIni: 1.41372
+thetaAdd: 2.72271
+theta: 4.13643
+r: 12
+节点序号：1060
+thetaIni: 1.49226
+thetaAdd: 2.72271
+theta: 4.21497
+r: 12
+节点序号：1061
+thetaIni: 1.5708
+thetaAdd: 2.72271
+theta: 4.29351
+r: 12
+节点序号：1062
+thetaIni: 1.64934
+thetaAdd: 2.72271
+theta: 4.37205
+r: 12
+节点序号：1063
+thetaIni: 1.72788
+thetaAdd: 2.72271
+theta: 4.45059
+r: 12
+节点序号：1064
+thetaIni: 1.80642
+thetaAdd: 2.72271
+theta: 4.52913
+r: 12
+节点序号：1065
+thetaIni: 1.88496
+thetaAdd: 2.72271
+theta: 4.60767
+r: 12
+节点序号：1066
+thetaIni: 1.9635
+thetaAdd: 2.72271
+theta: 4.68621
+r: 12
+节点序号：1067
+thetaIni: 2.04204
+thetaAdd: 2.72271
+theta: 4.76475
+r: 12
+节点序号：1068
+thetaIni: 2.12058
+thetaAdd: 2.72271
+theta: 4.84329
+r: 12
+节点序号：1069
+thetaIni: 2.19911
+thetaAdd: 2.72271
+theta: 4.92183
+r: 12
+节点序号：1070
+thetaIni: 2.27765
+thetaAdd: 2.72271
+theta: 5.00037
+r: 12
+节点序号：1071
+thetaIni: 2.35619
+thetaAdd: 2.72271
+theta: 5.07891
+r: 12
+节点序号：1072
+thetaIni: 2.43473
+thetaAdd: 2.72271
+theta: 5.15745
+r: 12
+节点序号：1073
+thetaIni: 2.51327
+thetaAdd: 2.72271
+theta: 5.23599
+r: 12
+节点序号：1074
+thetaIni: 2.59181
+thetaAdd: 2.72271
+theta: 5.31453
+r: 12
+节点序号：1075
+thetaIni: 2.67035
+thetaAdd: 2.72271
+theta: 5.39307
+r: 12
+节点序号：1076
+thetaIni: 2.74889
+thetaAdd: 2.72271
+theta: 5.47161
+r: 12
+节点序号：1077
+thetaIni: 2.82743
+thetaAdd: 2.72271
+theta: 5.55015
+r: 12
+节点序号：1078
+thetaIni: 2.90597
+thetaAdd: 2.72271
+theta: 5.62869
+r: 12
+节点序号：1079
+thetaIni: 2.98451
+thetaAdd: 2.72271
+theta: 5.70723
+r: 12
+节点序号：1080
+thetaIni: 3.06305
+thetaAdd: 2.72271
+theta: 5.78577
+r: 12
+节点序号：1081
+thetaIni: 3.14159
+thetaAdd: 2.72271
+theta: 5.86431
+r: 12
+节点序号：1082
+thetaIni: 3.22013
+thetaAdd: 2.72271
+theta: 5.94285
+r: 12
+节点序号：1083
+thetaIni: 3.29867
+thetaAdd: 2.72271
+theta: 6.02139
+r: 12
+节点序号：1084
+thetaIni: 3.37721
+thetaAdd: 2.72271
+theta: 6.09993
+r: 12
+节点序号：1085
+thetaIni: 3.45575
+thetaAdd: 2.72271
+theta: 6.17847
+r: 12
+节点序号：1086
+thetaIni: 3.53429
+thetaAdd: 2.72271
+theta: 6.25701
+r: 12
+节点序号：1087
+thetaIni: 3.61283
+thetaAdd: 2.72271
+theta: 0.0523599
+r: 12
+节点序号：1088
+thetaIni: 3.69137
+thetaAdd: 2.72271
+theta: 0.1309
+r: 12
+节点序号：1089
+thetaIni: 3.76991
+thetaAdd: 2.72271
+theta: 0.20944
+r: 12
+节点序号：1090
+thetaIni: 3.84845
+thetaAdd: 2.72271
+theta: 0.287979
+r: 12
+节点序号：1091
+thetaIni: 3.92699
+thetaAdd: 2.72271
+theta: 0.366519
+r: 12
+节点序号：1092
+thetaIni: 4.00553
+thetaAdd: 2.72271
+theta: 0.445059
+r: 11.9747
+节点序号：1093
+thetaIni: 4.08407
+thetaAdd: 2.72271
+theta: 0.523599
+r: 11.9369
+节点序号：1094
+thetaIni: 4.16261
+thetaAdd: 2.72271
+theta: 0.602139
+r: 11.899
+节点序号：1095
+thetaIni: 4.24115
+thetaAdd: 2.72271
+theta: 0.680678
+r: 11.8611
+节点序号：1096
+thetaIni: 4.31969
+thetaAdd: 2.72271
+theta: 0.759218
+r: 11.8232
+节点序号：1097
+thetaIni: 4.39823
+thetaAdd: 2.72271
+theta: 0.837758
+r: 11.7853
+节点序号：1098
+thetaIni: 4.47677
+thetaAdd: 2.72271
+theta: 0.916298
+r: 11.7474
+节点序号：1099
+thetaIni: 4.55531
+thetaAdd: 2.72271
+theta: 0.994838
+r: 11.7095
+节点序号：1100
+thetaIni: 4.63385
+thetaAdd: 2.72271
+theta: 1.07338
+r: 11.6716
+节点序号：1101
+thetaIni: 4.71239
+thetaAdd: 2.72271
+theta: 1.15192
+r: 11.6337
+节点序号：1102
+thetaIni: 4.79093
+thetaAdd: 2.72271
+theta: 1.23046
+r: 11.5959
+节点序号：1103
+thetaIni: 4.86947
+thetaAdd: 2.72271
+theta: 1.309
+r: 11.558
+节点序号：1104
+thetaIni: 4.94801
+thetaAdd: 2.72271
+theta: 1.38754
+r: 11.5201
+节点序号：1105
+thetaIni: 5.02655
+thetaAdd: 2.72271
+theta: 1.46608
+r: 11.4822
+节点序号：1106
+thetaIni: 5.10509
+thetaAdd: 2.72271
+theta: 1.54462
+r: 11.4443
+节点序号：1107
+thetaIni: 5.18363
+thetaAdd: 2.72271
+theta: 1.62316
+r: 11.4064
+节点序号：1108
+thetaIni: 5.26217
+thetaAdd: 2.72271
+theta: 1.7017
+r: 11.3685
+节点序号：1109
+thetaIni: 5.34071
+thetaAdd: 2.72271
+theta: 1.78024
+r: 11.3306
+节点序号：1110
+thetaIni: 5.41925
+thetaAdd: 2.72271
+theta: 1.85878
+r: 11.2927
+节点序号：1111
+thetaIni: 5.49779
+thetaAdd: 2.72271
+theta: 1.93732
+r: 11.2549
+节点序号：1112
+thetaIni: 5.57633
+thetaAdd: 2.72271
+theta: 2.01586
+r: 11.217
+节点序号：1113
+thetaIni: 5.65487
+thetaAdd: 2.72271
+theta: 2.0944
+r: 11.1791
+节点序号：1114
+thetaIni: 5.73341
+thetaAdd: 2.72271
+theta: 2.17293
+r: 11.1412
+节点序号：1115
+thetaIni: 5.81195
+thetaAdd: 2.72271
+theta: 2.25147
+r: 11.1033
+节点序号：1116
+thetaIni: 5.89049
+thetaAdd: 2.72271
+theta: 2.33001
+r: 11.0654
+节点序号：1117
+thetaIni: 5.96903
+thetaAdd: 2.72271
+theta: 2.40855
+r: 11.0275
+节点序号：1118
+thetaIni: 6.04757
+thetaAdd: 2.72271
+theta: 2.48709
+r: 12.3189
+节点序号：1119
+thetaIni: 6.12611
+thetaAdd: 2.72271
+theta: 2.56563
+r: 12.2937
+节点序号：1120
+thetaIni: 6.20465
+thetaAdd: 2.72271
+theta: 2.64417
+r: 12.2745
+节点序号：1121
+thetaIni: 0
+thetaAdd: 2.93215
+theta: 2.93215
+r: 12.2351
+节点序号：1122
+thetaIni: 0.0785398
+thetaAdd: 2.93215
+theta: 3.01069
+r: 12.2304
+节点序号：1123
+thetaIni: 0.15708
+thetaAdd: 2.93215
+theta: 3.08923
+r: 12.228
+节点序号：1124
+thetaIni: 0.235619
+thetaAdd: 2.93215
+theta: 3.16777
+r: 12.2276
+节点序号：1125
+thetaIni: 0.314159
+thetaAdd: 2.93215
+theta: 3.24631
+r: 12.2294
+节点序号：1126
+thetaIni: 0.392699
+thetaAdd: 2.93215
+theta: 3.32485
+r: 12.2333
+节点序号：1127
+thetaIni: 0.471239
+thetaAdd: 2.93215
+theta: 3.40339
+r: 12.2395
+节点序号：1128
+thetaIni: 0.549779
+thetaAdd: 2.93215
+theta: 3.48193
+r: 12.2482
+节点序号：1129
+thetaIni: 0.628319
+thetaAdd: 2.93215
+theta: 3.56047
+r: 12.2597
+节点序号：1130
+thetaIni: 0.706858
+thetaAdd: 2.93215
+theta: 3.63901
+r: 12.2745
+节点序号：1131
+thetaIni: 0.785398
+thetaAdd: 2.93215
+theta: 3.71755
+r: 12.2937
+节点序号：1132
+thetaIni: 0.863938
+thetaAdd: 2.93215
+theta: 3.79609
+r: 12.3189
+节点序号：1133
+thetaIni: 0.942478
+thetaAdd: 2.93215
+theta: 3.87463
+r: 12
+节点序号：1134
+thetaIni: 1.02102
+thetaAdd: 2.93215
+theta: 3.95317
+r: 12
+节点序号：1135
+thetaIni: 1.09956
+thetaAdd: 2.93215
+theta: 4.03171
+r: 12
+节点序号：1136
+thetaIni: 1.1781
+thetaAdd: 2.93215
+theta: 4.11025
+r: 12
+节点序号：1137
+thetaIni: 1.25664
+thetaAdd: 2.93215
+theta: 4.18879
+r: 12
+节点序号：1138
+thetaIni: 1.33518
+thetaAdd: 2.93215
+theta: 4.26733
+r: 12
+节点序号：1139
+thetaIni: 1.41372
+thetaAdd: 2.93215
+theta: 4.34587
+r: 12
+节点序号：1140
+thetaIni: 1.49226
+thetaAdd: 2.93215
+theta: 4.42441
+r: 12
+节点序号：1141
+thetaIni: 1.5708
+thetaAdd: 2.93215
+theta: 4.50295
+r: 12
+节点序号：1142
+thetaIni: 1.64934
+thetaAdd: 2.93215
+theta: 4.58149
+r: 12
+节点序号：1143
+thetaIni: 1.72788
+thetaAdd: 2.93215
+theta: 4.66003
+r: 12
+节点序号：1144
+thetaIni: 1.80642
+thetaAdd: 2.93215
+theta: 4.73857
+r: 12
+节点序号：1145
+thetaIni: 1.88496
+thetaAdd: 2.93215
+theta: 4.81711
+r: 12
+节点序号：1146
+thetaIni: 1.9635
+thetaAdd: 2.93215
+theta: 4.89565
+r: 12
+节点序号：1147
+thetaIni: 2.04204
+thetaAdd: 2.93215
+theta: 4.97419
+r: 12
+节点序号：1148
+thetaIni: 2.12058
+thetaAdd: 2.93215
+theta: 5.05273
+r: 12
+节点序号：1149
+thetaIni: 2.19911
+thetaAdd: 2.93215
+theta: 5.13127
+r: 12
+节点序号：1150
+thetaIni: 2.27765
+thetaAdd: 2.93215
+theta: 5.20981
+r: 12
+节点序号：1151
+thetaIni: 2.35619
+thetaAdd: 2.93215
+theta: 5.28835
+r: 12
+节点序号：1152
+thetaIni: 2.43473
+thetaAdd: 2.93215
+theta: 5.36689
+r: 12
+节点序号：1153
+thetaIni: 2.51327
+thetaAdd: 2.93215
+theta: 5.44543
+r: 12
+节点序号：1154
+thetaIni: 2.59181
+thetaAdd: 2.93215
+theta: 5.52397
+r: 12
+节点序号：1155
+thetaIni: 2.67035
+thetaAdd: 2.93215
+theta: 5.60251
+r: 12
+节点序号：1156
+thetaIni: 2.74889
+thetaAdd: 2.93215
+theta: 5.68105
+r: 12
+节点序号：1157
+thetaIni: 2.82743
+thetaAdd: 2.93215
+theta: 5.75959
+r: 12
+节点序号：1158
+thetaIni: 2.90597
+thetaAdd: 2.93215
+theta: 5.83813
+r: 12
+节点序号：1159
+thetaIni: 2.98451
+thetaAdd: 2.93215
+theta: 5.91667
+r: 12
+节点序号：1160
+thetaIni: 3.06305
+thetaAdd: 2.93215
+theta: 5.99521
+r: 12
+节点序号：1161
+thetaIni: 3.14159
+thetaAdd: 2.93215
+theta: 6.07375
+r: 12
+节点序号：1162
+thetaIni: 3.22013
+thetaAdd: 2.93215
+theta: 6.15229
+r: 12
+节点序号：1163
+thetaIni: 3.29867
+thetaAdd: 2.93215
+theta: 6.23083
+r: 12
+节点序号：1164
+thetaIni: 3.37721
+thetaAdd: 2.93215
+theta: 0.0261799
+r: 12
+节点序号：1165
+thetaIni: 3.45575
+thetaAdd: 2.93215
+theta: 0.10472
+r: 12
+节点序号：1166
+thetaIni: 3.53429
+thetaAdd: 2.93215
+theta: 0.18326
+r: 12
+节点序号：1167
+thetaIni: 3.61283
+thetaAdd: 2.93215
+theta: 0.261799
+r: 12
+节点序号：1168
+thetaIni: 3.69137
+thetaAdd: 2.93215
+theta: 0.340339
+r: 12
+节点序号：1169
+thetaIni: 3.76991
+thetaAdd: 2.93215
+theta: 0.418879
+r: 11.9874
+节点序号：1170
+thetaIni: 3.84845
+thetaAdd: 2.93215
+theta: 0.497419
+r: 11.9495
+节点序号：1171
+thetaIni: 3.92699
+thetaAdd: 2.93215
+theta: 0.575959
+r: 11.9116
+节点序号：1172
+thetaIni: 4.00553
+thetaAdd: 2.93215
+theta: 0.654498
+r: 11.8737
+节点序号：1173
+thetaIni: 4.08407
+thetaAdd: 2.93215
+theta: 0.733038
+r: 11.8358
+节点序号：1174
+thetaIni: 4.16261
+thetaAdd: 2.93215
+theta: 0.811578
+r: 11.7979
+节点序号：1175
+thetaIni: 4.24115
+thetaAdd: 2.93215
+theta: 0.890118
+r: 11.76
+节点序号：1176
+thetaIni: 4.31969
+thetaAdd: 2.93215
+theta: 0.968658
+r: 11.7222
+节点序号：1177
+thetaIni: 4.39823
+thetaAdd: 2.93215
+theta: 1.0472
+r: 11.6843
+节点序号：1178
+thetaIni: 4.47677
+thetaAdd: 2.93215
+theta: 1.12574
+r: 11.6464
+节点序号：1179
+thetaIni: 4.55531
+thetaAdd: 2.93215
+theta: 1.20428
+r: 11.6085
+节点序号：1180
+thetaIni: 4.63385
+thetaAdd: 2.93215
+theta: 1.28282
+r: 11.5706
+节点序号：1181
+thetaIni: 4.71239
+thetaAdd: 2.93215
+theta: 1.36136
+r: 11.5327
+节点序号：1182
+thetaIni: 4.79093
+thetaAdd: 2.93215
+theta: 1.4399
+r: 11.4948
+节点序号：1183
+thetaIni: 4.86947
+thetaAdd: 2.93215
+theta: 1.51844
+r: 11.4569
+节点序号：1184
+thetaIni: 4.94801
+thetaAdd: 2.93215
+theta: 1.59698
+r: 11.419
+节点序号：1185
+thetaIni: 5.02655
+thetaAdd: 2.93215
+theta: 1.67552
+r: 11.3812
+节点序号：1186
+thetaIni: 5.10509
+thetaAdd: 2.93215
+theta: 1.75406
+r: 11.3433
+节点序号：1187
+thetaIni: 5.18363
+thetaAdd: 2.93215
+theta: 1.8326
+r: 11.3054
+节点序号：1188
+thetaIni: 5.26217
+thetaAdd: 2.93215
+theta: 1.91114
+r: 11.2675
+节点序号：1189
+thetaIni: 5.34071
+thetaAdd: 2.93215
+theta: 1.98968
+r: 11.2296
+节点序号：1190
+thetaIni: 5.41925
+thetaAdd: 2.93215
+theta: 2.06822
+r: 11.1917
+节点序号：1191
+thetaIni: 5.49779
+thetaAdd: 2.93215
+theta: 2.14675
+r: 11.1538
+节点序号：1192
+thetaIni: 5.57633
+thetaAdd: 2.93215
+theta: 2.22529
+r: 11.1159
+节点序号：1193
+thetaIni: 5.65487
+thetaAdd: 2.93215
+theta: 2.30383
+r: 11.078
+节点序号：1194
+thetaIni: 5.73341
+thetaAdd: 2.93215
+theta: 2.38237
+r: 11.0402
+节点序号：1195
+thetaIni: 5.81195
+thetaAdd: 2.93215
+theta: 2.46091
+r: 12.3292
+节点序号：1196
+thetaIni: 5.89049
+thetaAdd: 2.93215
+theta: 2.53945
+r: 12.3013
+节点序号：1197
+thetaIni: 5.96903
+thetaAdd: 2.93215
+theta: 2.61799
+r: 12.2804
+节点序号：1198
+thetaIni: 6.04757
+thetaAdd: 2.93215
+theta: 2.69653
+r: 12.2642
+节点序号：1199
+thetaIni: 6.12611
+thetaAdd: 2.93215
+theta: 2.77507
+r: 12.2517
+节点序号：1200
+thetaIni: 6.20465
+thetaAdd: 2.93215
+theta: 2.85361
+r: 12.2421
+节点序号：1201
+thetaIni: 0
+thetaAdd: 3.14159
+theta: 3.14159
+r: 12.2275
+节点序号：1202
+thetaIni: 0.0785398
+thetaAdd: 3.14159
+theta: 3.22013
+r: 12.2286
+节点序号：1203
+thetaIni: 0.15708
+thetaAdd: 3.14159
+theta: 3.29867
+r: 12.2317
+节点序号：1204
+thetaIni: 0.235619
+thetaAdd: 3.14159
+theta: 3.37721
+r: 12.2372
+节点序号：1205
+thetaIni: 0.314159
+thetaAdd: 3.14159
+theta: 3.45575
+r: 12.245
+节点序号：1206
+thetaIni: 0.392699
+thetaAdd: 3.14159
+theta: 3.53429
+r: 12.2555
+节点序号：1207
+thetaIni: 0.471239
+thetaAdd: 3.14159
+theta: 3.61283
+r: 12.2692
+节点序号：1208
+thetaIni: 0.549779
+thetaAdd: 3.14159
+theta: 3.69137
+r: 12.2867
+节点序号：1209
+thetaIni: 0.628319
+thetaAdd: 3.14159
+theta: 3.76991
+r: 12.3096
+节点序号：1210
+thetaIni: 0.706858
+thetaAdd: 3.14159
+theta: 3.84845
+r: 12.341
+节点序号：1211
+thetaIni: 0.785398
+thetaAdd: 3.14159
+theta: 3.92699
+r: 12
+节点序号：1212
+thetaIni: 0.863938
+thetaAdd: 3.14159
+theta: 4.00553
+r: 12
+节点序号：1213
+thetaIni: 0.942478
+thetaAdd: 3.14159
+theta: 4.08407
+r: 12
+节点序号：1214
+thetaIni: 1.02102
+thetaAdd: 3.14159
+theta: 4.16261
+r: 12
+节点序号：1215
+thetaIni: 1.09956
+thetaAdd: 3.14159
+theta: 4.24115
+r: 12
+节点序号：1216
+thetaIni: 1.1781
+thetaAdd: 3.14159
+theta: 4.31969
+r: 12
+节点序号：1217
+thetaIni: 1.25664
+thetaAdd: 3.14159
+theta: 4.39823
+r: 12
+节点序号：1218
+thetaIni: 1.33518
+thetaAdd: 3.14159
+theta: 4.47677
+r: 12
+节点序号：1219
+thetaIni: 1.41372
+thetaAdd: 3.14159
+theta: 4.55531
+r: 12
+节点序号：1220
+thetaIni: 1.49226
+thetaAdd: 3.14159
+theta: 4.63385
+r: 12
+节点序号：1221
+thetaIni: 1.5708
+thetaAdd: 3.14159
+theta: 4.71239
+r: 12
+节点序号：1222
+thetaIni: 1.64934
+thetaAdd: 3.14159
+theta: 4.79093
+r: 12
+节点序号：1223
+thetaIni: 1.72788
+thetaAdd: 3.14159
+theta: 4.86947
+r: 12
+节点序号：1224
+thetaIni: 1.80642
+thetaAdd: 3.14159
+theta: 4.94801
+r: 12
+节点序号：1225
+thetaIni: 1.88496
+thetaAdd: 3.14159
+theta: 5.02655
+r: 12
+节点序号：1226
+thetaIni: 1.9635
+thetaAdd: 3.14159
+theta: 5.10509
+r: 12
+节点序号：1227
+thetaIni: 2.04204
+thetaAdd: 3.14159
+theta: 5.18363
+r: 12
+节点序号：1228
+thetaIni: 2.12058
+thetaAdd: 3.14159
+theta: 5.26217
+r: 12
+节点序号：1229
+thetaIni: 2.19911
+thetaAdd: 3.14159
+theta: 5.34071
+r: 12
+节点序号：1230
+thetaIni: 2.27765
+thetaAdd: 3.14159
+theta: 5.41925
+r: 12
+节点序号：1231
+thetaIni: 2.35619
+thetaAdd: 3.14159
+theta: 5.49779
+r: 12
+节点序号：1232
+thetaIni: 2.43473
+thetaAdd: 3.14159
+theta: 5.57633
+r: 12
+节点序号：1233
+thetaIni: 2.51327
+thetaAdd: 3.14159
+theta: 5.65487
+r: 12
+节点序号：1234
+thetaIni: 2.59181
+thetaAdd: 3.14159
+theta: 5.73341
+r: 12
+节点序号：1235
+thetaIni: 2.67035
+thetaAdd: 3.14159
+theta: 5.81195
+r: 12
+节点序号：1236
+thetaIni: 2.74889
+thetaAdd: 3.14159
+theta: 5.89049
+r: 12
+节点序号：1237
+thetaIni: 2.82743
+thetaAdd: 3.14159
+theta: 5.96903
+r: 12
+节点序号：1238
+thetaIni: 2.90597
+thetaAdd: 3.14159
+theta: 6.04757
+r: 12
+节点序号：1239
+thetaIni: 2.98451
+thetaAdd: 3.14159
+theta: 6.12611
+r: 12
+节点序号：1240
+thetaIni: 3.06305
+thetaAdd: 3.14159
+theta: 6.20465
+r: 12
+节点序号：1241
+thetaIni: 3.14159
+thetaAdd: 3.14159
+theta: 0
+r: 12
+节点序号：1242
+thetaIni: 3.22013
+thetaAdd: 3.14159
+theta: 0.0785398
+r: 12
+节点序号：1243
+thetaIni: 3.29867
+thetaAdd: 3.14159
+theta: 0.15708
+r: 12
+节点序号：1244
+thetaIni: 3.37721
+thetaAdd: 3.14159
+theta: 0.235619
+r: 12
+节点序号：1245
+thetaIni: 3.45575
+thetaAdd: 3.14159
+theta: 0.314159
+r: 12
+节点序号：1246
+thetaIni: 3.53429
+thetaAdd: 3.14159
+theta: 0.392699
+r: 12
+节点序号：1247
+thetaIni: 3.61283
+thetaAdd: 3.14159
+theta: 0.471239
+r: 11.9621
+节点序号：1248
+thetaIni: 3.69137
+thetaAdd: 3.14159
+theta: 0.549779
+r: 11.9242
+节点序号：1249
+thetaIni: 3.76991
+thetaAdd: 3.14159
+theta: 0.628319
+r: 11.8863
+节点序号：1250
+thetaIni: 3.84845
+thetaAdd: 3.14159
+theta: 0.706858
+r: 11.8484
+节点序号：1251
+thetaIni: 3.92699
+thetaAdd: 3.14159
+theta: 0.785398
+r: 11.8106
+节点序号：1252
+thetaIni: 4.00553
+thetaAdd: 3.14159
+theta: 0.863938
+r: 11.7727
+节点序号：1253
+thetaIni: 4.08407
+thetaAdd: 3.14159
+theta: 0.942478
+r: 11.7348
+节点序号：1254
+thetaIni: 4.16261
+thetaAdd: 3.14159
+theta: 1.02102
+r: 11.6969
+节点序号：1255
+thetaIni: 4.24115
+thetaAdd: 3.14159
+theta: 1.09956
+r: 11.659
+节点序号：1256
+thetaIni: 4.31969
+thetaAdd: 3.14159
+theta: 1.1781
+r: 11.6211
+节点序号：1257
+thetaIni: 4.39823
+thetaAdd: 3.14159
+theta: 1.25664
+r: 11.5832
+节点序号：1258
+thetaIni: 4.47677
+thetaAdd: 3.14159
+theta: 1.33518
+r: 11.5453
+节点序号：1259
+thetaIni: 4.55531
+thetaAdd: 3.14159
+theta: 1.41372
+r: 11.5074
+节点序号：1260
+thetaIni: 4.63385
+thetaAdd: 3.14159
+theta: 1.49226
+r: 11.4696
+节点序号：1261
+thetaIni: 4.71239
+thetaAdd: 3.14159
+theta: 1.5708
+r: 11.4317
+节点序号：1262
+thetaIni: 4.79093
+thetaAdd: 3.14159
+theta: 1.64934
+r: 11.3938
+节点序号：1263
+thetaIni: 4.86947
+thetaAdd: 3.14159
+theta: 1.72788
+r: 11.3559
+节点序号：1264
+thetaIni: 4.94801
+thetaAdd: 3.14159
+theta: 1.80642
+r: 11.318
+节点序号：1265
+thetaIni: 5.02655
+thetaAdd: 3.14159
+theta: 1.88496
+r: 11.2801
+节点序号：1266
+thetaIni: 5.10509
+thetaAdd: 3.14159
+theta: 1.9635
+r: 11.2422
+节点序号：1267
+thetaIni: 5.18363
+thetaAdd: 3.14159
+theta: 2.04204
+r: 11.2043
+节点序号：1268
+thetaIni: 5.26217
+thetaAdd: 3.14159
+theta: 2.12058
+r: 11.1665
+节点序号：1269
+thetaIni: 5.34071
+thetaAdd: 3.14159
+theta: 2.19911
+r: 11.1286
+节点序号：1270
+thetaIni: 5.41925
+thetaAdd: 3.14159
+theta: 2.27765
+r: 11.0907
+节点序号：1271
+thetaIni: 5.49779
+thetaAdd: 3.14159
+theta: 2.35619
+r: 11.0528
+节点序号：1272
+thetaIni: 5.57633
+thetaAdd: 3.14159
+theta: 2.43473
+r: 12.341
+节点序号：1273
+thetaIni: 5.65487
+thetaAdd: 3.14159
+theta: 2.51327
+r: 12.3096
+节点序号：1274
+thetaIni: 5.73341
+thetaAdd: 3.14159
+theta: 2.59181
+r: 12.2867
+节点序号：1275
+thetaIni: 5.81195
+thetaAdd: 3.14159
+theta: 2.67035
+r: 12.2692
+节点序号：1276
+thetaIni: 5.89049
+thetaAdd: 3.14159
+theta: 2.74889
+r: 12.2555
+节点序号：1277
+thetaIni: 5.96903
+thetaAdd: 3.14159
+theta: 2.82743
+r: 12.245
+节点序号：1278
+thetaIni: 6.04757
+thetaAdd: 3.14159
+theta: 2.90597
+r: 12.2372
+节点序号：1279
+thetaIni: 6.12611
+thetaAdd: 3.14159
+theta: 2.98451
+r: 12.2317
+节点序号：1280
+thetaIni: 6.20465
+thetaAdd: 3.14159
+theta: 3.06305
+r: 12.2286
+节点序号：1281
+thetaIni: 0
+thetaAdd: 3.35103
+theta: 3.35103
+r: 12.2351
+节点序号：1282
+thetaIni: 0.0785398
+thetaAdd: 3.35103
+theta: 3.42957
+r: 12.2421
+节点序号：1283
+thetaIni: 0.15708
+thetaAdd: 3.35103
+theta: 3.50811
+r: 12.2517
+节点序号：1284
+thetaIni: 0.235619
+thetaAdd: 3.35103
+theta: 3.58665
+r: 12.2642
+节点序号：1285
+thetaIni: 0.314159
+thetaAdd: 3.35103
+theta: 3.66519
+r: 12.2804
+节点序号：1286
+thetaIni: 0.392699
+thetaAdd: 3.35103
+theta: 3.74373
+r: 12.3013
+节点序号：1287
+thetaIni: 0.471239
+thetaAdd: 3.35103
+theta: 3.82227
+r: 12.3292
+节点序号：1288
+thetaIni: 0.549779
+thetaAdd: 3.35103
+theta: 3.90081
+r: 12
+节点序号：1289
+thetaIni: 0.628319
+thetaAdd: 3.35103
+theta: 3.97935
+r: 12
+节点序号：1290
+thetaIni: 0.706858
+thetaAdd: 3.35103
+theta: 4.05789
+r: 12
+节点序号：1291
+thetaIni: 0.785398
+thetaAdd: 3.35103
+theta: 4.13643
+r: 12
+节点序号：1292
+thetaIni: 0.863938
+thetaAdd: 3.35103
+theta: 4.21497
+r: 12
+节点序号：1293
+thetaIni: 0.942478
+thetaAdd: 3.35103
+theta: 4.29351
+r: 12
+节点序号：1294
+thetaIni: 1.02102
+thetaAdd: 3.35103
+theta: 4.37205
+r: 12
+节点序号：1295
+thetaIni: 1.09956
+thetaAdd: 3.35103
+theta: 4.45059
+r: 12
+节点序号：1296
+thetaIni: 1.1781
+thetaAdd: 3.35103
+theta: 4.52913
+r: 12
+节点序号：1297
+thetaIni: 1.25664
+thetaAdd: 3.35103
+theta: 4.60767
+r: 12
+节点序号：1298
+thetaIni: 1.33518
+thetaAdd: 3.35103
+theta: 4.68621
+r: 12
+节点序号：1299
+thetaIni: 1.41372
+thetaAdd: 3.35103
+theta: 4.76475
+r: 12
+节点序号：1300
+thetaIni: 1.49226
+thetaAdd: 3.35103
+theta: 4.84329
+r: 12
+节点序号：1301
+thetaIni: 1.5708
+thetaAdd: 3.35103
+theta: 4.92183
+r: 12
+节点序号：1302
+thetaIni: 1.64934
+thetaAdd: 3.35103
+theta: 5.00037
+r: 12
+节点序号：1303
+thetaIni: 1.72788
+thetaAdd: 3.35103
+theta: 5.07891
+r: 12
+节点序号：1304
+thetaIni: 1.80642
+thetaAdd: 3.35103
+theta: 5.15745
+r: 12
+节点序号：1305
+thetaIni: 1.88496
+thetaAdd: 3.35103
+theta: 5.23599
+r: 12
+节点序号：1306
+thetaIni: 1.9635
+thetaAdd: 3.35103
+theta: 5.31453
+r: 12
+节点序号：1307
+thetaIni: 2.04204
+thetaAdd: 3.35103
+theta: 5.39307
+r: 12
+节点序号：1308
+thetaIni: 2.12058
+thetaAdd: 3.35103
+theta: 5.47161
+r: 12
+节点序号：1309
+thetaIni: 2.19911
+thetaAdd: 3.35103
+theta: 5.55015
+r: 12
+节点序号：1310
+thetaIni: 2.27765
+thetaAdd: 3.35103
+theta: 5.62869
+r: 12
+节点序号：1311
+thetaIni: 2.35619
+thetaAdd: 3.35103
+theta: 5.70723
+r: 12
+节点序号：1312
+thetaIni: 2.43473
+thetaAdd: 3.35103
+theta: 5.78577
+r: 12
+节点序号：1313
+thetaIni: 2.51327
+thetaAdd: 3.35103
+theta: 5.86431
+r: 12
+节点序号：1314
+thetaIni: 2.59181
+thetaAdd: 3.35103
+theta: 5.94285
+r: 12
+节点序号：1315
+thetaIni: 2.67035
+thetaAdd: 3.35103
+theta: 6.02139
+r: 12
+节点序号：1316
+thetaIni: 2.74889
+thetaAdd: 3.35103
+theta: 6.09993
+r: 12
+节点序号：1317
+thetaIni: 2.82743
+thetaAdd: 3.35103
+theta: 6.17847
+r: 12
+节点序号：1318
+thetaIni: 2.90597
+thetaAdd: 3.35103
+theta: 6.25701
+r: 12
+节点序号：1319
+thetaIni: 2.98451
+thetaAdd: 3.35103
+theta: 0.0523599
+r: 12
+节点序号：1320
+thetaIni: 3.06305
+thetaAdd: 3.35103
+theta: 0.1309
+r: 12
+节点序号：1321
+thetaIni: 3.14159
+thetaAdd: 3.35103
+theta: 0.20944
+r: 12
+节点序号：1322
+thetaIni: 3.22013
+thetaAdd: 3.35103
+theta: 0.287979
+r: 12
+节点序号：1323
+thetaIni: 3.29867
+thetaAdd: 3.35103
+theta: 0.366519
+r: 12
+节点序号：1324
+thetaIni: 3.37721
+thetaAdd: 3.35103
+theta: 0.445059
+r: 11.9747
+节点序号：1325
+thetaIni: 3.45575
+thetaAdd: 3.35103
+theta: 0.523599
+r: 11.9369
+节点序号：1326
+thetaIni: 3.53429
+thetaAdd: 3.35103
+theta: 0.602139
+r: 11.899
+节点序号：1327
+thetaIni: 3.61283
+thetaAdd: 3.35103
+theta: 0.680678
+r: 11.8611
+节点序号：1328
+thetaIni: 3.69137
+thetaAdd: 3.35103
+theta: 0.759218
+r: 11.8232
+节点序号：1329
+thetaIni: 3.76991
+thetaAdd: 3.35103
+theta: 0.837758
+r: 11.7853
+节点序号：1330
+thetaIni: 3.84845
+thetaAdd: 3.35103
+theta: 0.916298
+r: 11.7474
+节点序号：1331
+thetaIni: 3.92699
+thetaAdd: 3.35103
+theta: 0.994838
+r: 11.7095
+节点序号：1332
+thetaIni: 4.00553
+thetaAdd: 3.35103
+theta: 1.07338
+r: 11.6716
+节点序号：1333
+thetaIni: 4.08407
+thetaAdd: 3.35103
+theta: 1.15192
+r: 11.6337
+节点序号：1334
+thetaIni: 4.16261
+thetaAdd: 3.35103
+theta: 1.23046
+r: 11.5959
+节点序号：1335
+thetaIni: 4.24115
+thetaAdd: 3.35103
+theta: 1.309
+r: 11.558
+节点序号：1336
+thetaIni: 4.31969
+thetaAdd: 3.35103
+theta: 1.38754
+r: 11.5201
+节点序号：1337
+thetaIni: 4.39823
+thetaAdd: 3.35103
+theta: 1.46608
+r: 11.4822
+节点序号：1338
+thetaIni: 4.47677
+thetaAdd: 3.35103
+theta: 1.54462
+r: 11.4443
+节点序号：1339
+thetaIni: 4.55531
+thetaAdd: 3.35103
+theta: 1.62316
+r: 11.4064
+节点序号：1340
+thetaIni: 4.63385
+thetaAdd: 3.35103
+theta: 1.7017
+r: 11.3685
+节点序号：1341
+thetaIni: 4.71239
+thetaAdd: 3.35103
+theta: 1.78024
+r: 11.3306
+节点序号：1342
+thetaIni: 4.79093
+thetaAdd: 3.35103
+theta: 1.85878
+r: 11.2927
+节点序号：1343
+thetaIni: 4.86947
+thetaAdd: 3.35103
+theta: 1.93732
+r: 11.2549
+节点序号：1344
+thetaIni: 4.94801
+thetaAdd: 3.35103
+theta: 2.01586
+r: 11.217
+节点序号：1345
+thetaIni: 5.02655
+thetaAdd: 3.35103
+theta: 2.0944
+r: 11.1791
+节点序号：1346
+thetaIni: 5.10509
+thetaAdd: 3.35103
+theta: 2.17293
+r: 11.1412
+节点序号：1347
+thetaIni: 5.18363
+thetaAdd: 3.35103
+theta: 2.25147
+r: 11.1033
+节点序号：1348
+thetaIni: 5.26217
+thetaAdd: 3.35103
+theta: 2.33001
+r: 11.0654
+节点序号：1349
+thetaIni: 5.34071
+thetaAdd: 3.35103
+theta: 2.40855
+r: 11.0275
+节点序号：1350
+thetaIni: 5.41925
+thetaAdd: 3.35103
+theta: 2.48709
+r: 12.3189
+节点序号：1351
+thetaIni: 5.49779
+thetaAdd: 3.35103
+theta: 2.56563
+r: 12.2937
+节点序号：1352
+thetaIni: 5.57633
+thetaAdd: 3.35103
+theta: 2.64417
+r: 12.2745
+节点序号：1353
+thetaIni: 5.65487
+thetaAdd: 3.35103
+theta: 2.72271
+r: 12.2597
+节点序号：1354
+thetaIni: 5.73341
+thetaAdd: 3.35103
+theta: 2.80125
+r: 12.2482
+节点序号：1355
+thetaIni: 5.81195
+thetaAdd: 3.35103
+theta: 2.87979
+r: 12.2395
+节点序号：1356
+thetaIni: 5.89049
+thetaAdd: 3.35103
+theta: 2.95833
+r: 12.2333
+节点序号：1357
+thetaIni: 5.96903
+thetaAdd: 3.35103
+theta: 3.03687
+r: 12.2294
+节点序号：1358
+thetaIni: 6.04757
+thetaAdd: 3.35103
+theta: 3.11541
+r: 12.2276
+节点序号：1359
+thetaIni: 6.12611
+thetaAdd: 3.35103
+theta: 3.19395
+r: 12.228
+节点序号：1360
+thetaIni: 6.20465
+thetaAdd: 3.35103
+theta: 3.27249
+r: 12.2304
+节点序号：1361
+thetaIni: 0
+thetaAdd: 3.56047
+theta: 3.56047
+r: 12.2597
+节点序号：1362
+thetaIni: 0.0785398
+thetaAdd: 3.56047
+theta: 3.63901
+r: 12.2745
+节点序号：1363
+thetaIni: 0.15708
+thetaAdd: 3.56047
+theta: 3.71755
+r: 12.2937
+节点序号：1364
+thetaIni: 0.235619
+thetaAdd: 3.56047
+theta: 3.79609
+r: 12.3189
+节点序号：1365
+thetaIni: 0.314159
+thetaAdd: 3.56047
+theta: 3.87463
+r: 12
+节点序号：1366
+thetaIni: 0.392699
+thetaAdd: 3.56047
+theta: 3.95317
+r: 12
+节点序号：1367
+thetaIni: 0.471239
+thetaAdd: 3.56047
+theta: 4.03171
+r: 12
+节点序号：1368
+thetaIni: 0.549779
+thetaAdd: 3.56047
+theta: 4.11025
+r: 12
+节点序号：1369
+thetaIni: 0.628319
+thetaAdd: 3.56047
+theta: 4.18879
+r: 12
+节点序号：1370
+thetaIni: 0.706858
+thetaAdd: 3.56047
+theta: 4.26733
+r: 12
+节点序号：1371
+thetaIni: 0.785398
+thetaAdd: 3.56047
+theta: 4.34587
+r: 12
+节点序号：1372
+thetaIni: 0.863938
+thetaAdd: 3.56047
+theta: 4.42441
+r: 12
+节点序号：1373
+thetaIni: 0.942478
+thetaAdd: 3.56047
+theta: 4.50295
+r: 12
+节点序号：1374
+thetaIni: 1.02102
+thetaAdd: 3.56047
+theta: 4.58149
+r: 12
+节点序号：1375
+thetaIni: 1.09956
+thetaAdd: 3.56047
+theta: 4.66003
+r: 12
+节点序号：1376
+thetaIni: 1.1781
+thetaAdd: 3.56047
+theta: 4.73857
+r: 12
+节点序号：1377
+thetaIni: 1.25664
+thetaAdd: 3.56047
+theta: 4.81711
+r: 12
+节点序号：1378
+thetaIni: 1.33518
+thetaAdd: 3.56047
+theta: 4.89565
+r: 12
+节点序号：1379
+thetaIni: 1.41372
+thetaAdd: 3.56047
+theta: 4.97419
+r: 12
+节点序号：1380
+thetaIni: 1.49226
+thetaAdd: 3.56047
+theta: 5.05273
+r: 12
+节点序号：1381
+thetaIni: 1.5708
+thetaAdd: 3.56047
+theta: 5.13127
+r: 12
+节点序号：1382
+thetaIni: 1.64934
+thetaAdd: 3.56047
+theta: 5.20981
+r: 12
+节点序号：1383
+thetaIni: 1.72788
+thetaAdd: 3.56047
+theta: 5.28835
+r: 12
+节点序号：1384
+thetaIni: 1.80642
+thetaAdd: 3.56047
+theta: 5.36689
+r: 12
+节点序号：1385
+thetaIni: 1.88496
+thetaAdd: 3.56047
+theta: 5.44543
+r: 12
+节点序号：1386
+thetaIni: 1.9635
+thetaAdd: 3.56047
+theta: 5.52397
+r: 12
+节点序号：1387
+thetaIni: 2.04204
+thetaAdd: 3.56047
+theta: 5.60251
+r: 12
+节点序号：1388
+thetaIni: 2.12058
+thetaAdd: 3.56047
+theta: 5.68105
+r: 12
+节点序号：1389
+thetaIni: 2.19911
+thetaAdd: 3.56047
+theta: 5.75959
+r: 12
+节点序号：1390
+thetaIni: 2.27765
+thetaAdd: 3.56047
+theta: 5.83813
+r: 12
+节点序号：1391
+thetaIni: 2.35619
+thetaAdd: 3.56047
+theta: 5.91667
+r: 12
+节点序号：1392
+thetaIni: 2.43473
+thetaAdd: 3.56047
+theta: 5.99521
+r: 12
+节点序号：1393
+thetaIni: 2.51327
+thetaAdd: 3.56047
+theta: 6.07375
+r: 12
+节点序号：1394
+thetaIni: 2.59181
+thetaAdd: 3.56047
+theta: 6.15229
+r: 12
+节点序号：1395
+thetaIni: 2.67035
+thetaAdd: 3.56047
+theta: 6.23083
+r: 12
+节点序号：1396
+thetaIni: 2.74889
+thetaAdd: 3.56047
+theta: 0.0261799
+r: 12
+节点序号：1397
+thetaIni: 2.82743
+thetaAdd: 3.56047
+theta: 0.10472
+r: 12
+节点序号：1398
+thetaIni: 2.90597
+thetaAdd: 3.56047
+theta: 0.18326
+r: 12
+节点序号：1399
+thetaIni: 2.98451
+thetaAdd: 3.56047
+theta: 0.261799
+r: 12
+节点序号：1400
+thetaIni: 3.06305
+thetaAdd: 3.56047
+theta: 0.340339
+r: 12
+节点序号：1401
+thetaIni: 3.14159
+thetaAdd: 3.56047
+theta: 0.418879
+r: 11.9874
+节点序号：1402
+thetaIni: 3.22013
+thetaAdd: 3.56047
+theta: 0.497419
+r: 11.9495
+节点序号：1403
+thetaIni: 3.29867
+thetaAdd: 3.56047
+theta: 0.575959
+r: 11.9116
+节点序号：1404
+thetaIni: 3.37721
+thetaAdd: 3.56047
+theta: 0.654498
+r: 11.8737
+节点序号：1405
+thetaIni: 3.45575
+thetaAdd: 3.56047
+theta: 0.733038
+r: 11.8358
+节点序号：1406
+thetaIni: 3.53429
+thetaAdd: 3.56047
+theta: 0.811578
+r: 11.7979
+节点序号：1407
+thetaIni: 3.61283
+thetaAdd: 3.56047
+theta: 0.890118
+r: 11.76
+节点序号：1408
+thetaIni: 3.69137
+thetaAdd: 3.56047
+theta: 0.968658
+r: 11.7222
+节点序号：1409
+thetaIni: 3.76991
+thetaAdd: 3.56047
+theta: 1.0472
+r: 11.6843
+节点序号：1410
+thetaIni: 3.84845
+thetaAdd: 3.56047
+theta: 1.12574
+r: 11.6464
+节点序号：1411
+thetaIni: 3.92699
+thetaAdd: 3.56047
+theta: 1.20428
+r: 11.6085
+节点序号：1412
+thetaIni: 4.00553
+thetaAdd: 3.56047
+theta: 1.28282
+r: 11.5706
+节点序号：1413
+thetaIni: 4.08407
+thetaAdd: 3.56047
+theta: 1.36136
+r: 11.5327
+节点序号：1414
+thetaIni: 4.16261
+thetaAdd: 3.56047
+theta: 1.4399
+r: 11.4948
+节点序号：1415
+thetaIni: 4.24115
+thetaAdd: 3.56047
+theta: 1.51844
+r: 11.4569
+节点序号：1416
+thetaIni: 4.31969
+thetaAdd: 3.56047
+theta: 1.59698
+r: 11.419
+节点序号：1417
+thetaIni: 4.39823
+thetaAdd: 3.56047
+theta: 1.67552
+r: 11.3812
+节点序号：1418
+thetaIni: 4.47677
+thetaAdd: 3.56047
+theta: 1.75406
+r: 11.3433
+节点序号：1419
+thetaIni: 4.55531
+thetaAdd: 3.56047
+theta: 1.8326
+r: 11.3054
+节点序号：1420
+thetaIni: 4.63385
+thetaAdd: 3.56047
+theta: 1.91114
+r: 11.2675
+节点序号：1421
+thetaIni: 4.71239
+thetaAdd: 3.56047
+theta: 1.98968
+r: 11.2296
+节点序号：1422
+thetaIni: 4.79093
+thetaAdd: 3.56047
+theta: 2.06822
+r: 11.1917
+节点序号：1423
+thetaIni: 4.86947
+thetaAdd: 3.56047
+theta: 2.14675
+r: 11.1538
+节点序号：1424
+thetaIni: 4.94801
+thetaAdd: 3.56047
+theta: 2.22529
+r: 11.1159
+节点序号：1425
+thetaIni: 5.02655
+thetaAdd: 3.56047
+theta: 2.30383
+r: 11.078
+节点序号：1426
+thetaIni: 5.10509
+thetaAdd: 3.56047
+theta: 2.38237
+r: 11.0402
+节点序号：1427
+thetaIni: 5.18363
+thetaAdd: 3.56047
+theta: 2.46091
+r: 12.3292
+节点序号：1428
+thetaIni: 5.26217
+thetaAdd: 3.56047
+theta: 2.53945
+r: 12.3013
+节点序号：1429
+thetaIni: 5.34071
+thetaAdd: 3.56047
+theta: 2.61799
+r: 12.2804
+节点序号：1430
+thetaIni: 5.41925
+thetaAdd: 3.56047
+theta: 2.69653
+r: 12.2642
+节点序号：1431
+thetaIni: 5.49779
+thetaAdd: 3.56047
+theta: 2.77507
+r: 12.2517
+节点序号：1432
+thetaIni: 5.57633
+thetaAdd: 3.56047
+theta: 2.85361
+r: 12.2421
+节点序号：1433
+thetaIni: 5.65487
+thetaAdd: 3.56047
+theta: 2.93215
+r: 12.2351
+节点序号：1434
+thetaIni: 5.73341
+thetaAdd: 3.56047
+theta: 3.01069
+r: 12.2304
+节点序号：1435
+thetaIni: 5.81195
+thetaAdd: 3.56047
+theta: 3.08923
+r: 12.228
+节点序号：1436
+thetaIni: 5.89049
+thetaAdd: 3.56047
+theta: 3.16777
+r: 12.2276
+节点序号：1437
+thetaIni: 5.96903
+thetaAdd: 3.56047
+theta: 3.24631
+r: 12.2294
+节点序号：1438
+thetaIni: 6.04757
+thetaAdd: 3.56047
+theta: 3.32485
+r: 12.2333
+节点序号：1439
+thetaIni: 6.12611
+thetaAdd: 3.56047
+theta: 3.40339
+r: 12.2395
+节点序号：1440
+thetaIni: 6.20465
+thetaAdd: 3.56047
+theta: 3.48193
+r: 12.2482
+节点序号：1441
+thetaIni: 0
+thetaAdd: 3.76991
+theta: 3.76991
+r: 12.3096
+节点序号：1442
+thetaIni: 0.0785398
+thetaAdd: 3.76991
+theta: 3.84845
+r: 12.341
+节点序号：1443
+thetaIni: 0.15708
+thetaAdd: 3.76991
+theta: 3.92699
+r: 12
+节点序号：1444
+thetaIni: 0.235619
+thetaAdd: 3.76991
+theta: 4.00553
+r: 12
+节点序号：1445
+thetaIni: 0.314159
+thetaAdd: 3.76991
+theta: 4.08407
+r: 12
+节点序号：1446
+thetaIni: 0.392699
+thetaAdd: 3.76991
+theta: 4.16261
+r: 12
+节点序号：1447
+thetaIni: 0.471239
+thetaAdd: 3.76991
+theta: 4.24115
+r: 12
+节点序号：1448
+thetaIni: 0.549779
+thetaAdd: 3.76991
+theta: 4.31969
+r: 12
+节点序号：1449
+thetaIni: 0.628319
+thetaAdd: 3.76991
+theta: 4.39823
+r: 12
+节点序号：1450
+thetaIni: 0.706858
+thetaAdd: 3.76991
+theta: 4.47677
+r: 12
+节点序号：1451
+thetaIni: 0.785398
+thetaAdd: 3.76991
+theta: 4.55531
+r: 12
+节点序号：1452
+thetaIni: 0.863938
+thetaAdd: 3.76991
+theta: 4.63385
+r: 12
+节点序号：1453
+thetaIni: 0.942478
+thetaAdd: 3.76991
+theta: 4.71239
+r: 12
+节点序号：1454
+thetaIni: 1.02102
+thetaAdd: 3.76991
+theta: 4.79093
+r: 12
+节点序号：1455
+thetaIni: 1.09956
+thetaAdd: 3.76991
+theta: 4.86947
+r: 12
+节点序号：1456
+thetaIni: 1.1781
+thetaAdd: 3.76991
+theta: 4.94801
+r: 12
+节点序号：1457
+thetaIni: 1.25664
+thetaAdd: 3.76991
+theta: 5.02655
+r: 12
+节点序号：1458
+thetaIni: 1.33518
+thetaAdd: 3.76991
+theta: 5.10509
+r: 12
+节点序号：1459
+thetaIni: 1.41372
+thetaAdd: 3.76991
+theta: 5.18363
+r: 12
+节点序号：1460
+thetaIni: 1.49226
+thetaAdd: 3.76991
+theta: 5.26217
+r: 12
+节点序号：1461
+thetaIni: 1.5708
+thetaAdd: 3.76991
+theta: 5.34071
+r: 12
+节点序号：1462
+thetaIni: 1.64934
+thetaAdd: 3.76991
+theta: 5.41925
+r: 12
+节点序号：1463
+thetaIni: 1.72788
+thetaAdd: 3.76991
+theta: 5.49779
+r: 12
+节点序号：1464
+thetaIni: 1.80642
+thetaAdd: 3.76991
+theta: 5.57633
+r: 12
+节点序号：1465
+thetaIni: 1.88496
+thetaAdd: 3.76991
+theta: 5.65487
+r: 12
+节点序号：1466
+thetaIni: 1.9635
+thetaAdd: 3.76991
+theta: 5.73341
+r: 12
+节点序号：1467
+thetaIni: 2.04204
+thetaAdd: 3.76991
+theta: 5.81195
+r: 12
+节点序号：1468
+thetaIni: 2.12058
+thetaAdd: 3.76991
+theta: 5.89049
+r: 12
+节点序号：1469
+thetaIni: 2.19911
+thetaAdd: 3.76991
+theta: 5.96903
+r: 12
+节点序号：1470
+thetaIni: 2.27765
+thetaAdd: 3.76991
+theta: 6.04757
+r: 12
+节点序号：1471
+thetaIni: 2.35619
+thetaAdd: 3.76991
+theta: 6.12611
+r: 12
+节点序号：1472
+thetaIni: 2.43473
+thetaAdd: 3.76991
+theta: 6.20465
+r: 12
+节点序号：1473
+thetaIni: 2.51327
+thetaAdd: 3.76991
+theta: 0
+r: 12
+节点序号：1474
+thetaIni: 2.59181
+thetaAdd: 3.76991
+theta: 0.0785398
+r: 12
+节点序号：1475
+thetaIni: 2.67035
+thetaAdd: 3.76991
+theta: 0.15708
+r: 12
+节点序号：1476
+thetaIni: 2.74889
+thetaAdd: 3.76991
+theta: 0.235619
+r: 12
+节点序号：1477
+thetaIni: 2.82743
+thetaAdd: 3.76991
+theta: 0.314159
+r: 12
+节点序号：1478
+thetaIni: 2.90597
+thetaAdd: 3.76991
+theta: 0.392699
+r: 12
+节点序号：1479
+thetaIni: 2.98451
+thetaAdd: 3.76991
+theta: 0.471239
+r: 11.9621
+节点序号：1480
+thetaIni: 3.06305
+thetaAdd: 3.76991
+theta: 0.549779
+r: 11.9242
+节点序号：1481
+thetaIni: 3.14159
+thetaAdd: 3.76991
+theta: 0.628319
+r: 11.8863
+节点序号：1482
+thetaIni: 3.22013
+thetaAdd: 3.76991
+theta: 0.706858
+r: 11.8484
+节点序号：1483
+thetaIni: 3.29867
+thetaAdd: 3.76991
+theta: 0.785398
+r: 11.8106
+节点序号：1484
+thetaIni: 3.37721
+thetaAdd: 3.76991
+theta: 0.863938
+r: 11.7727
+节点序号：1485
+thetaIni: 3.45575
+thetaAdd: 3.76991
+theta: 0.942478
+r: 11.7348
+节点序号：1486
+thetaIni: 3.53429
+thetaAdd: 3.76991
+theta: 1.02102
+r: 11.6969
+节点序号：1487
+thetaIni: 3.61283
+thetaAdd: 3.76991
+theta: 1.09956
+r: 11.659
+节点序号：1488
+thetaIni: 3.69137
+thetaAdd: 3.76991
+theta: 1.1781
+r: 11.6211
+节点序号：1489
+thetaIni: 3.76991
+thetaAdd: 3.76991
+theta: 1.25664
+r: 11.5832
+节点序号：1490
+thetaIni: 3.84845
+thetaAdd: 3.76991
+theta: 1.33518
+r: 11.5453
+节点序号：1491
+thetaIni: 3.92699
+thetaAdd: 3.76991
+theta: 1.41372
+r: 11.5074
+节点序号：1492
+thetaIni: 4.00553
+thetaAdd: 3.76991
+theta: 1.49226
+r: 11.4696
+节点序号：1493
+thetaIni: 4.08407
+thetaAdd: 3.76991
+theta: 1.5708
+r: 11.4317
+节点序号：1494
+thetaIni: 4.16261
+thetaAdd: 3.76991
+theta: 1.64934
+r: 11.3938
+节点序号：1495
+thetaIni: 4.24115
+thetaAdd: 3.76991
+theta: 1.72788
+r: 11.3559
+节点序号：1496
+thetaIni: 4.31969
+thetaAdd: 3.76991
+theta: 1.80642
+r: 11.318
+节点序号：1497
+thetaIni: 4.39823
+thetaAdd: 3.76991
+theta: 1.88496
+r: 11.2801
+节点序号：1498
+thetaIni: 4.47677
+thetaAdd: 3.76991
+theta: 1.9635
+r: 11.2422
+节点序号：1499
+thetaIni: 4.55531
+thetaAdd: 3.76991
+theta: 2.04204
+r: 11.2043
+节点序号：1500
+thetaIni: 4.63385
+thetaAdd: 3.76991
+theta: 2.12058
+r: 11.1665
+节点序号：1501
+thetaIni: 4.71239
+thetaAdd: 3.76991
+theta: 2.19911
+r: 11.1286
+节点序号：1502
+thetaIni: 4.79093
+thetaAdd: 3.76991
+theta: 2.27765
+r: 11.0907
+节点序号：1503
+thetaIni: 4.86947
+thetaAdd: 3.76991
+theta: 2.35619
+r: 11.0528
+节点序号：1504
+thetaIni: 4.94801
+thetaAdd: 3.76991
+theta: 2.43473
+r: 12.341
+节点序号：1505
+thetaIni: 5.02655
+thetaAdd: 3.76991
+theta: 2.51327
+r: 12.3096
+节点序号：1506
+thetaIni: 5.10509
+thetaAdd: 3.76991
+theta: 2.59181
+r: 12.2867
+节点序号：1507
+thetaIni: 5.18363
+thetaAdd: 3.76991
+theta: 2.67035
+r: 12.2692
+节点序号：1508
+thetaIni: 5.26217
+thetaAdd: 3.76991
+theta: 2.74889
+r: 12.2555
+节点序号：1509
+thetaIni: 5.34071
+thetaAdd: 3.76991
+theta: 2.82743
+r: 12.245
+节点序号：1510
+thetaIni: 5.41925
+thetaAdd: 3.76991
+theta: 2.90597
+r: 12.2372
+节点序号：1511
+thetaIni: 5.49779
+thetaAdd: 3.76991
+theta: 2.98451
+r: 12.2317
+节点序号：1512
+thetaIni: 5.57633
+thetaAdd: 3.76991
+theta: 3.06305
+r: 12.2286
+节点序号：1513
+thetaIni: 5.65487
+thetaAdd: 3.76991
+theta: 3.14159
+r: 12.2275
+节点序号：1514
+thetaIni: 5.73341
+thetaAdd: 3.76991
+theta: 3.22013
+r: 12.2286
+节点序号：1515
+thetaIni: 5.81195
+thetaAdd: 3.76991
+theta: 3.29867
+r: 12.2317
+节点序号：1516
+thetaIni: 5.89049
+thetaAdd: 3.76991
+theta: 3.37721
+r: 12.2372
+节点序号：1517
+thetaIni: 5.96903
+thetaAdd: 3.76991
+theta: 3.45575
+r: 12.245
+节点序号：1518
+thetaIni: 6.04757
+thetaAdd: 3.76991
+theta: 3.53429
+r: 12.2555
+节点序号：1519
+thetaIni: 6.12611
+thetaAdd: 3.76991
+theta: 3.61283
+r: 12.2692
+节点序号：1520
+thetaIni: 6.20465
+thetaAdd: 3.76991
+theta: 3.69137
+r: 12.2867
+节点序号：1521
+thetaIni: 0
+thetaAdd: 3.97935
+theta: 3.97935
+r: 12
+节点序号：1522
+thetaIni: 0.0785398
+thetaAdd: 3.97935
+theta: 4.05789
+r: 12
+节点序号：1523
+thetaIni: 0.15708
+thetaAdd: 3.97935
+theta: 4.13643
+r: 12
+节点序号：1524
+thetaIni: 0.235619
+thetaAdd: 3.97935
+theta: 4.21497
+r: 12
+节点序号：1525
+thetaIni: 0.314159
+thetaAdd: 3.97935
+theta: 4.29351
+r: 12
+节点序号：1526
+thetaIni: 0.392699
+thetaAdd: 3.97935
+theta: 4.37205
+r: 12
+节点序号：1527
+thetaIni: 0.471239
+thetaAdd: 3.97935
+theta: 4.45059
+r: 12
+节点序号：1528
+thetaIni: 0.549779
+thetaAdd: 3.97935
+theta: 4.52913
+r: 12
+节点序号：1529
+thetaIni: 0.628319
+thetaAdd: 3.97935
+theta: 4.60767
+r: 12
+节点序号：1530
+thetaIni: 0.706858
+thetaAdd: 3.97935
+theta: 4.68621
+r: 12
+节点序号：1531
+thetaIni: 0.785398
+thetaAdd: 3.97935
+theta: 4.76475
+r: 12
+节点序号：1532
+thetaIni: 0.863938
+thetaAdd: 3.97935
+theta: 4.84329
+r: 12
+节点序号：1533
+thetaIni: 0.942478
+thetaAdd: 3.97935
+theta: 4.92183
+r: 12
+节点序号：1534
+thetaIni: 1.02102
+thetaAdd: 3.97935
+theta: 5.00037
+r: 12
+节点序号：1535
+thetaIni: 1.09956
+thetaAdd: 3.97935
+theta: 5.07891
+r: 12
+节点序号：1536
+thetaIni: 1.1781
+thetaAdd: 3.97935
+theta: 5.15745
+r: 12
+节点序号：1537
+thetaIni: 1.25664
+thetaAdd: 3.97935
+theta: 5.23599
+r: 12
+节点序号：1538
+thetaIni: 1.33518
+thetaAdd: 3.97935
+theta: 5.31453
+r: 12
+节点序号：1539
+thetaIni: 1.41372
+thetaAdd: 3.97935
+theta: 5.39307
+r: 12
+节点序号：1540
+thetaIni: 1.49226
+thetaAdd: 3.97935
+theta: 5.47161
+r: 12
+节点序号：1541
+thetaIni: 1.5708
+thetaAdd: 3.97935
+theta: 5.55015
+r: 12
+节点序号：1542
+thetaIni: 1.64934
+thetaAdd: 3.97935
+theta: 5.62869
+r: 12
+节点序号：1543
+thetaIni: 1.72788
+thetaAdd: 3.97935
+theta: 5.70723
+r: 12
+节点序号：1544
+thetaIni: 1.80642
+thetaAdd: 3.97935
+theta: 5.78577
+r: 12
+节点序号：1545
+thetaIni: 1.88496
+thetaAdd: 3.97935
+theta: 5.86431
+r: 12
+节点序号：1546
+thetaIni: 1.9635
+thetaAdd: 3.97935
+theta: 5.94285
+r: 12
+节点序号：1547
+thetaIni: 2.04204
+thetaAdd: 3.97935
+theta: 6.02139
+r: 12
+节点序号：1548
+thetaIni: 2.12058
+thetaAdd: 3.97935
+theta: 6.09993
+r: 12
+节点序号：1549
+thetaIni: 2.19911
+thetaAdd: 3.97935
+theta: 6.17847
+r: 12
+节点序号：1550
+thetaIni: 2.27765
+thetaAdd: 3.97935
+theta: 6.25701
+r: 12
+节点序号：1551
+thetaIni: 2.35619
+thetaAdd: 3.97935
+theta: 0.0523599
+r: 12
+节点序号：1552
+thetaIni: 2.43473
+thetaAdd: 3.97935
+theta: 0.1309
+r: 12
+节点序号：1553
+thetaIni: 2.51327
+thetaAdd: 3.97935
+theta: 0.20944
+r: 12
+节点序号：1554
+thetaIni: 2.59181
+thetaAdd: 3.97935
+theta: 0.287979
+r: 12
+节点序号：1555
+thetaIni: 2.67035
+thetaAdd: 3.97935
+theta: 0.366519
+r: 12
+节点序号：1556
+thetaIni: 2.74889
+thetaAdd: 3.97935
+theta: 0.445059
+r: 11.9747
+节点序号：1557
+thetaIni: 2.82743
+thetaAdd: 3.97935
+theta: 0.523599
+r: 11.9369
+节点序号：1558
+thetaIni: 2.90597
+thetaAdd: 3.97935
+theta: 0.602139
+r: 11.899
+节点序号：1559
+thetaIni: 2.98451
+thetaAdd: 3.97935
+theta: 0.680678
+r: 11.8611
+节点序号：1560
+thetaIni: 3.06305
+thetaAdd: 3.97935
+theta: 0.759218
+r: 11.8232
+节点序号：1561
+thetaIni: 3.14159
+thetaAdd: 3.97935
+theta: 0.837758
+r: 11.7853
+节点序号：1562
+thetaIni: 3.22013
+thetaAdd: 3.97935
+theta: 0.916298
+r: 11.7474
+节点序号：1563
+thetaIni: 3.29867
+thetaAdd: 3.97935
+theta: 0.994838
+r: 11.7095
+节点序号：1564
+thetaIni: 3.37721
+thetaAdd: 3.97935
+theta: 1.07338
+r: 11.6716
+节点序号：1565
+thetaIni: 3.45575
+thetaAdd: 3.97935
+theta: 1.15192
+r: 11.6337
+节点序号：1566
+thetaIni: 3.53429
+thetaAdd: 3.97935
+theta: 1.23046
+r: 11.5959
+节点序号：1567
+thetaIni: 3.61283
+thetaAdd: 3.97935
+theta: 1.309
+r: 11.558
+节点序号：1568
+thetaIni: 3.69137
+thetaAdd: 3.97935
+theta: 1.38754
+r: 11.5201
+节点序号：1569
+thetaIni: 3.76991
+thetaAdd: 3.97935
+theta: 1.46608
+r: 11.4822
+节点序号：1570
+thetaIni: 3.84845
+thetaAdd: 3.97935
+theta: 1.54462
+r: 11.4443
+节点序号：1571
+thetaIni: 3.92699
+thetaAdd: 3.97935
+theta: 1.62316
+r: 11.4064
+节点序号：1572
+thetaIni: 4.00553
+thetaAdd: 3.97935
+theta: 1.7017
+r: 11.3685
+节点序号：1573
+thetaIni: 4.08407
+thetaAdd: 3.97935
+theta: 1.78024
+r: 11.3306
+节点序号：1574
+thetaIni: 4.16261
+thetaAdd: 3.97935
+theta: 1.85878
+r: 11.2927
+节点序号：1575
+thetaIni: 4.24115
+thetaAdd: 3.97935
+theta: 1.93732
+r: 11.2549
+节点序号：1576
+thetaIni: 4.31969
+thetaAdd: 3.97935
+theta: 2.01586
+r: 11.217
+节点序号：1577
+thetaIni: 4.39823
+thetaAdd: 3.97935
+theta: 2.0944
+r: 11.1791
+节点序号：1578
+thetaIni: 4.47677
+thetaAdd: 3.97935
+theta: 2.17293
+r: 11.1412
+节点序号：1579
+thetaIni: 4.55531
+thetaAdd: 3.97935
+theta: 2.25147
+r: 11.1033
+节点序号：1580
+thetaIni: 4.63385
+thetaAdd: 3.97935
+theta: 2.33001
+r: 11.0654
+节点序号：1581
+thetaIni: 4.71239
+thetaAdd: 3.97935
+theta: 2.40855
+r: 11.0275
+节点序号：1582
+thetaIni: 4.79093
+thetaAdd: 3.97935
+theta: 2.48709
+r: 12.3189
+节点序号：1583
+thetaIni: 4.86947
+thetaAdd: 3.97935
+theta: 2.56563
+r: 12.2937
+节点序号：1584
+thetaIni: 4.94801
+thetaAdd: 3.97935
+theta: 2.64417
+r: 12.2745
+节点序号：1585
+thetaIni: 5.02655
+thetaAdd: 3.97935
+theta: 2.72271
+r: 12.2597
+节点序号：1586
+thetaIni: 5.10509
+thetaAdd: 3.97935
+theta: 2.80125
+r: 12.2482
+节点序号：1587
+thetaIni: 5.18363
+thetaAdd: 3.97935
+theta: 2.87979
+r: 12.2395
+节点序号：1588
+thetaIni: 5.26217
+thetaAdd: 3.97935
+theta: 2.95833
+r: 12.2333
+节点序号：1589
+thetaIni: 5.34071
+thetaAdd: 3.97935
+theta: 3.03687
+r: 12.2294
+节点序号：1590
+thetaIni: 5.41925
+thetaAdd: 3.97935
+theta: 3.11541
+r: 12.2276
+节点序号：1591
+thetaIni: 5.49779
+thetaAdd: 3.97935
+theta: 3.19395
+r: 12.228
+节点序号：1592
+thetaIni: 5.57633
+thetaAdd: 3.97935
+theta: 3.27249
+r: 12.2304
+节点序号：1593
+thetaIni: 5.65487
+thetaAdd: 3.97935
+theta: 3.35103
+r: 12.2351
+节点序号：1594
+thetaIni: 5.73341
+thetaAdd: 3.97935
+theta: 3.42957
+r: 12.2421
+节点序号：1595
+thetaIni: 5.81195
+thetaAdd: 3.97935
+theta: 3.50811
+r: 12.2517
+节点序号：1596
+thetaIni: 5.89049
+thetaAdd: 3.97935
+theta: 3.58665
+r: 12.2642
+节点序号：1597
+thetaIni: 5.96903
+thetaAdd: 3.97935
+theta: 3.66519
+r: 12.2804
+节点序号：1598
+thetaIni: 6.04757
+thetaAdd: 3.97935
+theta: 3.74373
+r: 12.3013
+节点序号：1599
+thetaIni: 6.12611
+thetaAdd: 3.97935
+theta: 3.82227
+r: 12.3292
+节点序号：1600
+thetaIni: 6.20465
+thetaAdd: 3.97935
+theta: 3.90081
+r: 12
+节点序号：1601
+thetaIni: 0
+thetaAdd: 4.18879
+theta: 4.18879
+r: 12
+节点序号：1602
+thetaIni: 0.0785398
+thetaAdd: 4.18879
+theta: 4.26733
+r: 12
+节点序号：1603
+thetaIni: 0.15708
+thetaAdd: 4.18879
+theta: 4.34587
+r: 12
+节点序号：1604
+thetaIni: 0.235619
+thetaAdd: 4.18879
+theta: 4.42441
+r: 12
+节点序号：1605
+thetaIni: 0.314159
+thetaAdd: 4.18879
+theta: 4.50295
+r: 12
+节点序号：1606
+thetaIni: 0.392699
+thetaAdd: 4.18879
+theta: 4.58149
+r: 12
+节点序号：1607
+thetaIni: 0.471239
+thetaAdd: 4.18879
+theta: 4.66003
+r: 12
+节点序号：1608
+thetaIni: 0.549779
+thetaAdd: 4.18879
+theta: 4.73857
+r: 12
+节点序号：1609
+thetaIni: 0.628319
+thetaAdd: 4.18879
+theta: 4.81711
+r: 12
+节点序号：1610
+thetaIni: 0.706858
+thetaAdd: 4.18879
+theta: 4.89565
+r: 12
+节点序号：1611
+thetaIni: 0.785398
+thetaAdd: 4.18879
+theta: 4.97419
+r: 12
+节点序号：1612
+thetaIni: 0.863938
+thetaAdd: 4.18879
+theta: 5.05273
+r: 12
+节点序号：1613
+thetaIni: 0.942478
+thetaAdd: 4.18879
+theta: 5.13127
+r: 12
+节点序号：1614
+thetaIni: 1.02102
+thetaAdd: 4.18879
+theta: 5.20981
+r: 12
+节点序号：1615
+thetaIni: 1.09956
+thetaAdd: 4.18879
+theta: 5.28835
+r: 12
+节点序号：1616
+thetaIni: 1.1781
+thetaAdd: 4.18879
+theta: 5.36689
+r: 12
+节点序号：1617
+thetaIni: 1.25664
+thetaAdd: 4.18879
+theta: 5.44543
+r: 12
+节点序号：1618
+thetaIni: 1.33518
+thetaAdd: 4.18879
+theta: 5.52397
+r: 12
+节点序号：1619
+thetaIni: 1.41372
+thetaAdd: 4.18879
+theta: 5.60251
+r: 12
+节点序号：1620
+thetaIni: 1.49226
+thetaAdd: 4.18879
+theta: 5.68105
+r: 12
+节点序号：1621
+thetaIni: 1.5708
+thetaAdd: 4.18879
+theta: 5.75959
+r: 12
+节点序号：1622
+thetaIni: 1.64934
+thetaAdd: 4.18879
+theta: 5.83813
+r: 12
+节点序号：1623
+thetaIni: 1.72788
+thetaAdd: 4.18879
+theta: 5.91667
+r: 12
+节点序号：1624
+thetaIni: 1.80642
+thetaAdd: 4.18879
+theta: 5.99521
+r: 12
+节点序号：1625
+thetaIni: 1.88496
+thetaAdd: 4.18879
+theta: 6.07375
+r: 12
+节点序号：1626
+thetaIni: 1.9635
+thetaAdd: 4.18879
+theta: 6.15229
+r: 12
+节点序号：1627
+thetaIni: 2.04204
+thetaAdd: 4.18879
+theta: 6.23083
+r: 12
+节点序号：1628
+thetaIni: 2.12058
+thetaAdd: 4.18879
+theta: 0.0261799
+r: 12
+节点序号：1629
+thetaIni: 2.19911
+thetaAdd: 4.18879
+theta: 0.10472
+r: 12
+节点序号：1630
+thetaIni: 2.27765
+thetaAdd: 4.18879
+theta: 0.18326
+r: 12
+节点序号：1631
+thetaIni: 2.35619
+thetaAdd: 4.18879
+theta: 0.261799
+r: 12
+节点序号：1632
+thetaIni: 2.43473
+thetaAdd: 4.18879
+theta: 0.340339
+r: 12
+节点序号：1633
+thetaIni: 2.51327
+thetaAdd: 4.18879
+theta: 0.418879
+r: 11.9874
+节点序号：1634
+thetaIni: 2.59181
+thetaAdd: 4.18879
+theta: 0.497419
+r: 11.9495
+节点序号：1635
+thetaIni: 2.67035
+thetaAdd: 4.18879
+theta: 0.575959
+r: 11.9116
+节点序号：1636
+thetaIni: 2.74889
+thetaAdd: 4.18879
+theta: 0.654498
+r: 11.8737
+节点序号：1637
+thetaIni: 2.82743
+thetaAdd: 4.18879
+theta: 0.733038
+r: 11.8358
+节点序号：1638
+thetaIni: 2.90597
+thetaAdd: 4.18879
+theta: 0.811578
+r: 11.7979
+节点序号：1639
+thetaIni: 2.98451
+thetaAdd: 4.18879
+theta: 0.890118
+r: 11.76
+节点序号：1640
+thetaIni: 3.06305
+thetaAdd: 4.18879
+theta: 0.968658
+r: 11.7222
+节点序号：1641
+thetaIni: 3.14159
+thetaAdd: 4.18879
+theta: 1.0472
+r: 11.6843
+节点序号：1642
+thetaIni: 3.22013
+thetaAdd: 4.18879
+theta: 1.12574
+r: 11.6464
+节点序号：1643
+thetaIni: 3.29867
+thetaAdd: 4.18879
+theta: 1.20428
+r: 11.6085
+节点序号：1644
+thetaIni: 3.37721
+thetaAdd: 4.18879
+theta: 1.28282
+r: 11.5706
+节点序号：1645
+thetaIni: 3.45575
+thetaAdd: 4.18879
+theta: 1.36136
+r: 11.5327
+节点序号：1646
+thetaIni: 3.53429
+thetaAdd: 4.18879
+theta: 1.4399
+r: 11.4948
+节点序号：1647
+thetaIni: 3.61283
+thetaAdd: 4.18879
+theta: 1.51844
+r: 11.4569
+节点序号：1648
+thetaIni: 3.69137
+thetaAdd: 4.18879
+theta: 1.59698
+r: 11.419
+节点序号：1649
+thetaIni: 3.76991
+thetaAdd: 4.18879
+theta: 1.67552
+r: 11.3812
+节点序号：1650
+thetaIni: 3.84845
+thetaAdd: 4.18879
+theta: 1.75406
+r: 11.3433
+节点序号：1651
+thetaIni: 3.92699
+thetaAdd: 4.18879
+theta: 1.8326
+r: 11.3054
+节点序号：1652
+thetaIni: 4.00553
+thetaAdd: 4.18879
+theta: 1.91114
+r: 11.2675
+节点序号：1653
+thetaIni: 4.08407
+thetaAdd: 4.18879
+theta: 1.98968
+r: 11.2296
+节点序号：1654
+thetaIni: 4.16261
+thetaAdd: 4.18879
+theta: 2.06822
+r: 11.1917
+节点序号：1655
+thetaIni: 4.24115
+thetaAdd: 4.18879
+theta: 2.14675
+r: 11.1538
+节点序号：1656
+thetaIni: 4.31969
+thetaAdd: 4.18879
+theta: 2.22529
+r: 11.1159
+节点序号：1657
+thetaIni: 4.39823
+thetaAdd: 4.18879
+theta: 2.30383
+r: 11.078
+节点序号：1658
+thetaIni: 4.47677
+thetaAdd: 4.18879
+theta: 2.38237
+r: 11.0402
+节点序号：1659
+thetaIni: 4.55531
+thetaAdd: 4.18879
+theta: 2.46091
+r: 12.3292
+节点序号：1660
+thetaIni: 4.63385
+thetaAdd: 4.18879
+theta: 2.53945
+r: 12.3013
+节点序号：1661
+thetaIni: 4.71239
+thetaAdd: 4.18879
+theta: 2.61799
+r: 12.2804
+节点序号：1662
+thetaIni: 4.79093
+thetaAdd: 4.18879
+theta: 2.69653
+r: 12.2642
+节点序号：1663
+thetaIni: 4.86947
+thetaAdd: 4.18879
+theta: 2.77507
+r: 12.2517
+节点序号：1664
+thetaIni: 4.94801
+thetaAdd: 4.18879
+theta: 2.85361
+r: 12.2421
+节点序号：1665
+thetaIni: 5.02655
+thetaAdd: 4.18879
+theta: 2.93215
+r: 12.2351
+节点序号：1666
+thetaIni: 5.10509
+thetaAdd: 4.18879
+theta: 3.01069
+r: 12.2304
+节点序号：1667
+thetaIni: 5.18363
+thetaAdd: 4.18879
+theta: 3.08923
+r: 12.228
+节点序号：1668
+thetaIni: 5.26217
+thetaAdd: 4.18879
+theta: 3.16777
+r: 12.2276
+节点序号：1669
+thetaIni: 5.34071
+thetaAdd: 4.18879
+theta: 3.24631
+r: 12.2294
+节点序号：1670
+thetaIni: 5.41925
+thetaAdd: 4.18879
+theta: 3.32485
+r: 12.2333
+节点序号：1671
+thetaIni: 5.49779
+thetaAdd: 4.18879
+theta: 3.40339
+r: 12.2395
+节点序号：1672
+thetaIni: 5.57633
+thetaAdd: 4.18879
+theta: 3.48193
+r: 12.2482
+节点序号：1673
+thetaIni: 5.65487
+thetaAdd: 4.18879
+theta: 3.56047
+r: 12.2597
+节点序号：1674
+thetaIni: 5.73341
+thetaAdd: 4.18879
+theta: 3.63901
+r: 12.2745
+节点序号：1675
+thetaIni: 5.81195
+thetaAdd: 4.18879
+theta: 3.71755
+r: 12.2937
+节点序号：1676
+thetaIni: 5.89049
+thetaAdd: 4.18879
+theta: 3.79609
+r: 12.3189
+节点序号：1677
+thetaIni: 5.96903
+thetaAdd: 4.18879
+theta: 3.87463
+r: 12
+节点序号：1678
+thetaIni: 6.04757
+thetaAdd: 4.18879
+theta: 3.95317
+r: 12
+节点序号：1679
+thetaIni: 6.12611
+thetaAdd: 4.18879
+theta: 4.03171
+r: 12
+节点序号：1680
+thetaIni: 6.20465
+thetaAdd: 4.18879
+theta: 4.11025
+r: 12
+节点序号：1681
+thetaIni: 0
+thetaAdd: 4.39823
+theta: 4.39823
+r: 12
+节点序号：1682
+thetaIni: 0.0785398
+thetaAdd: 4.39823
+theta: 4.47677
+r: 12
+节点序号：1683
+thetaIni: 0.15708
+thetaAdd: 4.39823
+theta: 4.55531
+r: 12
+节点序号：1684
+thetaIni: 0.235619
+thetaAdd: 4.39823
+theta: 4.63385
+r: 12
+节点序号：1685
+thetaIni: 0.314159
+thetaAdd: 4.39823
+theta: 4.71239
+r: 12
+节点序号：1686
+thetaIni: 0.392699
+thetaAdd: 4.39823
+theta: 4.79093
+r: 12
+节点序号：1687
+thetaIni: 0.471239
+thetaAdd: 4.39823
+theta: 4.86947
+r: 12
+节点序号：1688
+thetaIni: 0.549779
+thetaAdd: 4.39823
+theta: 4.94801
+r: 12
+节点序号：1689
+thetaIni: 0.628319
+thetaAdd: 4.39823
+theta: 5.02655
+r: 12
+节点序号：1690
+thetaIni: 0.706858
+thetaAdd: 4.39823
+theta: 5.10509
+r: 12
+节点序号：1691
+thetaIni: 0.785398
+thetaAdd: 4.39823
+theta: 5.18363
+r: 12
+节点序号：1692
+thetaIni: 0.863938
+thetaAdd: 4.39823
+theta: 5.26217
+r: 12
+节点序号：1693
+thetaIni: 0.942478
+thetaAdd: 4.39823
+theta: 5.34071
+r: 12
+节点序号：1694
+thetaIni: 1.02102
+thetaAdd: 4.39823
+theta: 5.41925
+r: 12
+节点序号：1695
+thetaIni: 1.09956
+thetaAdd: 4.39823
+theta: 5.49779
+r: 12
+节点序号：1696
+thetaIni: 1.1781
+thetaAdd: 4.39823
+theta: 5.57633
+r: 12
+节点序号：1697
+thetaIni: 1.25664
+thetaAdd: 4.39823
+theta: 5.65487
+r: 12
+节点序号：1698
+thetaIni: 1.33518
+thetaAdd: 4.39823
+theta: 5.73341
+r: 12
+节点序号：1699
+thetaIni: 1.41372
+thetaAdd: 4.39823
+theta: 5.81195
+r: 12
+节点序号：1700
+thetaIni: 1.49226
+thetaAdd: 4.39823
+theta: 5.89049
+r: 12
+节点序号：1701
+thetaIni: 1.5708
+thetaAdd: 4.39823
+theta: 5.96903
+r: 12
+节点序号：1702
+thetaIni: 1.64934
+thetaAdd: 4.39823
+theta: 6.04757
+r: 12
+节点序号：1703
+thetaIni: 1.72788
+thetaAdd: 4.39823
+theta: 6.12611
+r: 12
+节点序号：1704
+thetaIni: 1.80642
+thetaAdd: 4.39823
+theta: 6.20465
+r: 12
+节点序号：1705
+thetaIni: 1.88496
+thetaAdd: 4.39823
+theta: 8.88178e-16
+r: 12
+节点序号：1706
+thetaIni: 1.9635
+thetaAdd: 4.39823
+theta: 0.0785398
+r: 12
+节点序号：1707
+thetaIni: 2.04204
+thetaAdd: 4.39823
+theta: 0.15708
+r: 12
+节点序号：1708
+thetaIni: 2.12058
+thetaAdd: 4.39823
+theta: 0.235619
+r: 12
+节点序号：1709
+thetaIni: 2.19911
+thetaAdd: 4.39823
+theta: 0.314159
+r: 12
+节点序号：1710
+thetaIni: 2.27765
+thetaAdd: 4.39823
+theta: 0.392699
+r: 12
+节点序号：1711
+thetaIni: 2.35619
+thetaAdd: 4.39823
+theta: 0.471239
+r: 11.9621
+节点序号：1712
+thetaIni: 2.43473
+thetaAdd: 4.39823
+theta: 0.549779
+r: 11.9242
+节点序号：1713
+thetaIni: 2.51327
+thetaAdd: 4.39823
+theta: 0.628319
+r: 11.8863
+节点序号：1714
+thetaIni: 2.59181
+thetaAdd: 4.39823
+theta: 0.706858
+r: 11.8484
+节点序号：1715
+thetaIni: 2.67035
+thetaAdd: 4.39823
+theta: 0.785398
+r: 11.8106
+节点序号：1716
+thetaIni: 2.74889
+thetaAdd: 4.39823
+theta: 0.863938
+r: 11.7727
+节点序号：1717
+thetaIni: 2.82743
+thetaAdd: 4.39823
+theta: 0.942478
+r: 11.7348
+节点序号：1718
+thetaIni: 2.90597
+thetaAdd: 4.39823
+theta: 1.02102
+r: 11.6969
+节点序号：1719
+thetaIni: 2.98451
+thetaAdd: 4.39823
+theta: 1.09956
+r: 11.659
+节点序号：1720
+thetaIni: 3.06305
+thetaAdd: 4.39823
+theta: 1.1781
+r: 11.6211
+节点序号：1721
+thetaIni: 3.14159
+thetaAdd: 4.39823
+theta: 1.25664
+r: 11.5832
+节点序号：1722
+thetaIni: 3.22013
+thetaAdd: 4.39823
+theta: 1.33518
+r: 11.5453
+节点序号：1723
+thetaIni: 3.29867
+thetaAdd: 4.39823
+theta: 1.41372
+r: 11.5074
+节点序号：1724
+thetaIni: 3.37721
+thetaAdd: 4.39823
+theta: 1.49226
+r: 11.4696
+节点序号：1725
+thetaIni: 3.45575
+thetaAdd: 4.39823
+theta: 1.5708
+r: 11.4317
+节点序号：1726
+thetaIni: 3.53429
+thetaAdd: 4.39823
+theta: 1.64934
+r: 11.3938
+节点序号：1727
+thetaIni: 3.61283
+thetaAdd: 4.39823
+theta: 1.72788
+r: 11.3559
+节点序号：1728
+thetaIni: 3.69137
+thetaAdd: 4.39823
+theta: 1.80642
+r: 11.318
+节点序号：1729
+thetaIni: 3.76991
+thetaAdd: 4.39823
+theta: 1.88496
+r: 11.2801
+节点序号：1730
+thetaIni: 3.84845
+thetaAdd: 4.39823
+theta: 1.9635
+r: 11.2422
+节点序号：1731
+thetaIni: 3.92699
+thetaAdd: 4.39823
+theta: 2.04204
+r: 11.2043
+节点序号：1732
+thetaIni: 4.00553
+thetaAdd: 4.39823
+theta: 2.12058
+r: 11.1665
+节点序号：1733
+thetaIni: 4.08407
+thetaAdd: 4.39823
+theta: 2.19911
+r: 11.1286
+节点序号：1734
+thetaIni: 4.16261
+thetaAdd: 4.39823
+theta: 2.27765
+r: 11.0907
+节点序号：1735
+thetaIni: 4.24115
+thetaAdd: 4.39823
+theta: 2.35619
+r: 11.0528
+节点序号：1736
+thetaIni: 4.31969
+thetaAdd: 4.39823
+theta: 2.43473
+r: 12.341
+节点序号：1737
+thetaIni: 4.39823
+thetaAdd: 4.39823
+theta: 2.51327
+r: 12.3096
+节点序号：1738
+thetaIni: 4.47677
+thetaAdd: 4.39823
+theta: 2.59181
+r: 12.2867
+节点序号：1739
+thetaIni: 4.55531
+thetaAdd: 4.39823
+theta: 2.67035
+r: 12.2692
+节点序号：1740
+thetaIni: 4.63385
+thetaAdd: 4.39823
+theta: 2.74889
+r: 12.2555
+节点序号：1741
+thetaIni: 4.71239
+thetaAdd: 4.39823
+theta: 2.82743
+r: 12.245
+节点序号：1742
+thetaIni: 4.79093
+thetaAdd: 4.39823
+theta: 2.90597
+r: 12.2372
+节点序号：1743
+thetaIni: 4.86947
+thetaAdd: 4.39823
+theta: 2.98451
+r: 12.2317
+节点序号：1744
+thetaIni: 4.94801
+thetaAdd: 4.39823
+theta: 3.06305
+r: 12.2286
+节点序号：1745
+thetaIni: 5.02655
+thetaAdd: 4.39823
+theta: 3.14159
+r: 12.2275
+节点序号：1746
+thetaIni: 5.10509
+thetaAdd: 4.39823
+theta: 3.22013
+r: 12.2286
+节点序号：1747
+thetaIni: 5.18363
+thetaAdd: 4.39823
+theta: 3.29867
+r: 12.2317
+节点序号：1748
+thetaIni: 5.26217
+thetaAdd: 4.39823
+theta: 3.37721
+r: 12.2372
+节点序号：1749
+thetaIni: 5.34071
+thetaAdd: 4.39823
+theta: 3.45575
+r: 12.245
+节点序号：1750
+thetaIni: 5.41925
+thetaAdd: 4.39823
+theta: 3.53429
+r: 12.2555
+节点序号：1751
+thetaIni: 5.49779
+thetaAdd: 4.39823
+theta: 3.61283
+r: 12.2692
+节点序号：1752
+thetaIni: 5.57633
+thetaAdd: 4.39823
+theta: 3.69137
+r: 12.2867
+节点序号：1753
+thetaIni: 5.65487
+thetaAdd: 4.39823
+theta: 3.76991
+r: 12.3096
+节点序号：1754
+thetaIni: 5.73341
+thetaAdd: 4.39823
+theta: 3.84845
+r: 12.341
+节点序号：1755
+thetaIni: 5.81195
+thetaAdd: 4.39823
+theta: 3.92699
+r: 12
+节点序号：1756
+thetaIni: 5.89049
+thetaAdd: 4.39823
+theta: 4.00553
+r: 12
+节点序号：1757
+thetaIni: 5.96903
+thetaAdd: 4.39823
+theta: 4.08407
+r: 12
+节点序号：1758
+thetaIni: 6.04757
+thetaAdd: 4.39823
+theta: 4.16261
+r: 12
+节点序号：1759
+thetaIni: 6.12611
+thetaAdd: 4.39823
+theta: 4.24115
+r: 12
+节点序号：1760
+thetaIni: 6.20465
+thetaAdd: 4.39823
+theta: 4.31969
+r: 12
+节点序号：1761
+thetaIni: 0
+thetaAdd: 4.60767
+theta: 4.60767
+r: 12
+节点序号：1762
+thetaIni: 0.0785398
+thetaAdd: 4.60767
+theta: 4.68621
+r: 12
+节点序号：1763
+thetaIni: 0.15708
+thetaAdd: 4.60767
+theta: 4.76475
+r: 12
+节点序号：1764
+thetaIni: 0.235619
+thetaAdd: 4.60767
+theta: 4.84329
+r: 12
+节点序号：1765
+thetaIni: 0.314159
+thetaAdd: 4.60767
+theta: 4.92183
+r: 12
+节点序号：1766
+thetaIni: 0.392699
+thetaAdd: 4.60767
+theta: 5.00037
+r: 12
+节点序号：1767
+thetaIni: 0.471239
+thetaAdd: 4.60767
+theta: 5.07891
+r: 12
+节点序号：1768
+thetaIni: 0.549779
+thetaAdd: 4.60767
+theta: 5.15745
+r: 12
+节点序号：1769
+thetaIni: 0.628319
+thetaAdd: 4.60767
+theta: 5.23599
+r: 12
+节点序号：1770
+thetaIni: 0.706858
+thetaAdd: 4.60767
+theta: 5.31453
+r: 12
+节点序号：1771
+thetaIni: 0.785398
+thetaAdd: 4.60767
+theta: 5.39307
+r: 12
+节点序号：1772
+thetaIni: 0.863938
+thetaAdd: 4.60767
+theta: 5.47161
+r: 12
+节点序号：1773
+thetaIni: 0.942478
+thetaAdd: 4.60767
+theta: 5.55015
+r: 12
+节点序号：1774
+thetaIni: 1.02102
+thetaAdd: 4.60767
+theta: 5.62869
+r: 12
+节点序号：1775
+thetaIni: 1.09956
+thetaAdd: 4.60767
+theta: 5.70723
+r: 12
+节点序号：1776
+thetaIni: 1.1781
+thetaAdd: 4.60767
+theta: 5.78577
+r: 12
+节点序号：1777
+thetaIni: 1.25664
+thetaAdd: 4.60767
+theta: 5.86431
+r: 12
+节点序号：1778
+thetaIni: 1.33518
+thetaAdd: 4.60767
+theta: 5.94285
+r: 12
+节点序号：1779
+thetaIni: 1.41372
+thetaAdd: 4.60767
+theta: 6.02139
+r: 12
+节点序号：1780
+thetaIni: 1.49226
+thetaAdd: 4.60767
+theta: 6.09993
+r: 12
+节点序号：1781
+thetaIni: 1.5708
+thetaAdd: 4.60767
+theta: 6.17847
+r: 12
+节点序号：1782
+thetaIni: 1.64934
+thetaAdd: 4.60767
+theta: 6.25701
+r: 12
+节点序号：1783
+thetaIni: 1.72788
+thetaAdd: 4.60767
+theta: 0.0523599
+r: 12
+节点序号：1784
+thetaIni: 1.80642
+thetaAdd: 4.60767
+theta: 0.1309
+r: 12
+节点序号：1785
+thetaIni: 1.88496
+thetaAdd: 4.60767
+theta: 0.20944
+r: 12
+节点序号：1786
+thetaIni: 1.9635
+thetaAdd: 4.60767
+theta: 0.287979
+r: 12
+节点序号：1787
+thetaIni: 2.04204
+thetaAdd: 4.60767
+theta: 0.366519
+r: 12
+节点序号：1788
+thetaIni: 2.12058
+thetaAdd: 4.60767
+theta: 0.445059
+r: 11.9747
+节点序号：1789
+thetaIni: 2.19911
+thetaAdd: 4.60767
+theta: 0.523599
+r: 11.9369
+节点序号：1790
+thetaIni: 2.27765
+thetaAdd: 4.60767
+theta: 0.602139
+r: 11.899
+节点序号：1791
+thetaIni: 2.35619
+thetaAdd: 4.60767
+theta: 0.680678
+r: 11.8611
+节点序号：1792
+thetaIni: 2.43473
+thetaAdd: 4.60767
+theta: 0.759218
+r: 11.8232
+节点序号：1793
+thetaIni: 2.51327
+thetaAdd: 4.60767
+theta: 0.837758
+r: 11.7853
+节点序号：1794
+thetaIni: 2.59181
+thetaAdd: 4.60767
+theta: 0.916298
+r: 11.7474
+节点序号：1795
+thetaIni: 2.67035
+thetaAdd: 4.60767
+theta: 0.994838
+r: 11.7095
+节点序号：1796
+thetaIni: 2.74889
+thetaAdd: 4.60767
+theta: 1.07338
+r: 11.6716
+节点序号：1797
+thetaIni: 2.82743
+thetaAdd: 4.60767
+theta: 1.15192
+r: 11.6337
+节点序号：1798
+thetaIni: 2.90597
+thetaAdd: 4.60767
+theta: 1.23046
+r: 11.5959
+节点序号：1799
+thetaIni: 2.98451
+thetaAdd: 4.60767
+theta: 1.309
+r: 11.558
+节点序号：1800
+thetaIni: 3.06305
+thetaAdd: 4.60767
+theta: 1.38754
+r: 11.5201
+节点序号：1801
+thetaIni: 3.14159
+thetaAdd: 4.60767
+theta: 1.46608
+r: 11.4822
+节点序号：1802
+thetaIni: 3.22013
+thetaAdd: 4.60767
+theta: 1.54462
+r: 11.4443
+节点序号：1803
+thetaIni: 3.29867
+thetaAdd: 4.60767
+theta: 1.62316
+r: 11.4064
+节点序号：1804
+thetaIni: 3.37721
+thetaAdd: 4.60767
+theta: 1.7017
+r: 11.3685
+节点序号：1805
+thetaIni: 3.45575
+thetaAdd: 4.60767
+theta: 1.78024
+r: 11.3306
+节点序号：1806
+thetaIni: 3.53429
+thetaAdd: 4.60767
+theta: 1.85878
+r: 11.2927
+节点序号：1807
+thetaIni: 3.61283
+thetaAdd: 4.60767
+theta: 1.93732
+r: 11.2549
+节点序号：1808
+thetaIni: 3.69137
+thetaAdd: 4.60767
+theta: 2.01586
+r: 11.217
+节点序号：1809
+thetaIni: 3.76991
+thetaAdd: 4.60767
+theta: 2.0944
+r: 11.1791
+节点序号：1810
+thetaIni: 3.84845
+thetaAdd: 4.60767
+theta: 2.17293
+r: 11.1412
+节点序号：1811
+thetaIni: 3.92699
+thetaAdd: 4.60767
+theta: 2.25147
+r: 11.1033
+节点序号：1812
+thetaIni: 4.00553
+thetaAdd: 4.60767
+theta: 2.33001
+r: 11.0654
+节点序号：1813
+thetaIni: 4.08407
+thetaAdd: 4.60767
+theta: 2.40855
+r: 11.0275
+节点序号：1814
+thetaIni: 4.16261
+thetaAdd: 4.60767
+theta: 2.48709
+r: 12.3189
+节点序号：1815
+thetaIni: 4.24115
+thetaAdd: 4.60767
+theta: 2.56563
+r: 12.2937
+节点序号：1816
+thetaIni: 4.31969
+thetaAdd: 4.60767
+theta: 2.64417
+r: 12.2745
+节点序号：1817
+thetaIni: 4.39823
+thetaAdd: 4.60767
+theta: 2.72271
+r: 12.2597
+节点序号：1818
+thetaIni: 4.47677
+thetaAdd: 4.60767
+theta: 2.80125
+r: 12.2482
+节点序号：1819
+thetaIni: 4.55531
+thetaAdd: 4.60767
+theta: 2.87979
+r: 12.2395
+节点序号：1820
+thetaIni: 4.63385
+thetaAdd: 4.60767
+theta: 2.95833
+r: 12.2333
+节点序号：1821
+thetaIni: 4.71239
+thetaAdd: 4.60767
+theta: 3.03687
+r: 12.2294
+节点序号：1822
+thetaIni: 4.79093
+thetaAdd: 4.60767
+theta: 3.11541
+r: 12.2276
+节点序号：1823
+thetaIni: 4.86947
+thetaAdd: 4.60767
+theta: 3.19395
+r: 12.228
+节点序号：1824
+thetaIni: 4.94801
+thetaAdd: 4.60767
+theta: 3.27249
+r: 12.2304
+节点序号：1825
+thetaIni: 5.02655
+thetaAdd: 4.60767
+theta: 3.35103
+r: 12.2351
+节点序号：1826
+thetaIni: 5.10509
+thetaAdd: 4.60767
+theta: 3.42957
+r: 12.2421
+节点序号：1827
+thetaIni: 5.18363
+thetaAdd: 4.60767
+theta: 3.50811
+r: 12.2517
+节点序号：1828
+thetaIni: 5.26217
+thetaAdd: 4.60767
+theta: 3.58665
+r: 12.2642
+节点序号：1829
+thetaIni: 5.34071
+thetaAdd: 4.60767
+theta: 3.66519
+r: 12.2804
+节点序号：1830
+thetaIni: 5.41925
+thetaAdd: 4.60767
+theta: 3.74373
+r: 12.3013
+节点序号：1831
+thetaIni: 5.49779
+thetaAdd: 4.60767
+theta: 3.82227
+r: 12.3292
+节点序号：1832
+thetaIni: 5.57633
+thetaAdd: 4.60767
+theta: 3.90081
+r: 12
+节点序号：1833
+thetaIni: 5.65487
+thetaAdd: 4.60767
+theta: 3.97935
+r: 12
+节点序号：1834
+thetaIni: 5.73341
+thetaAdd: 4.60767
+theta: 4.05789
+r: 12
+节点序号：1835
+thetaIni: 5.81195
+thetaAdd: 4.60767
+theta: 4.13643
+r: 12
+节点序号：1836
+thetaIni: 5.89049
+thetaAdd: 4.60767
+theta: 4.21497
+r: 12
+节点序号：1837
+thetaIni: 5.96903
+thetaAdd: 4.60767
+theta: 4.29351
+r: 12
+节点序号：1838
+thetaIni: 6.04757
+thetaAdd: 4.60767
+theta: 4.37205
+r: 12
+节点序号：1839
+thetaIni: 6.12611
+thetaAdd: 4.60767
+theta: 4.45059
+r: 12
+节点序号：1840
+thetaIni: 6.20465
+thetaAdd: 4.60767
+theta: 4.52913
+r: 12
+节点序号：1841
+thetaIni: 0
+thetaAdd: 4.81711
+theta: 4.81711
+r: 12
+节点序号：1842
+thetaIni: 0.0785398
+thetaAdd: 4.81711
+theta: 4.89565
+r: 12
+节点序号：1843
+thetaIni: 0.15708
+thetaAdd: 4.81711
+theta: 4.97419
+r: 12
+节点序号：1844
+thetaIni: 0.235619
+thetaAdd: 4.81711
+theta: 5.05273
+r: 12
+节点序号：1845
+thetaIni: 0.314159
+thetaAdd: 4.81711
+theta: 5.13127
+r: 12
+节点序号：1846
+thetaIni: 0.392699
+thetaAdd: 4.81711
+theta: 5.20981
+r: 12
+节点序号：1847
+thetaIni: 0.471239
+thetaAdd: 4.81711
+theta: 5.28835
+r: 12
+节点序号：1848
+thetaIni: 0.549779
+thetaAdd: 4.81711
+theta: 5.36689
+r: 12
+节点序号：1849
+thetaIni: 0.628319
+thetaAdd: 4.81711
+theta: 5.44543
+r: 12
+节点序号：1850
+thetaIni: 0.706858
+thetaAdd: 4.81711
+theta: 5.52397
+r: 12
+节点序号：1851
+thetaIni: 0.785398
+thetaAdd: 4.81711
+theta: 5.60251
+r: 12
+节点序号：1852
+thetaIni: 0.863938
+thetaAdd: 4.81711
+theta: 5.68105
+r: 12
+节点序号：1853
+thetaIni: 0.942478
+thetaAdd: 4.81711
+theta: 5.75959
+r: 12
+节点序号：1854
+thetaIni: 1.02102
+thetaAdd: 4.81711
+theta: 5.83813
+r: 12
+节点序号：1855
+thetaIni: 1.09956
+thetaAdd: 4.81711
+theta: 5.91667
+r: 12
+节点序号：1856
+thetaIni: 1.1781
+thetaAdd: 4.81711
+theta: 5.99521
+r: 12
+节点序号：1857
+thetaIni: 1.25664
+thetaAdd: 4.81711
+theta: 6.07375
+r: 12
+节点序号：1858
+thetaIni: 1.33518
+thetaAdd: 4.81711
+theta: 6.15229
+r: 12
+节点序号：1859
+thetaIni: 1.41372
+thetaAdd: 4.81711
+theta: 6.23083
+r: 12
+节点序号：1860
+thetaIni: 1.49226
+thetaAdd: 4.81711
+theta: 0.0261799
+r: 12
+节点序号：1861
+thetaIni: 1.5708
+thetaAdd: 4.81711
+theta: 0.10472
+r: 12
+节点序号：1862
+thetaIni: 1.64934
+thetaAdd: 4.81711
+theta: 0.18326
+r: 12
+节点序号：1863
+thetaIni: 1.72788
+thetaAdd: 4.81711
+theta: 0.261799
+r: 12
+节点序号：1864
+thetaIni: 1.80642
+thetaAdd: 4.81711
+theta: 0.340339
+r: 12
+节点序号：1865
+thetaIni: 1.88496
+thetaAdd: 4.81711
+theta: 0.418879
+r: 11.9874
+节点序号：1866
+thetaIni: 1.9635
+thetaAdd: 4.81711
+theta: 0.497419
+r: 11.9495
+节点序号：1867
+thetaIni: 2.04204
+thetaAdd: 4.81711
+theta: 0.575959
+r: 11.9116
+节点序号：1868
+thetaIni: 2.12058
+thetaAdd: 4.81711
+theta: 0.654498
+r: 11.8737
+节点序号：1869
+thetaIni: 2.19911
+thetaAdd: 4.81711
+theta: 0.733038
+r: 11.8358
+节点序号：1870
+thetaIni: 2.27765
+thetaAdd: 4.81711
+theta: 0.811578
+r: 11.7979
+节点序号：1871
+thetaIni: 2.35619
+thetaAdd: 4.81711
+theta: 0.890118
+r: 11.76
+节点序号：1872
+thetaIni: 2.43473
+thetaAdd: 4.81711
+theta: 0.968658
+r: 11.7222
+节点序号：1873
+thetaIni: 2.51327
+thetaAdd: 4.81711
+theta: 1.0472
+r: 11.6843
+节点序号：1874
+thetaIni: 2.59181
+thetaAdd: 4.81711
+theta: 1.12574
+r: 11.6464
+节点序号：1875
+thetaIni: 2.67035
+thetaAdd: 4.81711
+theta: 1.20428
+r: 11.6085
+节点序号：1876
+thetaIni: 2.74889
+thetaAdd: 4.81711
+theta: 1.28282
+r: 11.5706
+节点序号：1877
+thetaIni: 2.82743
+thetaAdd: 4.81711
+theta: 1.36136
+r: 11.5327
+节点序号：1878
+thetaIni: 2.90597
+thetaAdd: 4.81711
+theta: 1.4399
+r: 11.4948
+节点序号：1879
+thetaIni: 2.98451
+thetaAdd: 4.81711
+theta: 1.51844
+r: 11.4569
+节点序号：1880
+thetaIni: 3.06305
+thetaAdd: 4.81711
+theta: 1.59698
+r: 11.419
+节点序号：1881
+thetaIni: 3.14159
+thetaAdd: 4.81711
+theta: 1.67552
+r: 11.3812
+节点序号：1882
+thetaIni: 3.22013
+thetaAdd: 4.81711
+theta: 1.75406
+r: 11.3433
+节点序号：1883
+thetaIni: 3.29867
+thetaAdd: 4.81711
+theta: 1.8326
+r: 11.3054
+节点序号：1884
+thetaIni: 3.37721
+thetaAdd: 4.81711
+theta: 1.91114
+r: 11.2675
+节点序号：1885
+thetaIni: 3.45575
+thetaAdd: 4.81711
+theta: 1.98968
+r: 11.2296
+节点序号：1886
+thetaIni: 3.53429
+thetaAdd: 4.81711
+theta: 2.06822
+r: 11.1917
+节点序号：1887
+thetaIni: 3.61283
+thetaAdd: 4.81711
+theta: 2.14675
+r: 11.1538
+节点序号：1888
+thetaIni: 3.69137
+thetaAdd: 4.81711
+theta: 2.22529
+r: 11.1159
+节点序号：1889
+thetaIni: 3.76991
+thetaAdd: 4.81711
+theta: 2.30383
+r: 11.078
+节点序号：1890
+thetaIni: 3.84845
+thetaAdd: 4.81711
+theta: 2.38237
+r: 11.0402
+节点序号：1891
+thetaIni: 3.92699
+thetaAdd: 4.81711
+theta: 2.46091
+r: 12.3292
+节点序号：1892
+thetaIni: 4.00553
+thetaAdd: 4.81711
+theta: 2.53945
+r: 12.3013
+节点序号：1893
+thetaIni: 4.08407
+thetaAdd: 4.81711
+theta: 2.61799
+r: 12.2804
+节点序号：1894
+thetaIni: 4.16261
+thetaAdd: 4.81711
+theta: 2.69653
+r: 12.2642
+节点序号：1895
+thetaIni: 4.24115
+thetaAdd: 4.81711
+theta: 2.77507
+r: 12.2517
+节点序号：1896
+thetaIni: 4.31969
+thetaAdd: 4.81711
+theta: 2.85361
+r: 12.2421
+节点序号：1897
+thetaIni: 4.39823
+thetaAdd: 4.81711
+theta: 2.93215
+r: 12.2351
+节点序号：1898
+thetaIni: 4.47677
+thetaAdd: 4.81711
+theta: 3.01069
+r: 12.2304
+节点序号：1899
+thetaIni: 4.55531
+thetaAdd: 4.81711
+theta: 3.08923
+r: 12.228
+节点序号：1900
+thetaIni: 4.63385
+thetaAdd: 4.81711
+theta: 3.16777
+r: 12.2276
+节点序号：1901
+thetaIni: 4.71239
+thetaAdd: 4.81711
+theta: 3.24631
+r: 12.2294
+节点序号：1902
+thetaIni: 4.79093
+thetaAdd: 4.81711
+theta: 3.32485
+r: 12.2333
+节点序号：1903
+thetaIni: 4.86947
+thetaAdd: 4.81711
+theta: 3.40339
+r: 12.2395
+节点序号：1904
+thetaIni: 4.94801
+thetaAdd: 4.81711
+theta: 3.48193
+r: 12.2482
+节点序号：1905
+thetaIni: 5.02655
+thetaAdd: 4.81711
+theta: 3.56047
+r: 12.2597
+节点序号：1906
+thetaIni: 5.10509
+thetaAdd: 4.81711
+theta: 3.63901
+r: 12.2745
+节点序号：1907
+thetaIni: 5.18363
+thetaAdd: 4.81711
+theta: 3.71755
+r: 12.2937
+节点序号：1908
+thetaIni: 5.26217
+thetaAdd: 4.81711
+theta: 3.79609
+r: 12.3189
+节点序号：1909
+thetaIni: 5.34071
+thetaAdd: 4.81711
+theta: 3.87463
+r: 12
+节点序号：1910
+thetaIni: 5.41925
+thetaAdd: 4.81711
+theta: 3.95317
+r: 12
+节点序号：1911
+thetaIni: 5.49779
+thetaAdd: 4.81711
+theta: 4.03171
+r: 12
+节点序号：1912
+thetaIni: 5.57633
+thetaAdd: 4.81711
+theta: 4.11025
+r: 12
+节点序号：1913
+thetaIni: 5.65487
+thetaAdd: 4.81711
+theta: 4.18879
+r: 12
+节点序号：1914
+thetaIni: 5.73341
+thetaAdd: 4.81711
+theta: 4.26733
+r: 12
+节点序号：1915
+thetaIni: 5.81195
+thetaAdd: 4.81711
+theta: 4.34587
+r: 12
+节点序号：1916
+thetaIni: 5.89049
+thetaAdd: 4.81711
+theta: 4.42441
+r: 12
+节点序号：1917
+thetaIni: 5.96903
+thetaAdd: 4.81711
+theta: 4.50295
+r: 12
+节点序号：1918
+thetaIni: 6.04757
+thetaAdd: 4.81711
+theta: 4.58149
+r: 12
+节点序号：1919
+thetaIni: 6.12611
+thetaAdd: 4.81711
+theta: 4.66003
+r: 12
+节点序号：1920
+thetaIni: 6.20465
+thetaAdd: 4.81711
+theta: 4.73857
+r: 12
+节点序号：1921
+thetaIni: 0
+thetaAdd: 5.02655
+theta: 5.02655
+r: 12
+节点序号：1922
+thetaIni: 0.0785398
+thetaAdd: 5.02655
+theta: 5.10509
+r: 12
+节点序号：1923
+thetaIni: 0.15708
+thetaAdd: 5.02655
+theta: 5.18363
+r: 12
+节点序号：1924
+thetaIni: 0.235619
+thetaAdd: 5.02655
+theta: 5.26217
+r: 12
+节点序号：1925
+thetaIni: 0.314159
+thetaAdd: 5.02655
+theta: 5.34071
+r: 12
+节点序号：1926
+thetaIni: 0.392699
+thetaAdd: 5.02655
+theta: 5.41925
+r: 12
+节点序号：1927
+thetaIni: 0.471239
+thetaAdd: 5.02655
+theta: 5.49779
+r: 12
+节点序号：1928
+thetaIni: 0.549779
+thetaAdd: 5.02655
+theta: 5.57633
+r: 12
+节点序号：1929
+thetaIni: 0.628319
+thetaAdd: 5.02655
+theta: 5.65487
+r: 12
+节点序号：1930
+thetaIni: 0.706858
+thetaAdd: 5.02655
+theta: 5.73341
+r: 12
+节点序号：1931
+thetaIni: 0.785398
+thetaAdd: 5.02655
+theta: 5.81195
+r: 12
+节点序号：1932
+thetaIni: 0.863938
+thetaAdd: 5.02655
+theta: 5.89049
+r: 12
+节点序号：1933
+thetaIni: 0.942478
+thetaAdd: 5.02655
+theta: 5.96903
+r: 12
+节点序号：1934
+thetaIni: 1.02102
+thetaAdd: 5.02655
+theta: 6.04757
+r: 12
+节点序号：1935
+thetaIni: 1.09956
+thetaAdd: 5.02655
+theta: 6.12611
+r: 12
+节点序号：1936
+thetaIni: 1.1781
+thetaAdd: 5.02655
+theta: 6.20465
+r: 12
+节点序号：1937
+thetaIni: 1.25664
+thetaAdd: 5.02655
+theta: 0
+r: 12
+节点序号：1938
+thetaIni: 1.33518
+thetaAdd: 5.02655
+theta: 0.0785398
+r: 12
+节点序号：1939
+thetaIni: 1.41372
+thetaAdd: 5.02655
+theta: 0.15708
+r: 12
+节点序号：1940
+thetaIni: 1.49226
+thetaAdd: 5.02655
+theta: 0.235619
+r: 12
+节点序号：1941
+thetaIni: 1.5708
+thetaAdd: 5.02655
+theta: 0.314159
+r: 12
+节点序号：1942
+thetaIni: 1.64934
+thetaAdd: 5.02655
+theta: 0.392699
+r: 12
+节点序号：1943
+thetaIni: 1.72788
+thetaAdd: 5.02655
+theta: 0.471239
+r: 11.9621
+节点序号：1944
+thetaIni: 1.80642
+thetaAdd: 5.02655
+theta: 0.549779
+r: 11.9242
+节点序号：1945
+thetaIni: 1.88496
+thetaAdd: 5.02655
+theta: 0.628319
+r: 11.8863
+节点序号：1946
+thetaIni: 1.9635
+thetaAdd: 5.02655
+theta: 0.706858
+r: 11.8484
+节点序号：1947
+thetaIni: 2.04204
+thetaAdd: 5.02655
+theta: 0.785398
+r: 11.8106
+节点序号：1948
+thetaIni: 2.12058
+thetaAdd: 5.02655
+theta: 0.863938
+r: 11.7727
+节点序号：1949
+thetaIni: 2.19911
+thetaAdd: 5.02655
+theta: 0.942478
+r: 11.7348
+节点序号：1950
+thetaIni: 2.27765
+thetaAdd: 5.02655
+theta: 1.02102
+r: 11.6969
+节点序号：1951
+thetaIni: 2.35619
+thetaAdd: 5.02655
+theta: 1.09956
+r: 11.659
+节点序号：1952
+thetaIni: 2.43473
+thetaAdd: 5.02655
+theta: 1.1781
+r: 11.6211
+节点序号：1953
+thetaIni: 2.51327
+thetaAdd: 5.02655
+theta: 1.25664
+r: 11.5832
+节点序号：1954
+thetaIni: 2.59181
+thetaAdd: 5.02655
+theta: 1.33518
+r: 11.5453
+节点序号：1955
+thetaIni: 2.67035
+thetaAdd: 5.02655
+theta: 1.41372
+r: 11.5074
+节点序号：1956
+thetaIni: 2.74889
+thetaAdd: 5.02655
+theta: 1.49226
+r: 11.4696
+节点序号：1957
+thetaIni: 2.82743
+thetaAdd: 5.02655
+theta: 1.5708
+r: 11.4317
+节点序号：1958
+thetaIni: 2.90597
+thetaAdd: 5.02655
+theta: 1.64934
+r: 11.3938
+节点序号：1959
+thetaIni: 2.98451
+thetaAdd: 5.02655
+theta: 1.72788
+r: 11.3559
+节点序号：1960
+thetaIni: 3.06305
+thetaAdd: 5.02655
+theta: 1.80642
+r: 11.318
+节点序号：1961
+thetaIni: 3.14159
+thetaAdd: 5.02655
+theta: 1.88496
+r: 11.2801
+节点序号：1962
+thetaIni: 3.22013
+thetaAdd: 5.02655
+theta: 1.9635
+r: 11.2422
+节点序号：1963
+thetaIni: 3.29867
+thetaAdd: 5.02655
+theta: 2.04204
+r: 11.2043
+节点序号：1964
+thetaIni: 3.37721
+thetaAdd: 5.02655
+theta: 2.12058
+r: 11.1665
+节点序号：1965
+thetaIni: 3.45575
+thetaAdd: 5.02655
+theta: 2.19911
+r: 11.1286
+节点序号：1966
+thetaIni: 3.53429
+thetaAdd: 5.02655
+theta: 2.27765
+r: 11.0907
+节点序号：1967
+thetaIni: 3.61283
+thetaAdd: 5.02655
+theta: 2.35619
+r: 11.0528
+节点序号：1968
+thetaIni: 3.69137
+thetaAdd: 5.02655
+theta: 2.43473
+r: 12.341
+节点序号：1969
+thetaIni: 3.76991
+thetaAdd: 5.02655
+theta: 2.51327
+r: 12.3096
+节点序号：1970
+thetaIni: 3.84845
+thetaAdd: 5.02655
+theta: 2.59181
+r: 12.2867
+节点序号：1971
+thetaIni: 3.92699
+thetaAdd: 5.02655
+theta: 2.67035
+r: 12.2692
+节点序号：1972
+thetaIni: 4.00553
+thetaAdd: 5.02655
+theta: 2.74889
+r: 12.2555
+节点序号：1973
+thetaIni: 4.08407
+thetaAdd: 5.02655
+theta: 2.82743
+r: 12.245
+节点序号：1974
+thetaIni: 4.16261
+thetaAdd: 5.02655
+theta: 2.90597
+r: 12.2372
+节点序号：1975
+thetaIni: 4.24115
+thetaAdd: 5.02655
+theta: 2.98451
+r: 12.2317
+节点序号：1976
+thetaIni: 4.31969
+thetaAdd: 5.02655
+theta: 3.06305
+r: 12.2286
+节点序号：1977
+thetaIni: 4.39823
+thetaAdd: 5.02655
+theta: 3.14159
+r: 12.2275
+节点序号：1978
+thetaIni: 4.47677
+thetaAdd: 5.02655
+theta: 3.22013
+r: 12.2286
+节点序号：1979
+thetaIni: 4.55531
+thetaAdd: 5.02655
+theta: 3.29867
+r: 12.2317
+节点序号：1980
+thetaIni: 4.63385
+thetaAdd: 5.02655
+theta: 3.37721
+r: 12.2372
+节点序号：1981
+thetaIni: 4.71239
+thetaAdd: 5.02655
+theta: 3.45575
+r: 12.245
+节点序号：1982
+thetaIni: 4.79093
+thetaAdd: 5.02655
+theta: 3.53429
+r: 12.2555
+节点序号：1983
+thetaIni: 4.86947
+thetaAdd: 5.02655
+theta: 3.61283
+r: 12.2692
+节点序号：1984
+thetaIni: 4.94801
+thetaAdd: 5.02655
+theta: 3.69137
+r: 12.2867
+节点序号：1985
+thetaIni: 5.02655
+thetaAdd: 5.02655
+theta: 3.76991
+r: 12.3096
+节点序号：1986
+thetaIni: 5.10509
+thetaAdd: 5.02655
+theta: 3.84845
+r: 12.341
+节点序号：1987
+thetaIni: 5.18363
+thetaAdd: 5.02655
+theta: 3.92699
+r: 12
+节点序号：1988
+thetaIni: 5.26217
+thetaAdd: 5.02655
+theta: 4.00553
+r: 12
+节点序号：1989
+thetaIni: 5.34071
+thetaAdd: 5.02655
+theta: 4.08407
+r: 12
+节点序号：1990
+thetaIni: 5.41925
+thetaAdd: 5.02655
+theta: 4.16261
+r: 12
+节点序号：1991
+thetaIni: 5.49779
+thetaAdd: 5.02655
+theta: 4.24115
+r: 12
+节点序号：1992
+thetaIni: 5.57633
+thetaAdd: 5.02655
+theta: 4.31969
+r: 12
+节点序号：1993
+thetaIni: 5.65487
+thetaAdd: 5.02655
+theta: 4.39823
+r: 12
+节点序号：1994
+thetaIni: 5.73341
+thetaAdd: 5.02655
+theta: 4.47677
+r: 12
+节点序号：1995
+thetaIni: 5.81195
+thetaAdd: 5.02655
+theta: 4.55531
+r: 12
+节点序号：1996
+thetaIni: 5.89049
+thetaAdd: 5.02655
+theta: 4.63385
+r: 12
+节点序号：1997
+thetaIni: 5.96903
+thetaAdd: 5.02655
+theta: 4.71239
+r: 12
+节点序号：1998
+thetaIni: 6.04757
+thetaAdd: 5.02655
+theta: 4.79093
+r: 12
+节点序号：1999
+thetaIni: 6.12611
+thetaAdd: 5.02655
+theta: 4.86947
+r: 12
+节点序号：2000
+thetaIni: 6.20465
+thetaAdd: 5.02655
+theta: 4.94801
+r: 12
+节点序号：2001
+thetaIni: 0
+thetaAdd: 5.23599
+theta: 5.23599
+r: 12
+节点序号：2002
+thetaIni: 0.0785398
+thetaAdd: 5.23599
+theta: 5.31453
+r: 12
+节点序号：2003
+thetaIni: 0.15708
+thetaAdd: 5.23599
+theta: 5.39307
+r: 12
+节点序号：2004
+thetaIni: 0.235619
+thetaAdd: 5.23599
+theta: 5.47161
+r: 12
+节点序号：2005
+thetaIni: 0.314159
+thetaAdd: 5.23599
+theta: 5.55015
+r: 12
+节点序号：2006
+thetaIni: 0.392699
+thetaAdd: 5.23599
+theta: 5.62869
+r: 12
+节点序号：2007
+thetaIni: 0.471239
+thetaAdd: 5.23599
+theta: 5.70723
+r: 12
+节点序号：2008
+thetaIni: 0.549779
+thetaAdd: 5.23599
+theta: 5.78577
+r: 12
+节点序号：2009
+thetaIni: 0.628319
+thetaAdd: 5.23599
+theta: 5.86431
+r: 12
+节点序号：2010
+thetaIni: 0.706858
+thetaAdd: 5.23599
+theta: 5.94285
+r: 12
+节点序号：2011
+thetaIni: 0.785398
+thetaAdd: 5.23599
+theta: 6.02139
+r: 12
+节点序号：2012
+thetaIni: 0.863938
+thetaAdd: 5.23599
+theta: 6.09993
+r: 12
+节点序号：2013
+thetaIni: 0.942478
+thetaAdd: 5.23599
+theta: 6.17847
+r: 12
+节点序号：2014
+thetaIni: 1.02102
+thetaAdd: 5.23599
+theta: 6.25701
+r: 12
+节点序号：2015
+thetaIni: 1.09956
+thetaAdd: 5.23599
+theta: 0.0523599
+r: 12
+节点序号：2016
+thetaIni: 1.1781
+thetaAdd: 5.23599
+theta: 0.1309
+r: 12
+节点序号：2017
+thetaIni: 1.25664
+thetaAdd: 5.23599
+theta: 0.20944
+r: 12
+节点序号：2018
+thetaIni: 1.33518
+thetaAdd: 5.23599
+theta: 0.287979
+r: 12
+节点序号：2019
+thetaIni: 1.41372
+thetaAdd: 5.23599
+theta: 0.366519
+r: 12
+节点序号：2020
+thetaIni: 1.49226
+thetaAdd: 5.23599
+theta: 0.445059
+r: 11.9747
+节点序号：2021
+thetaIni: 1.5708
+thetaAdd: 5.23599
+theta: 0.523599
+r: 11.9369
+节点序号：2022
+thetaIni: 1.64934
+thetaAdd: 5.23599
+theta: 0.602139
+r: 11.899
+节点序号：2023
+thetaIni: 1.72788
+thetaAdd: 5.23599
+theta: 0.680678
+r: 11.8611
+节点序号：2024
+thetaIni: 1.80642
+thetaAdd: 5.23599
+theta: 0.759218
+r: 11.8232
+节点序号：2025
+thetaIni: 1.88496
+thetaAdd: 5.23599
+theta: 0.837758
+r: 11.7853
+节点序号：2026
+thetaIni: 1.9635
+thetaAdd: 5.23599
+theta: 0.916298
+r: 11.7474
+节点序号：2027
+thetaIni: 2.04204
+thetaAdd: 5.23599
+theta: 0.994838
+r: 11.7095
+节点序号：2028
+thetaIni: 2.12058
+thetaAdd: 5.23599
+theta: 1.07338
+r: 11.6716
+节点序号：2029
+thetaIni: 2.19911
+thetaAdd: 5.23599
+theta: 1.15192
+r: 11.6337
+节点序号：2030
+thetaIni: 2.27765
+thetaAdd: 5.23599
+theta: 1.23046
+r: 11.5959
+节点序号：2031
+thetaIni: 2.35619
+thetaAdd: 5.23599
+theta: 1.309
+r: 11.558
+节点序号：2032
+thetaIni: 2.43473
+thetaAdd: 5.23599
+theta: 1.38754
+r: 11.5201
+节点序号：2033
+thetaIni: 2.51327
+thetaAdd: 5.23599
+theta: 1.46608
+r: 11.4822
+节点序号：2034
+thetaIni: 2.59181
+thetaAdd: 5.23599
+theta: 1.54462
+r: 11.4443
+节点序号：2035
+thetaIni: 2.67035
+thetaAdd: 5.23599
+theta: 1.62316
+r: 11.4064
+节点序号：2036
+thetaIni: 2.74889
+thetaAdd: 5.23599
+theta: 1.7017
+r: 11.3685
+节点序号：2037
+thetaIni: 2.82743
+thetaAdd: 5.23599
+theta: 1.78024
+r: 11.3306
+节点序号：2038
+thetaIni: 2.90597
+thetaAdd: 5.23599
+theta: 1.85878
+r: 11.2927
+节点序号：2039
+thetaIni: 2.98451
+thetaAdd: 5.23599
+theta: 1.93732
+r: 11.2549
+节点序号：2040
+thetaIni: 3.06305
+thetaAdd: 5.23599
+theta: 2.01586
+r: 11.217
+节点序号：2041
+thetaIni: 3.14159
+thetaAdd: 5.23599
+theta: 2.0944
+r: 11.1791
+节点序号：2042
+thetaIni: 3.22013
+thetaAdd: 5.23599
+theta: 2.17293
+r: 11.1412
+节点序号：2043
+thetaIni: 3.29867
+thetaAdd: 5.23599
+theta: 2.25147
+r: 11.1033
+节点序号：2044
+thetaIni: 3.37721
+thetaAdd: 5.23599
+theta: 2.33001
+r: 11.0654
+节点序号：2045
+thetaIni: 3.45575
+thetaAdd: 5.23599
+theta: 2.40855
+r: 11.0275
+节点序号：2046
+thetaIni: 3.53429
+thetaAdd: 5.23599
+theta: 2.48709
+r: 12.3189
+节点序号：2047
+thetaIni: 3.61283
+thetaAdd: 5.23599
+theta: 2.56563
+r: 12.2937
+节点序号：2048
+thetaIni: 3.69137
+thetaAdd: 5.23599
+theta: 2.64417
+r: 12.2745
+节点序号：2049
+thetaIni: 3.76991
+thetaAdd: 5.23599
+theta: 2.72271
+r: 12.2597
+节点序号：2050
+thetaIni: 3.84845
+thetaAdd: 5.23599
+theta: 2.80125
+r: 12.2482
+节点序号：2051
+thetaIni: 3.92699
+thetaAdd: 5.23599
+theta: 2.87979
+r: 12.2395
+节点序号：2052
+thetaIni: 4.00553
+thetaAdd: 5.23599
+theta: 2.95833
+r: 12.2333
+节点序号：2053
+thetaIni: 4.08407
+thetaAdd: 5.23599
+theta: 3.03687
+r: 12.2294
+节点序号：2054
+thetaIni: 4.16261
+thetaAdd: 5.23599
+theta: 3.11541
+r: 12.2276
+节点序号：2055
+thetaIni: 4.24115
+thetaAdd: 5.23599
+theta: 3.19395
+r: 12.228
+节点序号：2056
+thetaIni: 4.31969
+thetaAdd: 5.23599
+theta: 3.27249
+r: 12.2304
+节点序号：2057
+thetaIni: 4.39823
+thetaAdd: 5.23599
+theta: 3.35103
+r: 12.2351
+节点序号：2058
+thetaIni: 4.47677
+thetaAdd: 5.23599
+theta: 3.42957
+r: 12.2421
+节点序号：2059
+thetaIni: 4.55531
+thetaAdd: 5.23599
+theta: 3.50811
+r: 12.2517
+节点序号：2060
+thetaIni: 4.63385
+thetaAdd: 5.23599
+theta: 3.58665
+r: 12.2642
+节点序号：2061
+thetaIni: 4.71239
+thetaAdd: 5.23599
+theta: 3.66519
+r: 12.2804
+节点序号：2062
+thetaIni: 4.79093
+thetaAdd: 5.23599
+theta: 3.74373
+r: 12.3013
+节点序号：2063
+thetaIni: 4.86947
+thetaAdd: 5.23599
+theta: 3.82227
+r: 12.3292
+节点序号：2064
+thetaIni: 4.94801
+thetaAdd: 5.23599
+theta: 3.90081
+r: 12
+节点序号：2065
+thetaIni: 5.02655
+thetaAdd: 5.23599
+theta: 3.97935
+r: 12
+节点序号：2066
+thetaIni: 5.10509
+thetaAdd: 5.23599
+theta: 4.05789
+r: 12
+节点序号：2067
+thetaIni: 5.18363
+thetaAdd: 5.23599
+theta: 4.13643
+r: 12
+节点序号：2068
+thetaIni: 5.26217
+thetaAdd: 5.23599
+theta: 4.21497
+r: 12
+节点序号：2069
+thetaIni: 5.34071
+thetaAdd: 5.23599
+theta: 4.29351
+r: 12
+节点序号：2070
+thetaIni: 5.41925
+thetaAdd: 5.23599
+theta: 4.37205
+r: 12
+节点序号：2071
+thetaIni: 5.49779
+thetaAdd: 5.23599
+theta: 4.45059
+r: 12
+节点序号：2072
+thetaIni: 5.57633
+thetaAdd: 5.23599
+theta: 4.52913
+r: 12
+节点序号：2073
+thetaIni: 5.65487
+thetaAdd: 5.23599
+theta: 4.60767
+r: 12
+节点序号：2074
+thetaIni: 5.73341
+thetaAdd: 5.23599
+theta: 4.68621
+r: 12
+节点序号：2075
+thetaIni: 5.81195
+thetaAdd: 5.23599
+theta: 4.76475
+r: 12
+节点序号：2076
+thetaIni: 5.89049
+thetaAdd: 5.23599
+theta: 4.84329
+r: 12
+节点序号：2077
+thetaIni: 5.96903
+thetaAdd: 5.23599
+theta: 4.92183
+r: 12
+节点序号：2078
+thetaIni: 6.04757
+thetaAdd: 5.23599
+theta: 5.00037
+r: 12
+节点序号：2079
+thetaIni: 6.12611
+thetaAdd: 5.23599
+theta: 5.07891
+r: 12
+节点序号：2080
+thetaIni: 6.20465
+thetaAdd: 5.23599
+theta: 5.15745
+r: 12
+节点序号：2081
+thetaIni: 0
+thetaAdd: 5.44543
+theta: 5.44543
+r: 12
+节点序号：2082
+thetaIni: 0.0785398
+thetaAdd: 5.44543
+theta: 5.52397
+r: 12
+节点序号：2083
+thetaIni: 0.15708
+thetaAdd: 5.44543
+theta: 5.60251
+r: 12
+节点序号：2084
+thetaIni: 0.235619
+thetaAdd: 5.44543
+theta: 5.68105
+r: 12
+节点序号：2085
+thetaIni: 0.314159
+thetaAdd: 5.44543
+theta: 5.75959
+r: 12
+节点序号：2086
+thetaIni: 0.392699
+thetaAdd: 5.44543
+theta: 5.83813
+r: 12
+节点序号：2087
+thetaIni: 0.471239
+thetaAdd: 5.44543
+theta: 5.91667
+r: 12
+节点序号：2088
+thetaIni: 0.549779
+thetaAdd: 5.44543
+theta: 5.99521
+r: 12
+节点序号：2089
+thetaIni: 0.628319
+thetaAdd: 5.44543
+theta: 6.07375
+r: 12
+节点序号：2090
+thetaIni: 0.706858
+thetaAdd: 5.44543
+theta: 6.15229
+r: 12
+节点序号：2091
+thetaIni: 0.785398
+thetaAdd: 5.44543
+theta: 6.23083
+r: 12
+节点序号：2092
+thetaIni: 0.863938
+thetaAdd: 5.44543
+theta: 0.0261799
+r: 12
+节点序号：2093
+thetaIni: 0.942478
+thetaAdd: 5.44543
+theta: 0.10472
+r: 12
+节点序号：2094
+thetaIni: 1.02102
+thetaAdd: 5.44543
+theta: 0.18326
+r: 12
+节点序号：2095
+thetaIni: 1.09956
+thetaAdd: 5.44543
+theta: 0.261799
+r: 12
+节点序号：2096
+thetaIni: 1.1781
+thetaAdd: 5.44543
+theta: 0.340339
+r: 12
+节点序号：2097
+thetaIni: 1.25664
+thetaAdd: 5.44543
+theta: 0.418879
+r: 11.9874
+节点序号：2098
+thetaIni: 1.33518
+thetaAdd: 5.44543
+theta: 0.497419
+r: 11.9495
+节点序号：2099
+thetaIni: 1.41372
+thetaAdd: 5.44543
+theta: 0.575959
+r: 11.9116
+节点序号：2100
+thetaIni: 1.49226
+thetaAdd: 5.44543
+theta: 0.654498
+r: 11.8737
+节点序号：2101
+thetaIni: 1.5708
+thetaAdd: 5.44543
+theta: 0.733038
+r: 11.8358
+节点序号：2102
+thetaIni: 1.64934
+thetaAdd: 5.44543
+theta: 0.811578
+r: 11.7979
+节点序号：2103
+thetaIni: 1.72788
+thetaAdd: 5.44543
+theta: 0.890118
+r: 11.76
+节点序号：2104
+thetaIni: 1.80642
+thetaAdd: 5.44543
+theta: 0.968658
+r: 11.7222
+节点序号：2105
+thetaIni: 1.88496
+thetaAdd: 5.44543
+theta: 1.0472
+r: 11.6843
+节点序号：2106
+thetaIni: 1.9635
+thetaAdd: 5.44543
+theta: 1.12574
+r: 11.6464
+节点序号：2107
+thetaIni: 2.04204
+thetaAdd: 5.44543
+theta: 1.20428
+r: 11.6085
+节点序号：2108
+thetaIni: 2.12058
+thetaAdd: 5.44543
+theta: 1.28282
+r: 11.5706
+节点序号：2109
+thetaIni: 2.19911
+thetaAdd: 5.44543
+theta: 1.36136
+r: 11.5327
+节点序号：2110
+thetaIni: 2.27765
+thetaAdd: 5.44543
+theta: 1.4399
+r: 11.4948
+节点序号：2111
+thetaIni: 2.35619
+thetaAdd: 5.44543
+theta: 1.51844
+r: 11.4569
+节点序号：2112
+thetaIni: 2.43473
+thetaAdd: 5.44543
+theta: 1.59698
+r: 11.419
+节点序号：2113
+thetaIni: 2.51327
+thetaAdd: 5.44543
+theta: 1.67552
+r: 11.3812
+节点序号：2114
+thetaIni: 2.59181
+thetaAdd: 5.44543
+theta: 1.75406
+r: 11.3433
+节点序号：2115
+thetaIni: 2.67035
+thetaAdd: 5.44543
+theta: 1.8326
+r: 11.3054
+节点序号：2116
+thetaIni: 2.74889
+thetaAdd: 5.44543
+theta: 1.91114
+r: 11.2675
+节点序号：2117
+thetaIni: 2.82743
+thetaAdd: 5.44543
+theta: 1.98968
+r: 11.2296
+节点序号：2118
+thetaIni: 2.90597
+thetaAdd: 5.44543
+theta: 2.06822
+r: 11.1917
+节点序号：2119
+thetaIni: 2.98451
+thetaAdd: 5.44543
+theta: 2.14675
+r: 11.1538
+节点序号：2120
+thetaIni: 3.06305
+thetaAdd: 5.44543
+theta: 2.22529
+r: 11.1159
+节点序号：2121
+thetaIni: 3.14159
+thetaAdd: 5.44543
+theta: 2.30383
+r: 11.078
+节点序号：2122
+thetaIni: 3.22013
+thetaAdd: 5.44543
+theta: 2.38237
+r: 11.0402
+节点序号：2123
+thetaIni: 3.29867
+thetaAdd: 5.44543
+theta: 2.46091
+r: 12.3292
+节点序号：2124
+thetaIni: 3.37721
+thetaAdd: 5.44543
+theta: 2.53945
+r: 12.3013
+节点序号：2125
+thetaIni: 3.45575
+thetaAdd: 5.44543
+theta: 2.61799
+r: 12.2804
+节点序号：2126
+thetaIni: 3.53429
+thetaAdd: 5.44543
+theta: 2.69653
+r: 12.2642
+节点序号：2127
+thetaIni: 3.61283
+thetaAdd: 5.44543
+theta: 2.77507
+r: 12.2517
+节点序号：2128
+thetaIni: 3.69137
+thetaAdd: 5.44543
+theta: 2.85361
+r: 12.2421
+节点序号：2129
+thetaIni: 3.76991
+thetaAdd: 5.44543
+theta: 2.93215
+r: 12.2351
+节点序号：2130
+thetaIni: 3.84845
+thetaAdd: 5.44543
+theta: 3.01069
+r: 12.2304
+节点序号：2131
+thetaIni: 3.92699
+thetaAdd: 5.44543
+theta: 3.08923
+r: 12.228
+节点序号：2132
+thetaIni: 4.00553
+thetaAdd: 5.44543
+theta: 3.16777
+r: 12.2276
+节点序号：2133
+thetaIni: 4.08407
+thetaAdd: 5.44543
+theta: 3.24631
+r: 12.2294
+节点序号：2134
+thetaIni: 4.16261
+thetaAdd: 5.44543
+theta: 3.32485
+r: 12.2333
+节点序号：2135
+thetaIni: 4.24115
+thetaAdd: 5.44543
+theta: 3.40339
+r: 12.2395
+节点序号：2136
+thetaIni: 4.31969
+thetaAdd: 5.44543
+theta: 3.48193
+r: 12.2482
+节点序号：2137
+thetaIni: 4.39823
+thetaAdd: 5.44543
+theta: 3.56047
+r: 12.2597
+节点序号：2138
+thetaIni: 4.47677
+thetaAdd: 5.44543
+theta: 3.63901
+r: 12.2745
+节点序号：2139
+thetaIni: 4.55531
+thetaAdd: 5.44543
+theta: 3.71755
+r: 12.2937
+节点序号：2140
+thetaIni: 4.63385
+thetaAdd: 5.44543
+theta: 3.79609
+r: 12.3189
+节点序号：2141
+thetaIni: 4.71239
+thetaAdd: 5.44543
+theta: 3.87463
+r: 12
+节点序号：2142
+thetaIni: 4.79093
+thetaAdd: 5.44543
+theta: 3.95317
+r: 12
+节点序号：2143
+thetaIni: 4.86947
+thetaAdd: 5.44543
+theta: 4.03171
+r: 12
+节点序号：2144
+thetaIni: 4.94801
+thetaAdd: 5.44543
+theta: 4.11025
+r: 12
+节点序号：2145
+thetaIni: 5.02655
+thetaAdd: 5.44543
+theta: 4.18879
+r: 12
+节点序号：2146
+thetaIni: 5.10509
+thetaAdd: 5.44543
+theta: 4.26733
+r: 12
+节点序号：2147
+thetaIni: 5.18363
+thetaAdd: 5.44543
+theta: 4.34587
+r: 12
+节点序号：2148
+thetaIni: 5.26217
+thetaAdd: 5.44543
+theta: 4.42441
+r: 12
+节点序号：2149
+thetaIni: 5.34071
+thetaAdd: 5.44543
+theta: 4.50295
+r: 12
+节点序号：2150
+thetaIni: 5.41925
+thetaAdd: 5.44543
+theta: 4.58149
+r: 12
+节点序号：2151
+thetaIni: 5.49779
+thetaAdd: 5.44543
+theta: 4.66003
+r: 12
+节点序号：2152
+thetaIni: 5.57633
+thetaAdd: 5.44543
+theta: 4.73857
+r: 12
+节点序号：2153
+thetaIni: 5.65487
+thetaAdd: 5.44543
+theta: 4.81711
+r: 12
+节点序号：2154
+thetaIni: 5.73341
+thetaAdd: 5.44543
+theta: 4.89565
+r: 12
+节点序号：2155
+thetaIni: 5.81195
+thetaAdd: 5.44543
+theta: 4.97419
+r: 12
+节点序号：2156
+thetaIni: 5.89049
+thetaAdd: 5.44543
+theta: 5.05273
+r: 12
+节点序号：2157
+thetaIni: 5.96903
+thetaAdd: 5.44543
+theta: 5.13127
+r: 12
+节点序号：2158
+thetaIni: 6.04757
+thetaAdd: 5.44543
+theta: 5.20981
+r: 12
+节点序号：2159
+thetaIni: 6.12611
+thetaAdd: 5.44543
+theta: 5.28835
+r: 12
+节点序号：2160
+thetaIni: 6.20465
+thetaAdd: 5.44543
+theta: 5.36689
+r: 12
+节点序号：2161
+thetaIni: 0
+thetaAdd: 5.65487
+theta: 5.65487
+r: 12
+节点序号：2162
+thetaIni: 0.0785398
+thetaAdd: 5.65487
+theta: 5.73341
+r: 12
+节点序号：2163
+thetaIni: 0.15708
+thetaAdd: 5.65487
+theta: 5.81195
+r: 12
+节点序号：2164
+thetaIni: 0.235619
+thetaAdd: 5.65487
+theta: 5.89049
+r: 12
+节点序号：2165
+thetaIni: 0.314159
+thetaAdd: 5.65487
+theta: 5.96903
+r: 12
+节点序号：2166
+thetaIni: 0.392699
+thetaAdd: 5.65487
+theta: 6.04757
+r: 12
+节点序号：2167
+thetaIni: 0.471239
+thetaAdd: 5.65487
+theta: 6.12611
+r: 12
+节点序号：2168
+thetaIni: 0.549779
+thetaAdd: 5.65487
+theta: 6.20465
+r: 12
+节点序号：2169
+thetaIni: 0.628319
+thetaAdd: 5.65487
+theta: 6.28319
+r: 12
+节点序号：2170
+thetaIni: 0.706858
+thetaAdd: 5.65487
+theta: 0.0785398
+r: 12
+节点序号：2171
+thetaIni: 0.785398
+thetaAdd: 5.65487
+theta: 0.15708
+r: 12
+节点序号：2172
+thetaIni: 0.863938
+thetaAdd: 5.65487
+theta: 0.235619
+r: 12
+节点序号：2173
+thetaIni: 0.942478
+thetaAdd: 5.65487
+theta: 0.314159
+r: 12
+节点序号：2174
+thetaIni: 1.02102
+thetaAdd: 5.65487
+theta: 0.392699
+r: 12
+节点序号：2175
+thetaIni: 1.09956
+thetaAdd: 5.65487
+theta: 0.471239
+r: 11.9621
+节点序号：2176
+thetaIni: 1.1781
+thetaAdd: 5.65487
+theta: 0.549779
+r: 11.9242
+节点序号：2177
+thetaIni: 1.25664
+thetaAdd: 5.65487
+theta: 0.628319
+r: 11.8863
+节点序号：2178
+thetaIni: 1.33518
+thetaAdd: 5.65487
+theta: 0.706858
+r: 11.8484
+节点序号：2179
+thetaIni: 1.41372
+thetaAdd: 5.65487
+theta: 0.785398
+r: 11.8106
+节点序号：2180
+thetaIni: 1.49226
+thetaAdd: 5.65487
+theta: 0.863938
+r: 11.7727
+节点序号：2181
+thetaIni: 1.5708
+thetaAdd: 5.65487
+theta: 0.942478
+r: 11.7348
+节点序号：2182
+thetaIni: 1.64934
+thetaAdd: 5.65487
+theta: 1.02102
+r: 11.6969
+节点序号：2183
+thetaIni: 1.72788
+thetaAdd: 5.65487
+theta: 1.09956
+r: 11.659
+节点序号：2184
+thetaIni: 1.80642
+thetaAdd: 5.65487
+theta: 1.1781
+r: 11.6211
+节点序号：2185
+thetaIni: 1.88496
+thetaAdd: 5.65487
+theta: 1.25664
+r: 11.5832
+节点序号：2186
+thetaIni: 1.9635
+thetaAdd: 5.65487
+theta: 1.33518
+r: 11.5453
+节点序号：2187
+thetaIni: 2.04204
+thetaAdd: 5.65487
+theta: 1.41372
+r: 11.5074
+节点序号：2188
+thetaIni: 2.12058
+thetaAdd: 5.65487
+theta: 1.49226
+r: 11.4696
+节点序号：2189
+thetaIni: 2.19911
+thetaAdd: 5.65487
+theta: 1.5708
+r: 11.4317
+节点序号：2190
+thetaIni: 2.27765
+thetaAdd: 5.65487
+theta: 1.64934
+r: 11.3938
+节点序号：2191
+thetaIni: 2.35619
+thetaAdd: 5.65487
+theta: 1.72788
+r: 11.3559
+节点序号：2192
+thetaIni: 2.43473
+thetaAdd: 5.65487
+theta: 1.80642
+r: 11.318
+节点序号：2193
+thetaIni: 2.51327
+thetaAdd: 5.65487
+theta: 1.88496
+r: 11.2801
+节点序号：2194
+thetaIni: 2.59181
+thetaAdd: 5.65487
+theta: 1.9635
+r: 11.2422
+节点序号：2195
+thetaIni: 2.67035
+thetaAdd: 5.65487
+theta: 2.04204
+r: 11.2043
+节点序号：2196
+thetaIni: 2.74889
+thetaAdd: 5.65487
+theta: 2.12058
+r: 11.1665
+节点序号：2197
+thetaIni: 2.82743
+thetaAdd: 5.65487
+theta: 2.19911
+r: 11.1286
+节点序号：2198
+thetaIni: 2.90597
+thetaAdd: 5.65487
+theta: 2.27765
+r: 11.0907
+节点序号：2199
+thetaIni: 2.98451
+thetaAdd: 5.65487
+theta: 2.35619
+r: 11.0528
+节点序号：2200
+thetaIni: 3.06305
+thetaAdd: 5.65487
+theta: 2.43473
+r: 12.341
+节点序号：2201
+thetaIni: 3.14159
+thetaAdd: 5.65487
+theta: 2.51327
+r: 12.3096
+节点序号：2202
+thetaIni: 3.22013
+thetaAdd: 5.65487
+theta: 2.59181
+r: 12.2867
+节点序号：2203
+thetaIni: 3.29867
+thetaAdd: 5.65487
+theta: 2.67035
+r: 12.2692
+节点序号：2204
+thetaIni: 3.37721
+thetaAdd: 5.65487
+theta: 2.74889
+r: 12.2555
+节点序号：2205
+thetaIni: 3.45575
+thetaAdd: 5.65487
+theta: 2.82743
+r: 12.245
+节点序号：2206
+thetaIni: 3.53429
+thetaAdd: 5.65487
+theta: 2.90597
+r: 12.2372
+节点序号：2207
+thetaIni: 3.61283
+thetaAdd: 5.65487
+theta: 2.98451
+r: 12.2317
+节点序号：2208
+thetaIni: 3.69137
+thetaAdd: 5.65487
+theta: 3.06305
+r: 12.2286
+节点序号：2209
+thetaIni: 3.76991
+thetaAdd: 5.65487
+theta: 3.14159
+r: 12.2275
+节点序号：2210
+thetaIni: 3.84845
+thetaAdd: 5.65487
+theta: 3.22013
+r: 12.2286
+节点序号：2211
+thetaIni: 3.92699
+thetaAdd: 5.65487
+theta: 3.29867
+r: 12.2317
+节点序号：2212
+thetaIni: 4.00553
+thetaAdd: 5.65487
+theta: 3.37721
+r: 12.2372
+节点序号：2213
+thetaIni: 4.08407
+thetaAdd: 5.65487
+theta: 3.45575
+r: 12.245
+节点序号：2214
+thetaIni: 4.16261
+thetaAdd: 5.65487
+theta: 3.53429
+r: 12.2555
+节点序号：2215
+thetaIni: 4.24115
+thetaAdd: 5.65487
+theta: 3.61283
+r: 12.2692
+节点序号：2216
+thetaIni: 4.31969
+thetaAdd: 5.65487
+theta: 3.69137
+r: 12.2867
+节点序号：2217
+thetaIni: 4.39823
+thetaAdd: 5.65487
+theta: 3.76991
+r: 12.3096
+节点序号：2218
+thetaIni: 4.47677
+thetaAdd: 5.65487
+theta: 3.84845
+r: 12.341
+节点序号：2219
+thetaIni: 4.55531
+thetaAdd: 5.65487
+theta: 3.92699
+r: 12
+节点序号：2220
+thetaIni: 4.63385
+thetaAdd: 5.65487
+theta: 4.00553
+r: 12
+节点序号：2221
+thetaIni: 4.71239
+thetaAdd: 5.65487
+theta: 4.08407
+r: 12
+节点序号：2222
+thetaIni: 4.79093
+thetaAdd: 5.65487
+theta: 4.16261
+r: 12
+节点序号：2223
+thetaIni: 4.86947
+thetaAdd: 5.65487
+theta: 4.24115
+r: 12
+节点序号：2224
+thetaIni: 4.94801
+thetaAdd: 5.65487
+theta: 4.31969
+r: 12
+节点序号：2225
+thetaIni: 5.02655
+thetaAdd: 5.65487
+theta: 4.39823
+r: 12
+节点序号：2226
+thetaIni: 5.10509
+thetaAdd: 5.65487
+theta: 4.47677
+r: 12
+节点序号：2227
+thetaIni: 5.18363
+thetaAdd: 5.65487
+theta: 4.55531
+r: 12
+节点序号：2228
+thetaIni: 5.26217
+thetaAdd: 5.65487
+theta: 4.63385
+r: 12
+节点序号：2229
+thetaIni: 5.34071
+thetaAdd: 5.65487
+theta: 4.71239
+r: 12
+节点序号：2230
+thetaIni: 5.41925
+thetaAdd: 5.65487
+theta: 4.79093
+r: 12
+节点序号：2231
+thetaIni: 5.49779
+thetaAdd: 5.65487
+theta: 4.86947
+r: 12
+节点序号：2232
+thetaIni: 5.57633
+thetaAdd: 5.65487
+theta: 4.94801
+r: 12
+节点序号：2233
+thetaIni: 5.65487
+thetaAdd: 5.65487
+theta: 5.02655
+r: 12
+节点序号：2234
+thetaIni: 5.73341
+thetaAdd: 5.65487
+theta: 5.10509
+r: 12
+节点序号：2235
+thetaIni: 5.81195
+thetaAdd: 5.65487
+theta: 5.18363
+r: 12
+节点序号：2236
+thetaIni: 5.89049
+thetaAdd: 5.65487
+theta: 5.26217
+r: 12
+节点序号：2237
+thetaIni: 5.96903
+thetaAdd: 5.65487
+theta: 5.34071
+r: 12
+节点序号：2238
+thetaIni: 6.04757
+thetaAdd: 5.65487
+theta: 5.41925
+r: 12
+节点序号：2239
+thetaIni: 6.12611
+thetaAdd: 5.65487
+theta: 5.49779
+r: 12
+节点序号：2240
+thetaIni: 6.20465
+thetaAdd: 5.65487
+theta: 5.57633
+r: 12
+节点序号：2241
+thetaIni: 0
+thetaAdd: 5.86431
+theta: 5.86431
+r: 12
+节点序号：2242
+thetaIni: 0.0785398
+thetaAdd: 5.86431
+theta: 5.94285
+r: 12
+节点序号：2243
+thetaIni: 0.15708
+thetaAdd: 5.86431
+theta: 6.02139
+r: 12
+节点序号：2244
+thetaIni: 0.235619
+thetaAdd: 5.86431
+theta: 6.09993
+r: 12
+节点序号：2245
+thetaIni: 0.314159
+thetaAdd: 5.86431
+theta: 6.17847
+r: 12
+节点序号：2246
+thetaIni: 0.392699
+thetaAdd: 5.86431
+theta: 6.25701
+r: 12
+节点序号：2247
+thetaIni: 0.471239
+thetaAdd: 5.86431
+theta: 0.0523599
+r: 12
+节点序号：2248
+thetaIni: 0.549779
+thetaAdd: 5.86431
+theta: 0.1309
+r: 12
+节点序号：2249
+thetaIni: 0.628319
+thetaAdd: 5.86431
+theta: 0.20944
+r: 12
+节点序号：2250
+thetaIni: 0.706858
+thetaAdd: 5.86431
+theta: 0.287979
+r: 12
+节点序号：2251
+thetaIni: 0.785398
+thetaAdd: 5.86431
+theta: 0.366519
+r: 12
+节点序号：2252
+thetaIni: 0.863938
+thetaAdd: 5.86431
+theta: 0.445059
+r: 11.9747
+节点序号：2253
+thetaIni: 0.942478
+thetaAdd: 5.86431
+theta: 0.523599
+r: 11.9369
+节点序号：2254
+thetaIni: 1.02102
+thetaAdd: 5.86431
+theta: 0.602139
+r: 11.899
+节点序号：2255
+thetaIni: 1.09956
+thetaAdd: 5.86431
+theta: 0.680678
+r: 11.8611
+节点序号：2256
+thetaIni: 1.1781
+thetaAdd: 5.86431
+theta: 0.759218
+r: 11.8232
+节点序号：2257
+thetaIni: 1.25664
+thetaAdd: 5.86431
+theta: 0.837758
+r: 11.7853
+节点序号：2258
+thetaIni: 1.33518
+thetaAdd: 5.86431
+theta: 0.916298
+r: 11.7474
+节点序号：2259
+thetaIni: 1.41372
+thetaAdd: 5.86431
+theta: 0.994838
+r: 11.7095
+节点序号：2260
+thetaIni: 1.49226
+thetaAdd: 5.86431
+theta: 1.07338
+r: 11.6716
+节点序号：2261
+thetaIni: 1.5708
+thetaAdd: 5.86431
+theta: 1.15192
+r: 11.6337
+节点序号：2262
+thetaIni: 1.64934
+thetaAdd: 5.86431
+theta: 1.23046
+r: 11.5959
+节点序号：2263
+thetaIni: 1.72788
+thetaAdd: 5.86431
+theta: 1.309
+r: 11.558
+节点序号：2264
+thetaIni: 1.80642
+thetaAdd: 5.86431
+theta: 1.38754
+r: 11.5201
+节点序号：2265
+thetaIni: 1.88496
+thetaAdd: 5.86431
+theta: 1.46608
+r: 11.4822
+节点序号：2266
+thetaIni: 1.9635
+thetaAdd: 5.86431
+theta: 1.54462
+r: 11.4443
+节点序号：2267
+thetaIni: 2.04204
+thetaAdd: 5.86431
+theta: 1.62316
+r: 11.4064
+节点序号：2268
+thetaIni: 2.12058
+thetaAdd: 5.86431
+theta: 1.7017
+r: 11.3685
+节点序号：2269
+thetaIni: 2.19911
+thetaAdd: 5.86431
+theta: 1.78024
+r: 11.3306
+节点序号：2270
+thetaIni: 2.27765
+thetaAdd: 5.86431
+theta: 1.85878
+r: 11.2927
+节点序号：2271
+thetaIni: 2.35619
+thetaAdd: 5.86431
+theta: 1.93732
+r: 11.2549
+节点序号：2272
+thetaIni: 2.43473
+thetaAdd: 5.86431
+theta: 2.01586
+r: 11.217
+节点序号：2273
+thetaIni: 2.51327
+thetaAdd: 5.86431
+theta: 2.0944
+r: 11.1791
+节点序号：2274
+thetaIni: 2.59181
+thetaAdd: 5.86431
+theta: 2.17293
+r: 11.1412
+节点序号：2275
+thetaIni: 2.67035
+thetaAdd: 5.86431
+theta: 2.25147
+r: 11.1033
+节点序号：2276
+thetaIni: 2.74889
+thetaAdd: 5.86431
+theta: 2.33001
+r: 11.0654
+节点序号：2277
+thetaIni: 2.82743
+thetaAdd: 5.86431
+theta: 2.40855
+r: 11.0275
+节点序号：2278
+thetaIni: 2.90597
+thetaAdd: 5.86431
+theta: 2.48709
+r: 12.3189
+节点序号：2279
+thetaIni: 2.98451
+thetaAdd: 5.86431
+theta: 2.56563
+r: 12.2937
+节点序号：2280
+thetaIni: 3.06305
+thetaAdd: 5.86431
+theta: 2.64417
+r: 12.2745
+节点序号：2281
+thetaIni: 3.14159
+thetaAdd: 5.86431
+theta: 2.72271
+r: 12.2597
+节点序号：2282
+thetaIni: 3.22013
+thetaAdd: 5.86431
+theta: 2.80125
+r: 12.2482
+节点序号：2283
+thetaIni: 3.29867
+thetaAdd: 5.86431
+theta: 2.87979
+r: 12.2395
+节点序号：2284
+thetaIni: 3.37721
+thetaAdd: 5.86431
+theta: 2.95833
+r: 12.2333
+节点序号：2285
+thetaIni: 3.45575
+thetaAdd: 5.86431
+theta: 3.03687
+r: 12.2294
+节点序号：2286
+thetaIni: 3.53429
+thetaAdd: 5.86431
+theta: 3.11541
+r: 12.2276
+节点序号：2287
+thetaIni: 3.61283
+thetaAdd: 5.86431
+theta: 3.19395
+r: 12.228
+节点序号：2288
+thetaIni: 3.69137
+thetaAdd: 5.86431
+theta: 3.27249
+r: 12.2304
+节点序号：2289
+thetaIni: 3.76991
+thetaAdd: 5.86431
+theta: 3.35103
+r: 12.2351
+节点序号：2290
+thetaIni: 3.84845
+thetaAdd: 5.86431
+theta: 3.42957
+r: 12.2421
+节点序号：2291
+thetaIni: 3.92699
+thetaAdd: 5.86431
+theta: 3.50811
+r: 12.2517
+节点序号：2292
+thetaIni: 4.00553
+thetaAdd: 5.86431
+theta: 3.58665
+r: 12.2642
+节点序号：2293
+thetaIni: 4.08407
+thetaAdd: 5.86431
+theta: 3.66519
+r: 12.2804
+节点序号：2294
+thetaIni: 4.16261
+thetaAdd: 5.86431
+theta: 3.74373
+r: 12.3013
+节点序号：2295
+thetaIni: 4.24115
+thetaAdd: 5.86431
+theta: 3.82227
+r: 12.3292
+节点序号：2296
+thetaIni: 4.31969
+thetaAdd: 5.86431
+theta: 3.90081
+r: 12
+节点序号：2297
+thetaIni: 4.39823
+thetaAdd: 5.86431
+theta: 3.97935
+r: 12
+节点序号：2298
+thetaIni: 4.47677
+thetaAdd: 5.86431
+theta: 4.05789
+r: 12
+节点序号：2299
+thetaIni: 4.55531
+thetaAdd: 5.86431
+theta: 4.13643
+r: 12
+节点序号：2300
+thetaIni: 4.63385
+thetaAdd: 5.86431
+theta: 4.21497
+r: 12
+节点序号：2301
+thetaIni: 4.71239
+thetaAdd: 5.86431
+theta: 4.29351
+r: 12
+节点序号：2302
+thetaIni: 4.79093
+thetaAdd: 5.86431
+theta: 4.37205
+r: 12
+节点序号：2303
+thetaIni: 4.86947
+thetaAdd: 5.86431
+theta: 4.45059
+r: 12
+节点序号：2304
+thetaIni: 4.94801
+thetaAdd: 5.86431
+theta: 4.52913
+r: 12
+节点序号：2305
+thetaIni: 5.02655
+thetaAdd: 5.86431
+theta: 4.60767
+r: 12
+节点序号：2306
+thetaIni: 5.10509
+thetaAdd: 5.86431
+theta: 4.68621
+r: 12
+节点序号：2307
+thetaIni: 5.18363
+thetaAdd: 5.86431
+theta: 4.76475
+r: 12
+节点序号：2308
+thetaIni: 5.26217
+thetaAdd: 5.86431
+theta: 4.84329
+r: 12
+节点序号：2309
+thetaIni: 5.34071
+thetaAdd: 5.86431
+theta: 4.92183
+r: 12
+节点序号：2310
+thetaIni: 5.41925
+thetaAdd: 5.86431
+theta: 5.00037
+r: 12
+节点序号：2311
+thetaIni: 5.49779
+thetaAdd: 5.86431
+theta: 5.07891
+r: 12
+节点序号：2312
+thetaIni: 5.57633
+thetaAdd: 5.86431
+theta: 5.15745
+r: 12
+节点序号：2313
+thetaIni: 5.65487
+thetaAdd: 5.86431
+theta: 5.23599
+r: 12
+节点序号：2314
+thetaIni: 5.73341
+thetaAdd: 5.86431
+theta: 5.31453
+r: 12
+节点序号：2315
+thetaIni: 5.81195
+thetaAdd: 5.86431
+theta: 5.39307
+r: 12
+节点序号：2316
+thetaIni: 5.89049
+thetaAdd: 5.86431
+theta: 5.47161
+r: 12
+节点序号：2317
+thetaIni: 5.96903
+thetaAdd: 5.86431
+theta: 5.55015
+r: 12
+节点序号：2318
+thetaIni: 6.04757
+thetaAdd: 5.86431
+theta: 5.62869
+r: 12
+节点序号：2319
+thetaIni: 6.12611
+thetaAdd: 5.86431
+theta: 5.70723
+r: 12
+节点序号：2320
+thetaIni: 6.20465
+thetaAdd: 5.86431
+theta: 5.78577
+r: 12
+节点序号：2321
+thetaIni: 0
+thetaAdd: 6.07375
+theta: 6.07375
+r: 12
+节点序号：2322
+thetaIni: 0.0785398
+thetaAdd: 6.07375
+theta: 6.15229
+r: 12
+节点序号：2323
+thetaIni: 0.15708
+thetaAdd: 6.07375
+theta: 6.23083
+r: 12
+节点序号：2324
+thetaIni: 0.235619
+thetaAdd: 6.07375
+theta: 0.0261799
+r: 12
+节点序号：2325
+thetaIni: 0.314159
+thetaAdd: 6.07375
+theta: 0.10472
+r: 12
+节点序号：2326
+thetaIni: 0.392699
+thetaAdd: 6.07375
+theta: 0.18326
+r: 12
+节点序号：2327
+thetaIni: 0.471239
+thetaAdd: 6.07375
+theta: 0.261799
+r: 12
+节点序号：2328
+thetaIni: 0.549779
+thetaAdd: 6.07375
+theta: 0.340339
+r: 12
+节点序号：2329
+thetaIni: 0.628319
+thetaAdd: 6.07375
+theta: 0.418879
+r: 11.9874
+节点序号：2330
+thetaIni: 0.706858
+thetaAdd: 6.07375
+theta: 0.497419
+r: 11.9495
+节点序号：2331
+thetaIni: 0.785398
+thetaAdd: 6.07375
+theta: 0.575959
+r: 11.9116
+节点序号：2332
+thetaIni: 0.863938
+thetaAdd: 6.07375
+theta: 0.654498
+r: 11.8737
+节点序号：2333
+thetaIni: 0.942478
+thetaAdd: 6.07375
+theta: 0.733038
+r: 11.8358
+节点序号：2334
+thetaIni: 1.02102
+thetaAdd: 6.07375
+theta: 0.811578
+r: 11.7979
+节点序号：2335
+thetaIni: 1.09956
+thetaAdd: 6.07375
+theta: 0.890118
+r: 11.76
+节点序号：2336
+thetaIni: 1.1781
+thetaAdd: 6.07375
+theta: 0.968658
+r: 11.7222
+节点序号：2337
+thetaIni: 1.25664
+thetaAdd: 6.07375
+theta: 1.0472
+r: 11.6843
+节点序号：2338
+thetaIni: 1.33518
+thetaAdd: 6.07375
+theta: 1.12574
+r: 11.6464
+节点序号：2339
+thetaIni: 1.41372
+thetaAdd: 6.07375
+theta: 1.20428
+r: 11.6085
+节点序号：2340
+thetaIni: 1.49226
+thetaAdd: 6.07375
+theta: 1.28282
+r: 11.5706
+节点序号：2341
+thetaIni: 1.5708
+thetaAdd: 6.07375
+theta: 1.36136
+r: 11.5327
+节点序号：2342
+thetaIni: 1.64934
+thetaAdd: 6.07375
+theta: 1.4399
+r: 11.4948
+节点序号：2343
+thetaIni: 1.72788
+thetaAdd: 6.07375
+theta: 1.51844
+r: 11.4569
+节点序号：2344
+thetaIni: 1.80642
+thetaAdd: 6.07375
+theta: 1.59698
+r: 11.419
+节点序号：2345
+thetaIni: 1.88496
+thetaAdd: 6.07375
+theta: 1.67552
+r: 11.3812
+节点序号：2346
+thetaIni: 1.9635
+thetaAdd: 6.07375
+theta: 1.75406
+r: 11.3433
+节点序号：2347
+thetaIni: 2.04204
+thetaAdd: 6.07375
+theta: 1.8326
+r: 11.3054
+节点序号：2348
+thetaIni: 2.12058
+thetaAdd: 6.07375
+theta: 1.91114
+r: 11.2675
+节点序号：2349
+thetaIni: 2.19911
+thetaAdd: 6.07375
+theta: 1.98968
+r: 11.2296
+节点序号：2350
+thetaIni: 2.27765
+thetaAdd: 6.07375
+theta: 2.06822
+r: 11.1917
+节点序号：2351
+thetaIni: 2.35619
+thetaAdd: 6.07375
+theta: 2.14675
+r: 11.1538
+节点序号：2352
+thetaIni: 2.43473
+thetaAdd: 6.07375
+theta: 2.22529
+r: 11.1159
+节点序号：2353
+thetaIni: 2.51327
+thetaAdd: 6.07375
+theta: 2.30383
+r: 11.078
+节点序号：2354
+thetaIni: 2.59181
+thetaAdd: 6.07375
+theta: 2.38237
+r: 11.0402
+节点序号：2355
+thetaIni: 2.67035
+thetaAdd: 6.07375
+theta: 2.46091
+r: 12.3292
+节点序号：2356
+thetaIni: 2.74889
+thetaAdd: 6.07375
+theta: 2.53945
+r: 12.3013
+节点序号：2357
+thetaIni: 2.82743
+thetaAdd: 6.07375
+theta: 2.61799
+r: 12.2804
+节点序号：2358
+thetaIni: 2.90597
+thetaAdd: 6.07375
+theta: 2.69653
+r: 12.2642
+节点序号：2359
+thetaIni: 2.98451
+thetaAdd: 6.07375
+theta: 2.77507
+r: 12.2517
+节点序号：2360
+thetaIni: 3.06305
+thetaAdd: 6.07375
+theta: 2.85361
+r: 12.2421
+节点序号：2361
+thetaIni: 3.14159
+thetaAdd: 6.07375
+theta: 2.93215
+r: 12.2351
+节点序号：2362
+thetaIni: 3.22013
+thetaAdd: 6.07375
+theta: 3.01069
+r: 12.2304
+节点序号：2363
+thetaIni: 3.29867
+thetaAdd: 6.07375
+theta: 3.08923
+r: 12.228
+节点序号：2364
+thetaIni: 3.37721
+thetaAdd: 6.07375
+theta: 3.16777
+r: 12.2276
+节点序号：2365
+thetaIni: 3.45575
+thetaAdd: 6.07375
+theta: 3.24631
+r: 12.2294
+节点序号：2366
+thetaIni: 3.53429
+thetaAdd: 6.07375
+theta: 3.32485
+r: 12.2333
+节点序号：2367
+thetaIni: 3.61283
+thetaAdd: 6.07375
+theta: 3.40339
+r: 12.2395
+节点序号：2368
+thetaIni: 3.69137
+thetaAdd: 6.07375
+theta: 3.48193
+r: 12.2482
+节点序号：2369
+thetaIni: 3.76991
+thetaAdd: 6.07375
+theta: 3.56047
+r: 12.2597
+节点序号：2370
+thetaIni: 3.84845
+thetaAdd: 6.07375
+theta: 3.63901
+r: 12.2745
+节点序号：2371
+thetaIni: 3.92699
+thetaAdd: 6.07375
+theta: 3.71755
+r: 12.2937
+节点序号：2372
+thetaIni: 4.00553
+thetaAdd: 6.07375
+theta: 3.79609
+r: 12.3189
+节点序号：2373
+thetaIni: 4.08407
+thetaAdd: 6.07375
+theta: 3.87463
+r: 12
+节点序号：2374
+thetaIni: 4.16261
+thetaAdd: 6.07375
+theta: 3.95317
+r: 12
+节点序号：2375
+thetaIni: 4.24115
+thetaAdd: 6.07375
+theta: 4.03171
+r: 12
+节点序号：2376
+thetaIni: 4.31969
+thetaAdd: 6.07375
+theta: 4.11025
+r: 12
+节点序号：2377
+thetaIni: 4.39823
+thetaAdd: 6.07375
+theta: 4.18879
+r: 12
+节点序号：2378
+thetaIni: 4.47677
+thetaAdd: 6.07375
+theta: 4.26733
+r: 12
+节点序号：2379
+thetaIni: 4.55531
+thetaAdd: 6.07375
+theta: 4.34587
+r: 12
+节点序号：2380
+thetaIni: 4.63385
+thetaAdd: 6.07375
+theta: 4.42441
+r: 12
+节点序号：2381
+thetaIni: 4.71239
+thetaAdd: 6.07375
+theta: 4.50295
+r: 12
+节点序号：2382
+thetaIni: 4.79093
+thetaAdd: 6.07375
+theta: 4.58149
+r: 12
+节点序号：2383
+thetaIni: 4.86947
+thetaAdd: 6.07375
+theta: 4.66003
+r: 12
+节点序号：2384
+thetaIni: 4.94801
+thetaAdd: 6.07375
+theta: 4.73857
+r: 12
+节点序号：2385
+thetaIni: 5.02655
+thetaAdd: 6.07375
+theta: 4.81711
+r: 12
+节点序号：2386
+thetaIni: 5.10509
+thetaAdd: 6.07375
+theta: 4.89565
+r: 12
+节点序号：2387
+thetaIni: 5.18363
+thetaAdd: 6.07375
+theta: 4.97419
+r: 12
+节点序号：2388
+thetaIni: 5.26217
+thetaAdd: 6.07375
+theta: 5.05273
+r: 12
+节点序号：2389
+thetaIni: 5.34071
+thetaAdd: 6.07375
+theta: 5.13127
+r: 12
+节点序号：2390
+thetaIni: 5.41925
+thetaAdd: 6.07375
+theta: 5.20981
+r: 12
+节点序号：2391
+thetaIni: 5.49779
+thetaAdd: 6.07375
+theta: 5.28835
+r: 12
+节点序号：2392
+thetaIni: 5.57633
+thetaAdd: 6.07375
+theta: 5.36689
+r: 12
+节点序号：2393
+thetaIni: 5.65487
+thetaAdd: 6.07375
+theta: 5.44543
+r: 12
+节点序号：2394
+thetaIni: 5.73341
+thetaAdd: 6.07375
+theta: 5.52397
+r: 12
+节点序号：2395
+thetaIni: 5.81195
+thetaAdd: 6.07375
+theta: 5.60251
+r: 12
+节点序号：2396
+thetaIni: 5.89049
+thetaAdd: 6.07375
+theta: 5.68105
+r: 12
+节点序号：2397
+thetaIni: 5.96903
+thetaAdd: 6.07375
+theta: 5.75959
+r: 12
+节点序号：2398
+thetaIni: 6.04757
+thetaAdd: 6.07375
+theta: 5.83813
+r: 12
+节点序号：2399
+thetaIni: 6.12611
+thetaAdd: 6.07375
+theta: 5.91667
+r: 12
+节点序号：2400
+thetaIni: 6.20465
+thetaAdd: 6.07375
+theta: 5.99521
+r: 12
