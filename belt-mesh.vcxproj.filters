@@ -13,17 +13,8 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
     </Filter>
-    <Filter Include="Header Files\Base.Point">
-      <UniqueIdentifier>{d329425e-86b9-4559-9e9a-52a2bb4ed620}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Header Files\Base.Mesh">
       <UniqueIdentifier>{ee0da098-17ab-486f-aeab-c19d76d2276b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Base.Point\主模块接口">
-      <UniqueIdentifier>{c7f1c4b5-9e31-4eeb-9af5-71b53ab3eeaa}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Base.Point\子模块">
-      <UniqueIdentifier>{c5f169f9-a6fa-459e-ac54-03fa909aa11f}</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files\Base.Mesh\主模块接口">
       <UniqueIdentifier>{c115146c-51a7-4f54-a768-f17fb63651f8}</UniqueIdentifier>
@@ -40,11 +31,17 @@
     <Filter Include="Header Files\Base.Math">
       <UniqueIdentifier>{bf593780-5b16-428d-a755-4d8dc163a4df}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Header Files\Base.Math\sub">
-      <UniqueIdentifier>{7a71259c-eee1-4599-8990-1d061fffd11c}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Base.Math">
       <UniqueIdentifier>{1eccb27d-1227-441d-8006-d58818b19f70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Base.Point">
+      <UniqueIdentifier>{bd8cc1d1-de07-4e2b-a5b9-3f641adbe9b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Base.Point\主模块接口">
+      <UniqueIdentifier>{c7f1c4b5-9e31-4eeb-9af5-71b53ab3eeaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Base.Point\子模块">
+      <UniqueIdentifier>{c5f169f9-a6fa-459e-ac54-03fa909aa11f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -104,6 +101,18 @@
     </ClCompile>
     <ClCompile Include="Base.Mesh-Inter.ixx">
       <Filter>Header Files\Base.Mesh\子模块</Filter>
+    </ClCompile>
+    <ClCompile Include="Base.Mesh-Element.ixx">
+      <Filter>Header Files\Base.Mesh\子模块</Filter>
+    </ClCompile>
+    <ClCompile Include="Base.Type.ixx">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Base.Point-Vertixs3D.ixx">
+      <Filter>Header Files\Base.Point\子模块</Filter>
+    </ClCompile>
+    <ClCompile Include="Base.Point-Concept.ixx">
+      <Filter>Header Files\Base.Point\子模块</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

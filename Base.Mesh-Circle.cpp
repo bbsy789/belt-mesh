@@ -7,11 +7,11 @@ module;
 module Base.Mesh:Circle;
 
 import Base.Point;
+import Base.Type;
 
-
-int GenerateCircleMesh(std::vector<Point2D>& p_circleMeshVertixs, CircleMesh& p_circleMesh, int p_beginIndex)
+index_t GenerateCircleMesh(std::vector<Point2D>& p_circleMeshVertixs, CircleMesh& p_circleMesh, index_t p_beginIndex)
 {
-	int Index = p_beginIndex; 
+	index_t Index = p_beginIndex; 
 	double thetaIncrement = 2 * M_PI / p_circleMesh.rNumber;
 	for (int i = 0; i < p_circleMesh.rNumber; ++i)
 	{

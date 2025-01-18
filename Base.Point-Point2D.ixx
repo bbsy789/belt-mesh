@@ -1,9 +1,11 @@
 export module Base.Point:Point2D;
 
+import Base.Type;
+
 // 2Dµã
 export struct Point2D
 {
-    int index;
+    index_t index;
     double x;
     double y;
 };

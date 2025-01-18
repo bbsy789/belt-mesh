@@ -135,6 +135,8 @@
     <ClCompile Include="Base.Mesh-Print.cpp" />
     <ClCompile Include="Base.Mesh-ScrewThread.cpp" />
     <ClCompile Include="Base.Mesh-ScrewThread.ixx" />
+    <ClCompile Include="Base.Mesh-Element.ixx" />
+    <ClCompile Include="Base.Point-Concept.ixx" />
     <ClCompile Include="Base.Point-Point2D.cpp" />
     <ClCompile Include="Base.Point-Point2D.ixx" />
     <ClCompile Include="Base.Point-Point3D.cpp" />
@@ -142,7 +144,9 @@
     <ClCompile Include="Base.Mesh.ixx" />
     <ClCompile Include="Base.Mesh-Print.ixx" />
     <ClCompile Include="Base.Point.ixx" />
+    <ClCompile Include="Base.Type.ixx" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Base.Point-Vertixs3D.ixx" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="wiki.txt" />
