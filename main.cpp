@@ -17,26 +17,15 @@ int main()
     constexpr index_t radialNumber = 5;
   
     // 根据给定螺纹参数生成螺纹节点
-    std::vector<Vertixs3D> screwThreadMeshVertixs;
+    std::vector<Vertixs3D> Vertixs;
     ScrewThreadMesh screwThreadMesh{r_exter,origin,origin + P,rNumber,axisNumber,P};
-    //Generate90DegreeScrewThreadMesh(screwThreadMeshVertixs,screwThreadMesh);
-    index_t GBScrewEndIndex = GenerateGBScrewThreadMesh(screwThreadMeshVertixs, screwThreadMesh);
-    //std::cout << "ScrewThread:\n";
-    // for(auto &i:vertixs3D)
-    // {
-    //     std::cout << "index:" << i.index << "\nx = " << i.x << ",y = " << i.y << ",z = " << i.z << "\n";
-    // }
-    PrintVertixs3D(screwThreadMeshVertixs,"table");
+    index_t GBScrewEndIndex = GenerateGBScrewThreadMesh(Vertixs, screwThreadMesh);
 
-    std::vector<Vertixs3D> interMeshVertixs;
     InterMesh interMesh{ r_exter,r_inter,origin,origin + P,P,rNumber,axisNumber,radialNumber};
-    index_t InterEndIndex = GenerateInterMeshVertixs(interMeshVertixs, interMesh, GBScrewEndIndex);
-    PrintVertixs3D(interMeshVertixs,"table");
-    //创建内圈节点
-    //constexpr double r_dist = r_exter;
-    //std::vector<Point3D> interCylinerVertixs;
-    //CylinderMesh interCylinderMesh{ r_inter,origin,origin + P,rNumber,axisNumber};
-    //GenerateCylinderMesh(interCylinerVertixs, interCylinderMesh, InterEndIndex);
-    //Print3D(interCylinerVertixs,"table");
+    index_t InterEndIndex = GenerateInterMeshVertixs(Vertixs, interMesh, GBScrewEndIndex);
+    PrintVertixs3D(Vertixs,"apdl");
+    std::vector<C3D8> elements;
+    GenerateElements(Vertixs, interMesh,elements);
+    PrintElements(elements,"apdl");
     return 0;
 }

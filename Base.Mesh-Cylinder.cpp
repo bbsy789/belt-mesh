@@ -9,8 +9,7 @@ module Base.Mesh:Cylinder;
 import Base.Point;
 import Base.Type;
 
-template<IsPoint3D T>
-inline index_t GenerateCylinderMesh(std::vector<T>& p_cylinderMeshVertixs,
+inline index_t GenerateCylinderMesh(std::vector<Point3D>& p_cylinderMeshVertixs,
                          CylinderMesh& p_cylinderMesh,
                          index_t p_beginIndex)
 {
@@ -34,8 +33,7 @@ inline index_t GenerateCylinderMesh(std::vector<T>& p_cylinderMeshVertixs,
     return Index;
 };
 
-template<IsVertixs3D T>
-inline index_t GenerateCylinderMesh(std::vector<T>& p_cylinderMeshVertixs,
+inline index_t GenerateCylinderMesh(std::vector<Vertixs3D>& p_cylinderMeshVertixs,
     CylinderMesh& p_cylinderMesh,
     index_t p_beginIndex)
 {

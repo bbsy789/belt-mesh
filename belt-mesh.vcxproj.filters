@@ -111,8 +111,8 @@
     <ClCompile Include="Base.Point-Vertixs3D.ixx">
       <Filter>Header Files\Base.Point\子模块</Filter>
     </ClCompile>
-    <ClCompile Include="Base.Point-Concept.ixx">
-      <Filter>Header Files\Base.Point\子模块</Filter>
+    <ClCompile Include="Base.Mesh-Element.cpp">
+      <Filter>Source Files\Base.Mesh</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

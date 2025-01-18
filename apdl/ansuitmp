@@ -1,0 +1,8 @@
+_z1=etyiqr(0,14)
+keyw,axissect,0
+*do,_z2,1,_z1,1
+_ztyp=etyiqr(_z2,-2)
+*if,_ztyp,eq,272,or,_ztyp,eq,273,then
+keyw,axissect,1
+*endif
+*enddo

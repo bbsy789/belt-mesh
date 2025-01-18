@@ -130,13 +130,13 @@
     <ClCompile Include="Base.Mesh-Circle.ixx" />
     <ClCompile Include="Base.Mesh-Cylinder.cpp" />
     <ClCompile Include="Base.Mesh-Cylinder.ixx" />
+    <ClCompile Include="Base.Mesh-Element.cpp" />
     <ClCompile Include="Base.Mesh-Inter.cpp" />
     <ClCompile Include="Base.Mesh-Inter.ixx" />
     <ClCompile Include="Base.Mesh-Print.cpp" />
     <ClCompile Include="Base.Mesh-ScrewThread.cpp" />
     <ClCompile Include="Base.Mesh-ScrewThread.ixx" />
     <ClCompile Include="Base.Mesh-Element.ixx" />
-    <ClCompile Include="Base.Point-Concept.ixx" />
     <ClCompile Include="Base.Point-Point2D.cpp" />
     <ClCompile Include="Base.Point-Point2D.ixx" />
     <ClCompile Include="Base.Point-Point3D.cpp" />

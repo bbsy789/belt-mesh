@@ -1,0 +1,65 @@
+/COM,ANSYS RELEASE 2025 R1           BUILD 25.1      UP20241202       22:37:00
+
+ *** ERROR ***                           CP =       0.984   TIME= 22:46:26
+ This function requires selected nodes.                                  
+  No nodes are currently selected.                                       
+
+ *** ERROR ***                           CP =       1.266   TIME= 22:47:58
+ Brick element 1 has an aspect ratio of 1.E+20, which exceeds the error  
+ limit of 1000000.                                                       
+
+ *** ERROR ***                           CP =       1.359   TIME= 22:48:05
+ Brick element 1 has a pair of opposite edges that are 180 degrees away  
+ from being parallel.  This exceeds the error limit of 150 degrees.      
+
+ *** WARNING ***                         CP =       1.422   TIME= 22:48:06
+ Brick element 1 has a face with a warping factor of 0.3689, which       
+ exceeds the warning limit of 0.2.                                       
+
+ *** ERROR ***                           CP =       1.422   TIME= 22:48:06
+ Brick element 1 has a zero or negative determinant of the Jacobian      
+ matrix at one of its sampling locations.                                
+
+ *** ERROR ***                           CP =       1.438   TIME= 22:48:07
+ The EN command cannot store element 1, because of an element shape      
+ error.                                                                  
+
+ *** WARNING ***                         CP =       2.094   TIME= 22:53:22
+ Brick element 10 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
+
+ *** WARNING ***                         CP =       2.109   TIME= 22:53:22
+ Brick element 19 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
+
+ *** WARNING ***                         CP =       2.125   TIME= 22:53:22
+ Brick element 28 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
+
+ *** WARNING ***                         CP =       2.156   TIME= 22:53:22
+ Brick element 37 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
+
+ *** WARNING ***                         CP =       2.188   TIME= 22:53:22
+ Brick element 46 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
+
+ *** WARNING ***                         CP =       2.188   TIME= 22:53:22
+ Brick element 55 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
+
+ *** WARNING ***                         CP =       2.188   TIME= 22:53:22
+ Brick element 64 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
+
+ *** WARNING ***                         CP =       2.188   TIME= 22:53:22
+ Brick element 73 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
+
+ *** WARNING ***                         CP =       2.188   TIME= 22:53:22
+ Brick element 82 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
+
+ *** WARNING ***                         CP =       2.188   TIME= 22:53:23
+ Brick element 91 has an aspect ratio of 20.99, which exceeds the        
+ warning limit of 20.                                                    
